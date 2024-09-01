@@ -1,0 +1,90 @@
+Product ID,Product Name,Price,Reviews Count,Average Rating,Competitor Price,Description Length (words)
+101,Wireless Mouse,29.99,1500,4.5,27.99,50
+102,Bluetooth Headphones,89.99,800,4.7,85.99,70
+103,4K Smart TV,499.99,3000,4.3,479.99,120
+104,Office Chair,199.99,450,4.6,189.99,60
+105,Coffee Maker,59.99,1200,4.4,55.99,40
+106,Smartphone Charger,19.99,2000,4.2,18.99,30
+107,Portable Speaker,79.99,600,4.5,75.99,55
+108,Smartwatch,149.99,900,4.6,145.99,65
+109,Digital Camera,299.99,1500,4.4,289.99,85
+110,Electric Kettle,34.99,1300,4.3,32.99,45
+111,Webcam,49.99,1100,4.5,47.99,40
+112,Tablet,249.99,1700,4.2,239.99,80
+113,Desk Lamp,29.99,800,4.6,27.99,35
+114,Wireless Keyboard,39.99,1000,4.3,37.99,50
+115,Smart Home Hub,89.99,600,4.4,85.99,60
+116,Gaming Mouse,69.99,950,4.5,65.99,55
+117,Action Camera,199.99,1200,4.6,190.99,75
+118,Headphone Stand,14.99,500,4.2,13.99,25
+119,External Hard Drive,109.99,1100,4.3,105.99,60
+120,Blender,79.99,700,4.4,75.99,50
+121,Kitchen Scale,25.99,600,4.1,23.99,30
+122,Electric Toothbrush,59.99,1300,4.5,57.99,45
+123,Fitness Tracker,119.99,800,4.6,115.99,55
+124,Home Security Camera,149.99,950,4.4,145.99,65
+125,Air Fryer,149.99,1000,4.3,144.99,70
+126,Food Processor,199.99,1100,4.5,195.99,80
+127,Noise-Canceling Headphones,199.99,700,4.6,195.99,75
+128,Smart Thermostat,129.99,850,4.4,125.99,60
+129,Electric Screwdriver,39.99,400,4.2,37.99,35
+130,Portable Battery Pack,29.99,900,4.3,27.99,50
+131,Robot Vacuum,299.99,600,4.5,289.99,85
+132,Standing Desk,349.99,450,4.6,339.99,70
+133,Home Theater System,499.99,800,4.3,489.99,100
+134,Smart Light Bulbs,39.99,1100,4.4,37.99,40
+135,Camera Lens,249.99,900,4.5,239.99,80
+136,Electric Shaver,69.99,700,4.2,65.99,45
+137,Portable Air Conditioner,199.99,550,4.4,189.99,90
+138,Digital Picture Frame,129.99,800,4.3,124.99,65
+139,Wireless Earbuds,89.99,1500,4.6,85.99,50
+140,Food Storage Containers,25.99,1200,4.4,23.99,40
+141,Smart Doorbell,149.99,900,4.5,145.99,55
+142,Electric Blanket,99.99,700,4.2,95.99,70
+143,Kitchen Mixer,179.99,600,4.3,175.99,75
+144,High-Speed Blender,139.99,800,4.6,135.99,60
+145,Mini Fridge,199.99,500,4.4,189.99,85
+146,Hair Dryer,59.99,1300,4.5,57.99,40
+147,Digital Thermometer,19.99,800,4.3,18.99,25
+148,Smart Scale,49.99,700,4.2,47.99,30
+149,Indoor Grill,149.99,600,4.4,145.99,55
+150,Digital Radio,89.99,650,4.3,85.99,40
+151,Automatic Pet Feeder,99.99,500,4.4,95.99,50
+152,Electric Pressure Cooker,139.99,700,4.6,135.99,65
+153,Digital Kitchen Timer,14.99,400,4.2,13.99,20
+154,Portable Heater,89.99,550,4.3,85.99,45
+155,Home Gym Equipment,299.99,600,4.5,289.99,90
+156,Smart Lock,179.99,550,4.4,175.99,60
+157,Electric Wine Opener,29.99,800,4.3,27.99,30
+158,Multi-Cooker,149.99,650,4.5,145.99,65
+159,Portable Projector,199.99,700,4.4,195.99,70
+160,Electric Air Pump,39.99,400,4.2,37.99,35
+161,Digital Drawing Tablet,119.99,600,4.6,115.99,55
+162,Wireless Charger,29.99,1000,4.3,27.99,40
+163,Smart Mirror,299.99,450,4.5,289.99,75
+164,Outdoor Grill,349.99,550,4.4,339.99,85
+165,Compact Refrigerator,179.99,500,4.3,169.99,60
+166,Electric Toothbrush Replacement Heads,19.99,900,4.2,18.99,20
+167,Digital Humidifier,89.99,650,4.4,85.99,45
+168,Smart Water Bottle,39.99,800,4.3,37.99,30
+169,Portable Fridge Freezer,229.99,550,4.5,219.99,85
+170,Digital Meat Thermometer,29.99,700,4.4,27.99,25
+171,Compact Air Purifier,119.99,600,4.3,115.99,60
+172,Smart Light Switch,49.99,500,4.2,47.99,30
+173,Wireless Security System,199.99,700,4.6,190.99,70
+174,Electric Can Opener,24.99,800,4.3,22.99,35
+175,Outdoor Speakers,149.99,600,4.5,145.99,55
+176,Smart Garage Door Opener,129.99,550,4.4,125.99,65
+177,Portable Air Purifier,89.99,400,4.2,85.99,45
+178,Digital Photo Printer,149.99,500,4.4,145.99,70
+179,Wireless Headphone Charger,39.99,600,4.3,37.99,35
+180,Compact Electric Grill,99.99,700,4.5,95.99,60
+181,Smart Thermostat with Voice Control,159.99,600,4.6,155.99,65
+182,Electric Shaver with Trimmer,79.99,800,4.3,75.99,50
+183,Portable Solar Charger,59.99,700,4.4,57.99,40
+184,Digital Meat Grinder,149.99,600,4.5,145.99,55
+185,Smart Air Quality Monitor,129.99,550,4.4,125.99,60
+186,Electric Coffee Grinder,39.99,800,4.3,37.99,30
+187,Compact Smart Speaker,89.99,900,4.5,85.99,40
+188,Smart Kitchen Faucet,179.99,500,4.3,175.99,55
+189,Digital Weather Station,119.99,600,4.2,115.99,60
