@@ -1,201 +1,201 @@
 TicketID,Category,TicketText
-1,Password Reset,I can't log in to my account. Please help me reset my password.
-2,Order Status,Where is my order #4321? It's delayed.
-3,Refund Request,I want to return my item and get a refund.
-4,Technical Issue,The app keeps crashing when I try to open it.
-5,Account Deletion,Please delete my account permanently.
-6,Password Reset,Forgot my password. Need a reset link.
-7,Order Status,My package hasn't arrived yet. Tracking ID 8765 shows no updates.
-8,Refund Request,The product I received is defective. I need a refund.
-9,Technical Issue,Having trouble uploading documents through the portal.
-10,Account Deletion,I no longer want to use this service. How can I remove my data?
-11,Password Reset,Getting incorrect password error, even after trying multiple times.
-12,Order Status,Order #5698 was supposed to be delivered yesterday. What's going on?
-13,Refund Request,Requesting a refund for order #2345. The item wasn't as described.
-14,Technical Issue,Website is showing a 500 error. Please fix it.
-15,Account Deletion,Want to close my account and erase all personal information.
-16,Password Reset,I forgot my password and cannot access my account.
-17,Order Status,Can you provide an update on order #9876 delivery?
-18,Refund Request,How do I get a refund for the wrong product I received?
-19,Technical Issue,App crashes every time I try to upload a photo.
-20,Account Deletion,Please remove all my personal info and delete my account.
-21,Password Reset,Password reset email not received, please resend.
-22,Order Status,Is my order #3456 shipped yet?
-23,Refund Request,I want to cancel my order and get a full refund.
-24,Technical Issue,Unable to login after app update.
-25,Account Deletion,Instructions on how to delete my account permanently?
-26,Password Reset,Can’t reset password, link expired.
-27,Order Status,My order #7654 is late, tracking hasn't updated in days.
-28,Refund Request,Received damaged product, requesting refund.
-29,Technical Issue,Error 404 when accessing account page.
-30,Account Deletion,How to delete my profile and data?
-31,Password Reset,Reset link not working.
-32,Order Status,Where is my order #1122?
-33,Refund Request,Item arrived late, can I get a refund?
-34,Technical Issue,App freezes when logging in.
-35,Account Deletion,Please close my account and remove my data.
-36,Password Reset,I can’t remember my password, help.
-37,Order Status,Status of my order #3344?
-38,Refund Request,Returned product but no refund received.
-39,Technical Issue,Error message when uploading files.
-40,Account Deletion,Want my account deleted immediately.
-41,Password Reset,Need help resetting password.
-42,Order Status,Order #5566 delayed, please update.
-43,Refund Request,Wrong item sent, need refund.
-44,Technical Issue,App crashes on startup.
-45,Account Deletion,Delete my account ASAP.
-46,Password Reset,Password reset email not arriving.
-47,Order Status,When will order #7788 arrive?
-48,Refund Request,Product faulty, requesting refund.
-49,Technical Issue,Website slow and sometimes times out.
-50,Account Deletion,How to permanently delete account?
-51,Password Reset,Can't change password.
-52,Order Status,Tracking info missing for order #9911.
-53,Refund Request,Received incorrect product, want refund.
-54,Technical Issue,Unable to update profile info.
-55,Account Deletion,Remove my data from your system.
-56,Password Reset,Password reset code expired.
-57,Order Status,Order #2233 stuck in shipping.
-58,Refund Request,Refund not processed after return.
-59,Technical Issue,Login button not working.
-60,Account Deletion,Close my account please.
-61,Password Reset,Forgot password, need help.
-62,Order Status,Order #4455 delayed shipment.
-63,Refund Request,Want refund for defective item.
-64,Technical Issue,App not loading properly.
-65,Account Deletion,I want to delete my account.
-66,Password Reset,Can't receive password reset email.
-67,Order Status,Status update for order #6677.
-68,Refund Request,Item damaged, request refund.
-69,Technical Issue,Error when submitting form.
-70,Account Deletion,Delete my account now.
-71,Password Reset,Need password reset assistance.
-72,Order Status,Order #8899 delivery delayed.
-73,Refund Request,Received wrong size, want refund.
-74,Technical Issue,Website crashes on login.
-75,Account Deletion,Instructions to delete account.
-76,Password Reset,Reset link expired, need new one.
-77,Order Status,Where is order #1010?
-78,Refund Request,Product defective, requesting refund.
-79,Technical Issue,App freezes on upload.
-80,Account Deletion,Please delete all my info.
-81,Password Reset,Cannot reset password.
-82,Order Status,Order #1212 delayed, any update?
-83,Refund Request,Want refund for wrong product.
-84,Technical Issue,Error 500 on website.
-85,Account Deletion,Remove my account data.
-86,Password Reset,Help resetting password.
-87,Order Status,When will order #1414 arrive?
-88,Refund Request,Returned item but no refund.
-89,Technical Issue,App crashes when opening.
-90,Account Deletion,Delete my profile please.
-91,Password Reset,Password reset email not received.
-92,Order Status,Tracking missing for order #1616.
-93,Refund Request,Requesting refund for damaged item.
-94,Technical Issue,Login issues on app.
-95,Account Deletion,I want to remove my account.
-96,Password Reset,Forgot password, need reset.
-97,Order Status,Order #1818 delayed shipment.
-98,Refund Request,Wrong product sent, want refund.
-99,Technical Issue,Error message on profile update.
-100,Account Deletion,Please close my account.
-101,Password Reset,Password reset link expired.
-102,Order Status,Where is order #2020?
-103,Refund Request,Requesting refund for faulty product.
-104,Technical Issue,App not responding.
-105,Account Deletion,Delete my data and account.
-106,Password Reset,Cannot reset password, link broken.
-107,Order Status,Order #2121 late delivery.
-108,Refund Request,Refund not received after return.
-109,Technical Issue,Website timeout errors.
-110,Account Deletion,Want to delete account permanently.
-111,Password Reset,Need help with password reset.
-112,Order Status,When will order #2323 arrive?
-113,Refund Request,Received damaged item, want refund.
-114,Technical Issue,App crashes after update.
-115,Account Deletion,Please delete all my information.
-116,Password Reset,Reset email not received.
-117,Order Status,Order #2424 tracking delayed.
-118,Refund Request,Returned product, no refund yet.
-119,Technical Issue,Error on file upload.
-120,Account Deletion,Remove my profile data.
-121,Password Reset,Can't change my password.
-122,Order Status,Order #2525 stuck in transit.
-123,Refund Request,Want refund for wrong size.
-124,Technical Issue,Login button not responsive.
-125,Account Deletion,Delete my account immediately.
-126,Password Reset,Forgot password assistance.
-127,Order Status,Status update for order #2626?
-128,Refund Request,Product defective, request refund.
-129,Technical Issue,Website slow loading.
-130,Account Deletion,Delete my data permanently.
-131,Password Reset,Password reset code expired.
-132,Order Status,Where is my order #2727?
-133,Refund Request,Refund requested for faulty item.
-134,Technical Issue,App freezing during login.
-135,Account Deletion,Please delete my profile.
-136,Password Reset,Need to reset password urgently.
-137,Order Status,Order #2828 delayed.
-138,Refund Request,Received wrong item, want refund.
-139,Technical Issue,Error when uploading files.
-140,Account Deletion,Close my account ASAP.
-141,Password Reset,Cannot get reset email.
-142,Order Status,When will order #2929 arrive?
-143,Refund Request,Returned product, no refund.
-144,Technical Issue,App crashes randomly.
-145,Account Deletion,Delete my account data.
-146,Password Reset,Help with password reset link.
-147,Order Status,Tracking info missing for order #3030.
-148,Refund Request,Requesting refund for damaged product.
-149,Technical Issue,Login issues with website.
-150,Account Deletion,Want to delete account now.
-151,Password Reset,Forgot my password.
-152,Order Status,Order #3131 late shipment.
-153,Refund Request,Wrong product sent, refund requested.
-154,Technical Issue,App not loading properly.
-155,Account Deletion,Delete my data and account.
-156,Password Reset,Password reset link expired.
-157,Order Status,Where is order #3232?
-158,Refund Request,Refund requested for broken item.
-159,Technical Issue,Error 404 on profile page.
-160,Account Deletion,Please delete my profile data.
-161,Password Reset,Can't reset password.
-162,Order Status,Order #3333 delayed shipment.
-163,Refund Request,Product defective, want refund.
-164,Technical Issue,Website crashes during login.
-165,Account Deletion,Delete my account ASAP.
-166,Password Reset,Need help resetting password.
-167,Order Status,When will order #3434 arrive?
-168,Refund Request,Returned item, refund not received.
-169,Technical Issue,App crashes on startup.
-170,Account Deletion,Close my account immediately.
-171,Password Reset,Reset email not received.
-172,Order Status,Order #3535 delayed.
-173,Refund Request,Requesting refund for wrong product.
-174,Technical Issue,Error message during upload.
-175,Account Deletion,Delete my data please.
-176,Password Reset,Password reset not working.
-177,Order Status,Where is order #3636?
-178,Refund Request,Refund not processed after return.
-179,Technical Issue,Login button not working.
-180,Account Deletion,Want to delete my account.
-181,Password Reset,Forgot password, need help.
-182,Order Status,Order #3737 delayed shipment.
-183,Refund Request,Wrong item received, want refund.
-184,Technical Issue,App freezes on login.
-185,Account Deletion,Delete my profile and data.
-186,Password Reset,Need password reset link.
-187,Order Status,Tracking info missing for order #3838.
-188,Refund Request,Refund requested for defective product.
-189,Technical Issue,Website slow and unresponsive.
-190,Account Deletion,Close my account permanently.
-191,Password Reset,Password reset email expired.
-192,Order Status,When will order #3939 arrive?
-193,Refund Request,Returned product, no refund received.
-194,Technical Issue,App crashes when opening.
-195,Account Deletion,Please remove my account.
-196,Password Reset,Reset link not working.
-197,Order Status,Order #4040 delayed.
-198,Refund Request,Requesting refund for broken item.
-199,Technical Issue,Error 500 on website.
-200,Account Deletion,Delete my account now.
+1,Password Reset,"I can't log in to my account. Please help me reset my password."
+2,Order Status,"Where is my order #4321? It's delayed."
+3,Refund Request,"I want to return my item and get a refund."
+4,Technical Issue,"The app keeps crashing when I try to open it."
+5,Account Deletion,"Please delete my account permanently."
+6,Password Reset,"Forgot my password. Need a reset link."
+7,Order Status,"My package hasn't arrived yet. Tracking ID 8765 shows no updates."
+8,Refund Request,"The product I received is defective. I need a refund."
+9,Technical Issue,"Having trouble uploading documents through the portal."
+10,Account Deletion,"I no longer want to use this service. How can I remove my data?"
+11,Password Reset,"Getting incorrect password error, even after trying multiple times."
+12,Order Status,"Order #5698 was supposed to be delivered yesterday. What's going on?"
+13,Refund Request,"Requesting a refund for order #2345. The item wasn't as described."
+14,Technical Issue,"Website is showing a 500 error. Please fix it."
+15,Account Deletion,"Want to close my account and erase all personal information."
+16,Password Reset,"I forgot my password and cannot access my account."
+17,Order Status,"Can you provide an update on order #9876 delivery?"
+18,Refund Request,"How do I get a refund for the wrong product I received?"
+19,Technical Issue,"App crashes every time I try to upload a photo."
+20,Account Deletion,"Please remove all my personal info and delete my account."
+21,Password Reset,"Password reset email not received, please resend."
+22,Order Status,"Is my order #3456 shipped yet?"
+23,Refund Request,"I want to cancel my order and get a full refund."
+24,Technical Issue,"Unable to login after app update."
+25,Account Deletion,"Instructions on how to delete my account permanently?"
+26,Password Reset,"Can’t reset password, link expired."
+27,Order Status,"My order #7654 is late, tracking hasn't updated in days."
+28,Refund Request,"Received damaged product, requesting refund."
+29,Technical Issue,"Error 404 when accessing account page."
+30,Account Deletion,"How to delete my profile and data?"
+31,Password Reset,"Reset link not working."
+32,Order Status,"Where is my order #1122?"
+33,Refund Request,"Item arrived late, can I get a refund?"
+34,Technical Issue,"App freezes when logging in."
+35,Account Deletion,"Please close my account and remove my data."
+36,Password Reset,"I can’t remember my password, help."
+37,Order Status,"Status of my order #3344?"
+38,Refund Request,"Returned product but no refund received."
+39,Technical Issue,"Error message when uploading files."
+40,Account Deletion,"Want my account deleted immediately."
+41,Password Reset,"Need help resetting password."
+42,Order Status,"Order #5566 delayed, please update."
+43,Refund Request,"Wrong item sent, need refund."
+44,Technical Issue,"App crashes on startup."
+45,Account Deletion,"Delete my account ASAP."
+46,Password Reset,"Password reset email not arriving."
+47,Order Status,"When will order #7788 arrive?"
+48,Refund Request,"Product faulty, requesting refund."
+49,Technical Issue,"Website slow and sometimes times out."
+50,Account Deletion,"How to permanently delete account?"
+51,Password Reset,"Can't change password."
+52,Order Status,"Tracking info missing for order #9911."
+53,Refund Request,"Received incorrect product, want refund."
+54,Technical Issue,"Unable to update profile info."
+55,Account Deletion,"Remove my data from your system."
+56,Password Reset,"Password reset code expired."
+57,Order Status,"Order #2233 stuck in shipping."
+58,Refund Request,"Refund not processed after return."
+59,Technical Issue,"Login button not working."
+60,Account Deletion,"Close my account please."
+61,Password Reset,"Forgot password, need help."
+62,Order Status,"Order #4455 delayed shipment."
+63,Refund Request,"Want refund for defective item."
+64,Technical Issue,"App not loading properly."
+65,Account Deletion,"I want to delete my account."
+66,Password Reset,"Can't receive password reset email."
+67,Order Status,"Status update for order #6677."
+68,Refund Request,"Item damaged, request refund."
+69,Technical Issue,"Error when submitting form."
+70,Account Deletion,"Delete my account now."
+71,Password Reset,"Need password reset assistance."
+72,Order Status,"Order #8899 delivery delayed."
+73,Refund Request,"Received wrong size, want refund."
+74,Technical Issue,"Website crashes on login."
+75,Account Deletion,"Instructions to delete account."
+76,Password Reset,"Reset link expired, need new one."
+77,Order Status,"Where is order #1010?"
+78,Refund Request,"Product defective, requesting refund."
+79,Technical Issue,"App freezes on upload."
+80,Account Deletion,"Please delete all my info."
+81,Password Reset,"Cannot reset password."
+82,Order Status,"Order #1212 delayed, any update?"
+83,Refund Request,"Want refund for wrong product."
+84,Technical Issue,"Error 500 on website."
+85,Account Deletion,"Remove my account data."
+86,Password Reset,"Help resetting password."
+87,Order Status,"When will order #1414 arrive?"
+88,Refund Request,"Returned item but no refund."
+89,Technical Issue,"App crashes when opening."
+90,Account Deletion,"Delete my profile please."
+91,Password Reset,"Password reset email not received."
+92,Order Status,"Tracking missing for order #1616."
+93,Refund Request,"Requesting refund for damaged item."
+94,Technical Issue,"Login issues on app."
+95,Account Deletion,"I want to remove my account."
+96,Password Reset,"Forgot password, need reset."
+97,Order Status,"Order #1818 delayed shipment."
+98,Refund Request,"Wrong product sent, want refund."
+99,Technical Issue,"Error message on profile update."
+100,Account Deletion,"Please close my account."
+101,Password Reset,"Password reset link expired."
+102,Order Status,"Where is order #2020?"
+103,Refund Request,"Requesting refund for faulty product."
+104,Technical Issue,"App not responding."
+105,Account Deletion,"Delete my data and account."
+106,Password Reset,"Cannot reset password, link broken."
+107,Order Status,"Order #2121 late delivery."
+108,Refund Request,"Refund not received after return."
+109,Technical Issue,"Website timeout errors."
+110,Account Deletion,"Want to delete account permanently."
+111,Password Reset,"Need help with password reset."
+112,Order Status,"When will order #2323 arrive?"
+113,Refund Request,"Received damaged item, want refund."
+114,Technical Issue,"App crashes after update."
+115,Account Deletion,"Please delete all my information."
+116,Password Reset,"Reset email not received."
+117,Order Status,"Order #2424 tracking delayed."
+118,Refund Request,"Returned product, no refund yet."
+119,Technical Issue,"Error on file upload."
+120,Account Deletion,"Remove my profile data."
+121,Password Reset,"Can't change my password."
+122,Order Status,"Order #2525 stuck in transit."
+123,Refund Request,"Want refund for wrong size."
+124,Technical Issue,"Login button not responsive."
+125,Account Deletion,"Delete my account immediately."
+126,Password Reset,"Forgot password assistance."
+127,Order Status,"Status update for order #2626?"
+128,Refund Request,"Product defective, request refund."
+129,Technical Issue,"Website slow loading."
+130,Account Deletion,"Delete my data permanently."
+131,Password Reset,"Password reset code expired."
+132,Order Status,"Where is my order #2727?"
+133,Refund Request,"Refund requested for faulty item."
+134,Technical Issue,"App freezing during login."
+135,Account Deletion,"Please delete my profile."
+136,Password Reset,"Need to reset password urgently."
+137,Order Status,"Order #2828 delayed."
+138,Refund Request,"Received wrong item, want refund."
+139,Technical Issue,"Error when uploading files."
+140,Account Deletion,"Close my account ASAP."
+141,Password Reset,"Cannot get reset email."
+142,Order Status,"When will order #2929 arrive?"
+143,Refund Request,"Returned product, no refund."
+144,Technical Issue,"App crashes randomly."
+145,Account Deletion,"Delete my account data."
+146,Password Reset,"Help with password reset link."
+147,Order Status,"Tracking info missing for order #3030."
+148,Refund Request,"Requesting refund for damaged product."
+149,Technical Issue,"Login issues with website."
+150,Account Deletion,"Want to delete account now."
+151,Password Reset,"Forgot my password."
+152,Order Status,"Order #3131 late shipment."
+153,Refund Request,"Wrong product sent, refund requested."
+154,Technical Issue,"App not loading properly."
+155,Account Deletion,"Delete my data and account."
+156,Password Reset,"Password reset link expired."
+157,Order Status,"Where is order #3232?"
+158,Refund Request,"Refund requested for broken item."
+159,Technical Issue,"Error 404 on profile page."
+160,Account Deletion,"Please delete my profile data."
+161,Password Reset,"Can't reset password."
+162,Order Status,"Order #3333 delayed shipment."
+163,Refund Request,"Product defective, want refund."
+164,Technical Issue,"Website crashes during login."
+165,Account Deletion,"Delete my account ASAP."
+166,Password Reset,"Need help resetting password."
+167,Order Status,"When will order #3434 arrive?"
+168,Refund Request,"Returned item, refund not received."
+169,Technical Issue,"App crashes on startup."
+170,Account Deletion,"Close my account immediately."
+171,Password Reset,"Reset email not received."
+172,Order Status,"Order #3535 delayed."
+173,Refund Request,"Requesting refund for wrong product."
+174,Technical Issue,"Error message during upload."
+175,Account Deletion,"Delete my data please."
+176,Password Reset,"Password reset not working."
+177,Order Status,"Where is order #3636?"
+178,Refund Request,"Refund not processed after return."
+179,Technical Issue,"Login button not working."
+180,Account Deletion,"Want to delete my account."
+181,Password Reset,"Forgot password, need help."
+182,Order Status,"Order #3737 delayed shipment."
+183,Refund Request,"Wrong item received, want refund."
+184,Technical Issue,"App freezes on login."
+185,Account Deletion,"Delete my profile and data."
+186,Password Reset,"Need password reset link."
+187,Order Status,"Tracking info missing for order #3838."
+188,Refund Request,"Refund requested for defective product."
+189,Technical Issue,"Website slow and unresponsive."
+190,Account Deletion,"Close my account permanently."
+191,Password Reset,"Password reset email expired."
+192,Order Status,"When will order #3939 arrive?"
+193,Refund Request,"Returned product, no refund received."
+194,Technical Issue,"App crashes when opening."
+195,Account Deletion,"Please remove my account."
+196,Password Reset,"Reset link not working."
+197,Order Status,"Order #4040 delayed."
+198,Refund Request,"Requesting refund for broken item."
+199,Technical Issue,"Error 500 on website."
+200,Account Deletion,"Delete my account now."
