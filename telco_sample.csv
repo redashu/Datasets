@@ -1,0 +1,13 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,phoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+7590-VHVEG,Female,0,Yes,No,1,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,Yes
+5575-GNVDE,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,56.95,1889.5,No
+3668-QPYBK,Male,0,No,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,53.85,108.15,Yes
+7795-CFOCW,Female,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),70.7,3066.0,No
+9237-HQITU,Female,0,Yes,Yes,5,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),99.65,475.5,Yes
+9305-CDSKC,Male,1,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),118.75,8684.8,No
+1452-KIOVK,Male,0,No,No,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,85.2,1022.4,No
+6713-OKHDU,Female,0,Yes,No,60,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,105.5,6330.0,No
+7892-RPLAH,Female,0,Yes,Yes,24,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,65.3,1567.2,Yes
+3561-BFXHL,Male,0,No,No,36,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),89.1,3207.6,No
+8169-BPLFD,Female,0,Yes,Yes,3,No,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.3,126.9,Yes
+5421-ABCXY,Male,0,No,No,18,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,78.4,1411.2,No
