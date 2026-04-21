@@ -1,0 +1,501 @@
+booking_id,date,room_id,room_type,status,price,guest_count,check_in,check_out,wifi,parking,breakfast,season,occupancy_level,guest_name,country,payment_method,booking_channel,stay_purpose,discount_pct,review_score,special_request
+B030001,2025-03-07,R429,Deluxe,Cancelled,223.61,2,2025-03-07,2025-03-08,Yes,Yes,Yes,Moderate,Medium,John Smith,UK,Debit Card,Direct,Leisure,5,4.4,Late check-in
+B030002,2025-03-08,R209,Standard,Booked,118.2,1,2025-03-08,2025-03-10,No,Yes,No,Moderate,Medium,Emma Jones,France,Cash,Travel Agent,Business,1,3.9,Extra towels
+B030003,2025-03-14,R318,Suite,Cancelled,454.43,3,2025-03-14,2025-03-17,Yes,No,No,Moderate,Medium,Hans Muller,Canada,Debit Card,OTA,Business,10,4.5,Extra towels
+B030004,2025-03-26,R322,Suite,Booked,503.88,4,2025-03-26,2025-03-29,No,No,Yes,Moderate,Medium,Hans Muller,Germany,Cash,Travel Agent,Business,18,4.6,Extra towels
+B030005,2025-03-20,R254,Standard,No-Show,117.49,1,2025-03-20,2025-03-23,Yes,Yes,Yes,Moderate,Medium,Emma Jones,USA,Debit Card,Travel Agent,Leisure,8,4.0,Late check-in
+B030006,2025-03-24,R354,Deluxe,Booked,238.31,4,2025-03-24,2025-03-27,Yes,Yes,Yes,Moderate,Medium,Emma Jones,Germany,Credit Card,Travel Agent,Leisure,7,3.8,Late check-in
+B030007,2025-03-03,R236,Suite,Available,459.29,0,,,Yes,No,Yes,Moderate,Medium,,,,,,11,3.5,
+B030008,2025-03-26,R108,Standard,Cancelled,110.42,4,2025-03-26,2025-03-27,Yes,No,No,Moderate,Medium,Marie Dubois,Canada,Cash,Direct,Business,19,4.4,None
+B030009,2025-03-02,R150,Standard,Available,115.79,0,,,No,Yes,No,Moderate,Medium,,,,,,16,4.1,
+B030010,2025-03-16,R468,Suite,Cancelled,476.62,4,2025-03-16,2025-03-21,No,Yes,No,Moderate,Medium,Marie Dubois,USA,Cash,Direct,Leisure,10,4.0,Extra towels
+B030011,2025-03-25,R337,Suite,Available,524.82,0,,,Yes,No,No,Moderate,Medium,,,,,,14,3.2,
+B030012,2025-03-03,R355,Suite,Booked,482.78,4,2025-03-03,2025-03-07,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,UK,Debit Card,OTA,Leisure,8,4.7,Extra towels
+B030013,2025-03-10,R190,Suite,Available,508.14,0,,,No,No,No,Moderate,Medium,,,,,,19,3.7,
+B030014,2025-03-13,R125,Deluxe,Booked,257.07,2,2025-03-13,2025-03-17,Yes,No,Yes,Moderate,Medium,Marie Dubois,USA,Debit Card,Direct,Leisure,4,4.7,Extra towels
+B030015,2025-03-16,R396,Suite,Available,437.41,0,,,Yes,Yes,No,Moderate,Medium,,,,,,8,3.1,
+B030016,2025-03-28,R252,Suite,Booked,460.13,2,2025-03-28,2025-04-02,No,Yes,Yes,Moderate,Medium,Emma Jones,Germany,Cash,OTA,Leisure,4,4.5,None
+B030017,2025-03-21,R328,Suite,Booked,480.5,2,2025-03-21,2025-03-22,No,Yes,No,Moderate,Medium,Yuki Tanaka,Japan,Debit Card,Direct,Business,18,4.6,Late check-in
+B030018,2025-03-04,R366,Suite,Booked,442.64,2,2025-03-04,2025-03-09,Yes,Yes,Yes,Moderate,Medium,Hans Muller,Germany,Credit Card,Travel Agent,Leisure,5,4.7,Late check-in
+B030019,2025-03-28,R399,Standard,Booked,108.29,4,2025-03-28,2025-04-01,No,Yes,No,Moderate,Medium,Marie Dubois,Japan,Debit Card,Travel Agent,Business,10,3.5,Extra towels
+B030020,2025-03-10,R165,Suite,Booked,522.78,3,2025-03-10,2025-03-12,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Canada,Cash,OTA,Leisure,8,4.3,Late check-in
+B030021,2025-03-19,R344,Suite,Available,486.9,0,,,No,Yes,Yes,Moderate,Medium,,,,,,3,4.4,
+B030022,2025-03-20,R314,Suite,Cancelled,441.52,1,2025-03-20,2025-03-25,Yes,Yes,Yes,Moderate,Medium,Hans Muller,UK,Cash,OTA,Leisure,9,4.7,Late check-in
+B030023,2025-03-12,R146,Suite,Booked,502.47,3,2025-03-12,2025-03-14,No,No,Yes,Moderate,Medium,Marie Dubois,Germany,Cash,Travel Agent,Leisure,18,4.1,Extra towels
+B030024,2025-03-16,R240,Deluxe,Available,230.46,0,,,No,Yes,No,Moderate,Medium,,,,,,4,4.5,
+B030025,2025-03-10,R434,Standard,Available,126.74,0,,,No,Yes,Yes,Moderate,Medium,,,,,,3,3.7,
+B030026,2025-03-13,R156,Standard,Booked,131.56,3,2025-03-13,2025-03-17,No,Yes,No,Moderate,Medium,John Smith,Japan,Credit Card,Travel Agent,Leisure,17,3.5,Late check-in
+B030027,2025-03-22,R287,Standard,Booked,130.33,1,2025-03-22,2025-03-23,No,No,No,Moderate,Medium,John Smith,Japan,Credit Card,Travel Agent,Business,0,3.2,Extra towels
+B030028,2025-03-25,R166,Standard,Available,124.42,0,,,No,Yes,No,Moderate,Medium,,,,,,17,3.6,
+B030029,2025-03-24,R398,Deluxe,Booked,231.0,1,2025-03-24,2025-03-29,No,Yes,Yes,Moderate,Medium,Marie Dubois,France,Credit Card,Direct,Business,10,3.1,Late check-in
+B030030,2025-03-10,R469,Suite,Booked,480.25,2,2025-03-10,2025-03-13,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,UK,Credit Card,Direct,Leisure,5,4.0,None
+B030031,2025-03-14,R378,Suite,Booked,520.05,3,2025-03-14,2025-03-19,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,UK,Debit Card,Direct,Leisure,13,3.9,Extra towels
+B030032,2025-03-25,R208,Suite,Booked,497.38,2,2025-03-25,2025-03-29,No,Yes,No,Moderate,Medium,Emma Jones,UK,Cash,Direct,Business,12,3.0,None
+B030033,2025-03-02,R219,Deluxe,Available,261.78,0,,,No,No,No,Moderate,Medium,,,,,,19,4.1,
+B030034,2025-03-11,R293,Suite,Available,498.27,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,9,3.1,
+B030035,2025-03-11,R468,Deluxe,Cancelled,231.44,1,2025-03-11,2025-03-12,Yes,No,Yes,Moderate,Medium,Marie Dubois,Canada,Cash,Direct,Leisure,5,3.0,Late check-in
+B030036,2025-03-11,R184,Suite,Booked,481.9,4,2025-03-11,2025-03-14,Yes,Yes,Yes,Moderate,Medium,John Smith,Japan,Cash,OTA,Business,2,4.7,None
+B030037,2025-03-15,R107,Deluxe,Cancelled,255.73,4,2025-03-15,2025-03-16,Yes,Yes,No,Moderate,Medium,Hans Muller,France,Cash,OTA,Leisure,14,4.8,None
+B030038,2025-03-24,R420,Suite,Cancelled,521.89,1,2025-03-24,2025-03-27,Yes,No,Yes,Moderate,Medium,John Smith,USA,Debit Card,Travel Agent,Leisure,13,4.4,None
+B030039,2025-03-10,R325,Suite,Booked,456.41,1,2025-03-10,2025-03-13,No,Yes,No,Moderate,Medium,Hans Muller,Canada,Credit Card,Travel Agent,Leisure,16,3.3,Extra towels
+B030040,2025-03-11,R277,Standard,Booked,123.79,1,2025-03-11,2025-03-14,Yes,No,Yes,Moderate,Medium,John Smith,Germany,Debit Card,Travel Agent,Business,4,4.3,Extra towels
+B030041,2025-03-14,R192,Deluxe,Booked,227.59,2,2025-03-14,2025-03-17,Yes,Yes,Yes,Moderate,Medium,John Smith,Canada,Cash,Direct,Business,17,3.9,None
+B030042,2025-03-14,R332,Deluxe,Booked,232.57,3,2025-03-14,2025-03-16,No,No,Yes,Moderate,Medium,Hans Muller,UK,Cash,Travel Agent,Business,1,4.0,Extra towels
+B030043,2025-03-27,R410,Deluxe,Cancelled,234.24,2,2025-03-27,2025-03-31,Yes,No,Yes,Moderate,Medium,Marie Dubois,Canada,Credit Card,Travel Agent,Business,15,4.3,Late check-in
+B030044,2025-03-06,R296,Standard,No-Show,110.84,3,2025-03-06,2025-03-08,Yes,No,No,Moderate,Medium,Emma Jones,Germany,Debit Card,Direct,Leisure,1,3.9,Late check-in
+B030045,2025-03-08,R432,Standard,Booked,130.12,3,2025-03-08,2025-03-13,No,Yes,Yes,Moderate,Medium,Emma Jones,France,Debit Card,Direct,Leisure,17,4.8,None
+B030046,2025-03-02,R168,Suite,Booked,501.54,1,2025-03-02,2025-03-05,No,No,Yes,Moderate,Medium,Marie Dubois,USA,Debit Card,Direct,Leisure,16,3.5,None
+B030047,2025-03-11,R473,Standard,Booked,112.61,1,2025-03-11,2025-03-12,No,Yes,No,Moderate,Medium,Emma Jones,Canada,Debit Card,Travel Agent,Leisure,19,4.7,None
+B030048,2025-03-15,R340,Suite,Booked,501.65,4,2025-03-15,2025-03-18,No,No,No,Moderate,Medium,Marie Dubois,Canada,Debit Card,OTA,Leisure,2,4.7,None
+B030049,2025-03-06,R162,Standard,Available,130.35,0,,,No,Yes,No,Moderate,Medium,,,,,,2,3.2,
+B030050,2025-03-15,R336,Suite,Booked,473.78,2,2025-03-15,2025-03-16,No,No,No,Moderate,Medium,Marie Dubois,Canada,Cash,Direct,Leisure,2,4.3,Late check-in
+B030051,2025-03-21,R309,Suite,Booked,476.35,4,2025-03-21,2025-03-24,Yes,No,Yes,Moderate,Medium,John Smith,UK,Debit Card,OTA,Business,8,4.4,Extra towels
+B030052,2025-03-26,R361,Standard,Booked,124.09,4,2025-03-26,2025-03-29,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,France,Debit Card,OTA,Business,15,3.8,Extra towels
+B030053,2025-03-28,R370,Standard,Available,111.04,0,,,Yes,No,Yes,Moderate,Medium,,,,,,7,3.8,
+B030054,2025-03-19,R429,Suite,Cancelled,478.99,4,2025-03-19,2025-03-20,Yes,Yes,No,Moderate,Medium,Marie Dubois,Germany,Cash,Direct,Leisure,14,3.0,None
+B030055,2025-03-18,R424,Suite,Booked,479.75,4,2025-03-18,2025-03-21,No,No,No,Moderate,Medium,John Smith,France,Credit Card,Travel Agent,Leisure,15,5.0,None
+B030056,2025-03-15,R371,Standard,Available,123.14,0,,,No,Yes,No,Moderate,Medium,,,,,,5,3.2,
+B030057,2025-03-13,R453,Standard,Booked,119.3,3,2025-03-13,2025-03-18,Yes,Yes,No,Moderate,Medium,Hans Muller,Germany,Cash,Travel Agent,Leisure,0,4.5,Extra towels
+B030058,2025-03-26,R351,Deluxe,Available,246.51,0,,,Yes,No,Yes,Moderate,Medium,,,,,,2,4.9,
+B030059,2025-03-26,R265,Suite,No-Show,489.53,3,2025-03-26,2025-03-27,No,Yes,Yes,Moderate,Medium,Marie Dubois,Germany,Cash,Direct,Leisure,18,3.3,Late check-in
+B030060,2025-03-28,R331,Suite,Available,457.58,0,,,Yes,Yes,No,Moderate,Medium,,,,,,13,4.7,
+B030061,2025-03-15,R339,Standard,Available,117.47,0,,,Yes,No,No,Moderate,Medium,,,,,,5,4.6,
+B030062,2025-03-05,R482,Suite,Booked,489.67,3,2025-03-05,2025-03-09,No,No,Yes,Moderate,Medium,Yuki Tanaka,Germany,Cash,OTA,Leisure,8,3.1,None
+B030063,2025-03-07,R332,Suite,Available,451.15,0,,,No,Yes,Yes,Moderate,Medium,,,,,,3,3.0,
+B030064,2025-03-08,R303,Suite,Available,455.93,0,,,Yes,No,No,Moderate,Medium,,,,,,17,4.2,
+B030065,2025-03-27,R121,Deluxe,Available,263.27,0,,,No,Yes,No,Moderate,Medium,,,,,,7,4.8,
+B030066,2025-03-25,R436,Suite,Available,473.85,0,,,No,Yes,No,Moderate,Medium,,,,,,7,5.0,
+B030067,2025-03-04,R378,Deluxe,Available,230.18,0,,,No,Yes,No,Moderate,Medium,,,,,,14,3.5,
+B030068,2025-03-02,R338,Standard,Booked,119.75,3,2025-03-02,2025-03-06,No,Yes,No,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,OTA,Leisure,0,3.3,Late check-in
+B030069,2025-03-18,R392,Standard,Booked,120.04,4,2025-03-18,2025-03-23,No,No,No,Moderate,Medium,Yuki Tanaka,Japan,Debit Card,Travel Agent,Leisure,3,3.0,Extra towels
+B030070,2025-03-15,R358,Suite,Booked,456.85,2,2025-03-15,2025-03-17,Yes,Yes,No,Moderate,Medium,Emma Jones,Canada,Credit Card,Direct,Leisure,11,4.4,Extra towels
+B030071,2025-03-23,R276,Deluxe,Booked,247.6,2,2025-03-23,2025-03-27,Yes,No,Yes,Moderate,Medium,Marie Dubois,UK,Debit Card,Direct,Business,19,4.6,Late check-in
+B030072,2025-03-20,R351,Deluxe,Available,222.82,0,,,Yes,Yes,No,Moderate,Medium,,,,,,3,3.1,
+B030073,2025-03-21,R126,Standard,Booked,117.63,3,2025-03-21,2025-03-25,Yes,Yes,No,Moderate,Medium,John Smith,USA,Credit Card,Travel Agent,Business,7,3.6,None
+B030074,2025-03-17,R260,Standard,Booked,125.51,3,2025-03-17,2025-03-18,No,No,No,Moderate,Medium,John Smith,USA,Cash,OTA,Business,11,3.7,Late check-in
+B030075,2025-03-26,R225,Suite,Available,442.66,0,,,Yes,No,No,Moderate,Medium,,,,,,11,3.2,
+B030076,2025-03-20,R462,Deluxe,Cancelled,236.18,4,2025-03-20,2025-03-25,Yes,No,No,Moderate,Medium,Yuki Tanaka,Germany,Credit Card,Direct,Leisure,8,3.0,Extra towels
+B030077,2025-03-18,R155,Deluxe,Booked,261.63,1,2025-03-18,2025-03-21,Yes,No,Yes,Moderate,Medium,Marie Dubois,Germany,Cash,OTA,Business,2,4.8,Late check-in
+B030078,2025-03-28,R393,Standard,Cancelled,118.87,2,2025-03-28,2025-03-29,Yes,No,No,Moderate,Medium,Hans Muller,USA,Debit Card,Travel Agent,Business,15,4.5,Extra towels
+B030079,2025-03-01,R387,Deluxe,Booked,248.93,4,2025-03-01,2025-03-05,No,Yes,Yes,Moderate,Medium,John Smith,USA,Credit Card,Travel Agent,Business,0,4.0,Extra towels
+B030080,2025-03-06,R227,Suite,Available,499.04,0,,,Yes,No,Yes,Moderate,Medium,,,,,,17,3.4,
+B030081,2025-03-25,R206,Deluxe,Booked,227.93,3,2025-03-25,2025-03-27,No,No,No,Moderate,Medium,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,5,4.1,None
+B030082,2025-03-28,R450,Standard,Booked,117.23,4,2025-03-28,2025-03-31,Yes,Yes,No,Moderate,Medium,Marie Dubois,Germany,Credit Card,OTA,Business,13,3.3,Late check-in
+B030083,2025-03-18,R458,Standard,Booked,127.06,3,2025-03-18,2025-03-23,No,Yes,No,Moderate,Medium,Yuki Tanaka,USA,Cash,OTA,Business,6,3.2,Late check-in
+B030084,2025-03-25,R200,Suite,Booked,482.67,4,2025-03-25,2025-03-29,Yes,No,Yes,Moderate,Medium,Emma Jones,Germany,Credit Card,Direct,Business,0,3.3,None
+B030085,2025-03-24,R224,Standard,Booked,112.67,1,2025-03-24,2025-03-29,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,UK,Cash,Travel Agent,Business,11,4.2,Late check-in
+B030086,2025-03-23,R121,Standard,Cancelled,115.26,2,2025-03-23,2025-03-27,No,No,No,Moderate,Medium,John Smith,USA,Cash,Travel Agent,Business,14,4.4,Late check-in
+B030087,2025-03-19,R284,Deluxe,No-Show,246.08,2,2025-03-19,2025-03-24,No,No,Yes,Moderate,Medium,Emma Jones,USA,Debit Card,Travel Agent,Business,13,3.4,None
+B030088,2025-03-20,R477,Suite,Available,495.45,0,,,No,Yes,Yes,Moderate,Medium,,,,,,7,4.7,
+B030089,2025-03-19,R246,Suite,Available,509.28,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,17,3.6,
+B030090,2025-03-22,R188,Suite,Available,469.13,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,16,4.5,
+B030091,2025-03-27,R323,Suite,Cancelled,494.58,3,2025-03-27,2025-03-28,Yes,No,Yes,Moderate,Medium,John Smith,USA,Debit Card,Travel Agent,Business,3,4.7,Extra towels
+B030092,2025-03-26,R209,Suite,Booked,496.33,1,2025-03-26,2025-03-29,No,No,No,Moderate,Medium,John Smith,Germany,Credit Card,Travel Agent,Business,19,4.2,Extra towels
+B030093,2025-03-28,R271,Suite,Cancelled,499.75,4,2025-03-28,2025-03-31,No,Yes,No,Moderate,Medium,Hans Muller,Canada,Credit Card,Direct,Business,1,4.7,Late check-in
+B030094,2025-03-16,R470,Suite,No-Show,456.52,1,2025-03-16,2025-03-21,Yes,No,Yes,Moderate,Medium,Marie Dubois,Japan,Credit Card,Direct,Business,10,3.0,Late check-in
+B030095,2025-03-15,R378,Deluxe,Cancelled,225.57,4,2025-03-15,2025-03-17,No,No,Yes,Moderate,Medium,Hans Muller,USA,Credit Card,OTA,Leisure,18,3.2,None
+B030096,2025-03-15,R139,Suite,Available,470.34,0,,,Yes,No,Yes,Moderate,Medium,,,,,,3,3.9,
+B030097,2025-03-22,R140,Deluxe,Available,250.79,0,,,Yes,No,Yes,Moderate,Medium,,,,,,3,5.0,
+B030098,2025-03-01,R352,Standard,No-Show,116.85,4,2025-03-01,2025-03-02,No,Yes,Yes,Moderate,Medium,Emma Jones,Japan,Cash,Travel Agent,Business,8,3.8,Late check-in
+B030099,2025-03-28,R452,Standard,Booked,121.8,4,2025-03-28,2025-04-01,Yes,Yes,Yes,Moderate,Medium,Hans Muller,France,Credit Card,OTA,Business,17,4.4,Extra towels
+B030100,2025-03-09,R148,Suite,Cancelled,501.98,4,2025-03-09,2025-03-11,No,No,No,Moderate,Medium,Yuki Tanaka,USA,Cash,Travel Agent,Leisure,0,4.1,Late check-in
+B030101,2025-03-04,R254,Suite,Cancelled,445.01,2,2025-03-04,2025-03-07,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Canada,Debit Card,Direct,Business,8,3.1,Extra towels
+B030102,2025-03-26,R315,Deluxe,No-Show,244.92,3,2025-03-26,2025-03-31,Yes,Yes,No,Moderate,Medium,Hans Muller,UK,Credit Card,OTA,Leisure,2,3.3,Extra towels
+B030103,2025-03-15,R311,Suite,Booked,522.84,3,2025-03-15,2025-03-16,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Canada,Cash,OTA,Business,4,4.8,None
+B030104,2025-03-28,R242,Standard,Available,130.35,0,,,No,Yes,Yes,Moderate,Medium,,,,,,10,4.3,
+B030105,2025-03-10,R390,Suite,Cancelled,500.14,3,2025-03-10,2025-03-11,No,Yes,Yes,Moderate,Medium,Emma Jones,France,Debit Card,Direct,Business,5,5.0,None
+B030106,2025-03-02,R227,Deluxe,Cancelled,238.39,3,2025-03-02,2025-03-03,Yes,No,No,Moderate,Medium,John Smith,USA,Credit Card,Direct,Business,14,3.8,None
+B030107,2025-03-19,R311,Suite,Booked,441.28,3,2025-03-19,2025-03-21,No,Yes,Yes,Moderate,Medium,Marie Dubois,USA,Credit Card,Direct,Leisure,6,3.5,Extra towels
+B030108,2025-03-02,R215,Deluxe,Booked,249.29,3,2025-03-02,2025-03-05,No,No,Yes,Moderate,Medium,Yuki Tanaka,France,Credit Card,OTA,Leisure,2,3.8,None
+B030109,2025-03-17,R366,Suite,Available,503.22,0,,,Yes,No,Yes,Moderate,Medium,,,,,,2,3.0,
+B030110,2025-03-01,R166,Deluxe,No-Show,246.27,2,2025-03-01,2025-03-05,No,No,Yes,Moderate,Medium,Marie Dubois,UK,Cash,OTA,Business,11,3.7,Extra towels
+B030111,2025-03-03,R220,Deluxe,Booked,250.48,2,2025-03-03,2025-03-05,No,No,Yes,Moderate,Medium,John Smith,UK,Debit Card,Direct,Leisure,19,4.9,None
+B030112,2025-03-15,R425,Deluxe,Booked,259.95,4,2025-03-15,2025-03-18,Yes,Yes,Yes,Moderate,Medium,Emma Jones,USA,Debit Card,Travel Agent,Leisure,3,3.9,Extra towels
+B030113,2025-03-23,R364,Suite,Cancelled,485.84,3,2025-03-23,2025-03-25,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,Canada,Cash,OTA,Leisure,8,4.1,Late check-in
+B030114,2025-03-20,R233,Deluxe,Available,254.59,0,,,Yes,No,Yes,Moderate,Medium,,,,,,2,4.6,
+B030115,2025-03-02,R293,Suite,Booked,483.2,1,2025-03-02,2025-03-04,Yes,Yes,No,Moderate,Medium,John Smith,Japan,Cash,Direct,Business,14,4.8,Late check-in
+B030116,2025-03-27,R394,Standard,Available,112.03,0,,,Yes,No,No,Moderate,Medium,,,,,,14,4.6,
+B030117,2025-03-16,R266,Suite,Available,478.26,0,,,Yes,No,No,Moderate,Medium,,,,,,4,4.1,
+B030118,2025-03-15,R453,Deluxe,Booked,218.12,3,2025-03-15,2025-03-19,Yes,No,Yes,Moderate,Medium,Hans Muller,UK,Credit Card,Travel Agent,Leisure,11,4.3,Late check-in
+B030119,2025-03-04,R161,Deluxe,Booked,229.54,2,2025-03-04,2025-03-09,No,Yes,No,Moderate,Medium,Hans Muller,France,Credit Card,Direct,Business,16,4.0,Extra towels
+B030120,2025-03-06,R360,Standard,Available,124.78,0,,,Yes,No,Yes,Moderate,Medium,,,,,,5,5.0,
+B030121,2025-03-18,R406,Suite,Booked,526.92,4,2025-03-18,2025-03-22,No,Yes,No,Moderate,Medium,John Smith,Germany,Debit Card,Travel Agent,Business,2,4.8,None
+B030122,2025-03-25,R441,Suite,Available,449.06,0,,,Yes,Yes,No,Moderate,Medium,,,,,,18,3.2,
+B030123,2025-03-08,R473,Deluxe,Booked,224.49,4,2025-03-08,2025-03-13,Yes,No,No,Moderate,Medium,Emma Jones,Canada,Cash,Direct,Leisure,11,3.3,None
+B030124,2025-03-05,R428,Standard,Available,118.59,0,,,No,Yes,No,Moderate,Medium,,,,,,10,4.7,
+B030125,2025-03-24,R316,Deluxe,Cancelled,249.65,1,2025-03-24,2025-03-28,Yes,No,No,Moderate,Medium,Emma Jones,France,Debit Card,Direct,Business,11,3.1,None
+B030126,2025-03-19,R357,Deluxe,Booked,229.77,4,2025-03-19,2025-03-20,No,No,Yes,Moderate,Medium,Emma Jones,Japan,Credit Card,Direct,Business,19,3.2,None
+B030127,2025-03-18,R128,Suite,Available,510.86,0,,,No,Yes,Yes,Moderate,Medium,,,,,,6,3.8,
+B030128,2025-03-01,R455,Standard,Booked,108.0,4,2025-03-01,2025-03-03,Yes,Yes,No,Moderate,Medium,John Smith,Germany,Credit Card,Travel Agent,Business,13,3.5,Late check-in
+B030129,2025-03-25,R488,Suite,Available,506.34,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,12,3.2,
+B030130,2025-03-14,R124,Deluxe,No-Show,260.6,2,2025-03-14,2025-03-19,Yes,Yes,No,Moderate,Medium,Marie Dubois,France,Cash,OTA,Business,9,3.5,Extra towels
+B030131,2025-03-21,R208,Deluxe,Available,247.16,0,,,No,No,No,Moderate,Medium,,,,,,0,3.0,
+B030132,2025-03-06,R116,Suite,Cancelled,510.64,1,2025-03-06,2025-03-10,No,No,No,Moderate,Medium,Marie Dubois,France,Debit Card,OTA,Business,14,3.9,None
+B030133,2025-03-26,R207,Suite,Available,469.75,0,,,No,Yes,No,Moderate,Medium,,,,,,6,3.9,
+B030134,2025-03-28,R232,Standard,Booked,115.2,2,2025-03-28,2025-03-30,Yes,No,No,Moderate,Medium,Marie Dubois,UK,Debit Card,Direct,Leisure,10,4.5,Late check-in
+B030135,2025-03-22,R105,Standard,Available,118.18,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,15,4.7,
+B030136,2025-03-26,R421,Standard,Booked,108.83,4,2025-03-26,2025-03-27,Yes,Yes,Yes,Moderate,Medium,Hans Muller,Germany,Credit Card,Direct,Business,10,4.7,None
+B030137,2025-03-01,R147,Deluxe,Available,239.32,0,,,No,Yes,Yes,Moderate,Medium,,,,,,2,4.4,
+B030138,2025-03-12,R380,Standard,No-Show,115.17,1,2025-03-12,2025-03-16,No,No,No,Moderate,Medium,Marie Dubois,Japan,Debit Card,Travel Agent,Leisure,17,4.6,None
+B030139,2025-03-22,R356,Standard,Booked,116.45,1,2025-03-22,2025-03-25,Yes,Yes,Yes,Moderate,Medium,John Smith,Germany,Credit Card,Direct,Business,12,3.3,Extra towels
+B030140,2025-03-22,R378,Suite,Booked,508.23,4,2025-03-22,2025-03-24,No,Yes,Yes,Moderate,Medium,Hans Muller,UK,Cash,Travel Agent,Business,18,4.2,Extra towels
+B030141,2025-03-12,R200,Deluxe,Cancelled,230.43,1,2025-03-12,2025-03-15,Yes,No,No,Moderate,Medium,Marie Dubois,France,Credit Card,OTA,Leisure,15,3.6,Extra towels
+B030142,2025-03-23,R100,Standard,Booked,122.63,1,2025-03-23,2025-03-25,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,Direct,Leisure,0,4.9,Late check-in
+B030143,2025-03-10,R115,Standard,Cancelled,131.05,4,2025-03-10,2025-03-11,Yes,No,No,Moderate,Medium,Hans Muller,UK,Credit Card,Direct,Leisure,8,3.1,None
+B030144,2025-03-03,R282,Standard,Booked,121.49,4,2025-03-03,2025-03-04,Yes,No,Yes,Moderate,Medium,Emma Jones,USA,Cash,Direct,Business,9,4.0,Late check-in
+B030145,2025-03-13,R372,Deluxe,No-Show,251.68,1,2025-03-13,2025-03-16,No,No,Yes,Moderate,Medium,Emma Jones,France,Cash,OTA,Business,3,3.4,Late check-in
+B030146,2025-03-15,R142,Deluxe,Available,234.28,0,,,No,Yes,No,Moderate,Medium,,,,,,20,3.9,
+B030147,2025-03-02,R378,Standard,Available,129.09,0,,,No,No,Yes,Moderate,Medium,,,,,,7,4.2,
+B030148,2025-03-26,R433,Deluxe,Booked,220.11,2,2025-03-26,2025-03-31,Yes,Yes,Yes,Moderate,Medium,John Smith,Germany,Credit Card,Travel Agent,Leisure,9,5.0,Late check-in
+B030149,2025-03-13,R275,Suite,Booked,498.12,4,2025-03-13,2025-03-17,No,Yes,Yes,Moderate,Medium,John Smith,UK,Credit Card,OTA,Leisure,14,3.7,None
+B030150,2025-03-08,R330,Deluxe,Cancelled,250.96,2,2025-03-08,2025-03-09,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,France,Cash,Travel Agent,Business,9,4.5,Extra towels
+B030151,2025-03-10,R402,Suite,Booked,485.81,2,2025-03-10,2025-03-11,No,No,Yes,Moderate,Medium,Hans Muller,Canada,Credit Card,Direct,Business,0,4.3,Extra towels
+B030152,2025-03-23,R251,Suite,Booked,469.64,2,2025-03-23,2025-03-28,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,France,Cash,Direct,Business,2,3.8,Extra towels
+B030153,2025-03-27,R496,Suite,Booked,447.96,3,2025-03-27,2025-03-28,Yes,No,Yes,Moderate,Medium,John Smith,UK,Debit Card,Direct,Business,9,4.9,Late check-in
+B030154,2025-03-16,R422,Standard,Available,116.21,0,,,No,No,Yes,Moderate,Medium,,,,,,20,3.9,
+B030155,2025-03-17,R330,Suite,Booked,476.21,1,2025-03-17,2025-03-21,No,Yes,Yes,Moderate,Medium,Emma Jones,Japan,Cash,OTA,Business,16,4.2,None
+B030156,2025-03-26,R183,Suite,Booked,504.01,4,2025-03-26,2025-03-29,No,Yes,No,Moderate,Medium,Emma Jones,USA,Cash,Direct,Business,15,4.4,Extra towels
+B030157,2025-03-19,R293,Standard,Booked,130.95,1,2025-03-19,2025-03-20,Yes,No,No,Moderate,Medium,Marie Dubois,Japan,Credit Card,Travel Agent,Leisure,11,4.7,Late check-in
+B030158,2025-03-24,R164,Suite,Booked,479.64,2,2025-03-24,2025-03-27,No,Yes,No,Moderate,Medium,Hans Muller,UK,Cash,OTA,Leisure,19,4.4,Extra towels
+B030159,2025-03-12,R412,Standard,Booked,117.95,3,2025-03-12,2025-03-16,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,UK,Credit Card,Direct,Leisure,16,4.4,Late check-in
+B030160,2025-03-08,R267,Deluxe,Available,240.42,0,,,Yes,Yes,No,Moderate,Medium,,,,,,4,4.5,
+B030161,2025-03-15,R178,Suite,Available,483.33,0,,,No,Yes,Yes,Moderate,Medium,,,,,,0,3.0,
+B030162,2025-03-20,R400,Suite,Available,437.86,0,,,Yes,No,No,Moderate,Medium,,,,,,19,3.5,
+B030163,2025-03-21,R398,Deluxe,Booked,230.79,1,2025-03-21,2025-03-25,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,USA,Cash,Direct,Business,16,3.3,Extra towels
+B030164,2025-03-24,R138,Deluxe,Booked,242.86,2,2025-03-24,2025-03-28,No,Yes,No,Moderate,Medium,Marie Dubois,UK,Debit Card,OTA,Leisure,12,4.1,Late check-in
+B030165,2025-03-20,R208,Standard,Available,108.35,0,,,No,Yes,No,Moderate,Medium,,,,,,1,4.5,
+B030166,2025-03-18,R170,Standard,Booked,121.46,1,2025-03-18,2025-03-21,No,No,Yes,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,OTA,Business,15,4.5,Late check-in
+B030167,2025-03-18,R180,Deluxe,Booked,222.05,1,2025-03-18,2025-03-23,Yes,Yes,No,Moderate,Medium,Emma Jones,Japan,Debit Card,OTA,Leisure,15,4.2,Late check-in
+B030168,2025-03-26,R313,Deluxe,Available,259.99,0,,,Yes,No,No,Moderate,Medium,,,,,,9,3.7,
+B030169,2025-03-05,R208,Standard,Cancelled,128.65,1,2025-03-05,2025-03-08,No,Yes,No,Moderate,Medium,Emma Jones,Japan,Credit Card,Travel Agent,Business,7,3.3,None
+B030170,2025-03-13,R457,Suite,Booked,455.68,2,2025-03-13,2025-03-15,Yes,Yes,No,Moderate,Medium,John Smith,Germany,Debit Card,Direct,Business,11,3.8,None
+B030171,2025-03-26,R433,Suite,Cancelled,454.41,1,2025-03-26,2025-03-29,No,No,Yes,Moderate,Medium,John Smith,France,Cash,OTA,Business,16,3.3,Late check-in
+B030172,2025-03-06,R219,Deluxe,No-Show,223.41,1,2025-03-06,2025-03-07,Yes,No,Yes,Moderate,Medium,Emma Jones,Germany,Cash,OTA,Business,0,3.4,Extra towels
+B030173,2025-03-01,R463,Suite,Booked,490.22,3,2025-03-01,2025-03-06,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,France,Debit Card,Direct,Business,18,4.2,Late check-in
+B030174,2025-03-13,R409,Deluxe,Booked,250.64,4,2025-03-13,2025-03-15,Yes,No,No,Moderate,Medium,John Smith,Japan,Debit Card,Direct,Business,14,3.8,Late check-in
+B030175,2025-03-23,R434,Deluxe,Available,249.08,0,,,No,No,No,Moderate,Medium,,,,,,16,4.2,
+B030176,2025-03-20,R230,Standard,Cancelled,119.98,1,2025-03-20,2025-03-21,No,Yes,No,Moderate,Medium,Marie Dubois,UK,Cash,OTA,Leisure,7,5.0,None
+B030177,2025-03-02,R182,Deluxe,Available,220.75,0,,,No,Yes,No,Moderate,Medium,,,,,,7,4.2,
+B030178,2025-03-25,R181,Standard,Booked,108.02,1,2025-03-25,2025-03-27,Yes,No,Yes,Moderate,Medium,Yuki Tanaka,France,Cash,Direct,Leisure,6,4.8,None
+B030179,2025-03-20,R181,Suite,Cancelled,477.28,2,2025-03-20,2025-03-25,No,Yes,Yes,Moderate,Medium,Marie Dubois,UK,Credit Card,OTA,Leisure,4,3.4,Late check-in
+B030180,2025-03-26,R430,Standard,Booked,115.58,2,2025-03-26,2025-03-28,No,Yes,Yes,Moderate,Medium,Hans Muller,Canada,Credit Card,OTA,Leisure,12,3.0,Extra towels
+B030181,2025-03-26,R334,Deluxe,Cancelled,225.81,4,2025-03-26,2025-03-31,Yes,Yes,No,Moderate,Medium,Hans Muller,Germany,Credit Card,OTA,Leisure,16,4.6,Extra towels
+B030182,2025-03-27,R449,Deluxe,Available,221.45,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,16,3.3,
+B030183,2025-03-11,R231,Standard,Booked,112.62,4,2025-03-11,2025-03-13,Yes,Yes,No,Moderate,Medium,Marie Dubois,UK,Debit Card,OTA,Leisure,15,4.8,None
+B030184,2025-03-18,R395,Standard,No-Show,130.47,4,2025-03-18,2025-03-20,Yes,Yes,Yes,Moderate,Medium,Hans Muller,Germany,Debit Card,OTA,Business,1,4.2,Extra towels
+B030185,2025-03-25,R473,Suite,Booked,492.0,2,2025-03-25,2025-03-26,Yes,No,Yes,Moderate,Medium,Emma Jones,USA,Debit Card,Direct,Leisure,12,4.1,Extra towels
+B030186,2025-03-27,R471,Suite,Booked,488.86,4,2025-03-27,2025-03-28,Yes,No,Yes,Moderate,Medium,Yuki Tanaka,France,Cash,Travel Agent,Business,6,3.8,None
+B030187,2025-03-13,R112,Suite,Booked,487.6,4,2025-03-13,2025-03-14,Yes,No,No,Moderate,Medium,Marie Dubois,France,Cash,OTA,Leisure,3,4.1,Extra towels
+B030188,2025-03-08,R271,Suite,Booked,508.35,4,2025-03-08,2025-03-11,Yes,No,No,Moderate,Medium,Hans Muller,Japan,Debit Card,Travel Agent,Business,17,4.5,Late check-in
+B030189,2025-03-19,R161,Deluxe,Available,238.4,0,,,No,Yes,Yes,Moderate,Medium,,,,,,16,3.8,
+B030190,2025-03-22,R334,Standard,Booked,125.35,1,2025-03-22,2025-03-27,No,No,Yes,Moderate,Medium,John Smith,Germany,Debit Card,Travel Agent,Business,6,4.5,Extra towels
+B030191,2025-03-14,R460,Suite,Available,493.93,0,,,No,No,No,Moderate,Medium,,,,,,16,3.6,
+B030192,2025-03-07,R167,Standard,Available,122.84,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,7,3.7,
+B030193,2025-03-05,R138,Deluxe,Cancelled,240.8,3,2025-03-05,2025-03-08,No,No,No,Moderate,Medium,Hans Muller,Canada,Debit Card,Travel Agent,Leisure,17,4.7,Extra towels
+B030194,2025-03-05,R399,Deluxe,Cancelled,251.72,1,2025-03-05,2025-03-06,No,No,Yes,Moderate,Medium,Yuki Tanaka,France,Cash,Direct,Business,4,3.0,Late check-in
+B030195,2025-03-07,R309,Suite,Booked,435.55,4,2025-03-07,2025-03-09,No,No,No,Moderate,Medium,Hans Muller,USA,Credit Card,OTA,Leisure,7,3.2,None
+B030196,2025-03-16,R137,Deluxe,Booked,225.1,1,2025-03-16,2025-03-19,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,USA,Debit Card,OTA,Business,20,4.9,None
+B030197,2025-03-07,R337,Standard,Cancelled,113.3,3,2025-03-07,2025-03-11,Yes,No,No,Moderate,Medium,John Smith,Canada,Credit Card,Direct,Business,18,3.7,Extra towels
+B030198,2025-03-26,R198,Deluxe,Booked,258.44,3,2025-03-26,2025-03-28,No,Yes,No,Moderate,Medium,Hans Muller,Germany,Credit Card,OTA,Business,9,4.2,Extra towels
+B030199,2025-03-12,R149,Standard,Booked,111.89,1,2025-03-12,2025-03-14,Yes,No,Yes,Moderate,Medium,Emma Jones,Germany,Credit Card,Travel Agent,Leisure,3,4.4,Late check-in
+B030200,2025-03-09,R210,Suite,Available,488.3,0,,,Yes,No,Yes,Moderate,Medium,,,,,,1,4.1,
+B030201,2025-03-14,R200,Standard,Available,129.07,0,,,No,Yes,No,Moderate,Medium,,,,,,11,4.2,
+B030202,2025-03-10,R353,Deluxe,Booked,255.34,2,2025-03-10,2025-03-13,Yes,Yes,Yes,Moderate,Medium,Emma Jones,Germany,Cash,Travel Agent,Leisure,15,3.3,None
+B030203,2025-03-05,R196,Suite,Available,500.46,0,,,Yes,Yes,No,Moderate,Medium,,,,,,14,4.8,
+B030204,2025-03-05,R450,Standard,Available,113.84,0,,,No,Yes,Yes,Moderate,Medium,,,,,,11,3.6,
+B030205,2025-03-13,R409,Suite,Available,483.71,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,12,4.2,
+B030206,2025-03-06,R387,Standard,Available,110.18,0,,,Yes,No,Yes,Moderate,Medium,,,,,,18,3.0,
+B030207,2025-03-05,R262,Standard,Booked,131.3,2,2025-03-05,2025-03-08,No,No,No,Moderate,Medium,Emma Jones,Japan,Debit Card,OTA,Leisure,7,3.5,None
+B030208,2025-03-16,R266,Suite,Available,472.22,0,,,Yes,No,No,Moderate,Medium,,,,,,10,4.8,
+B030209,2025-03-24,R487,Standard,Available,115.61,0,,,Yes,No,No,Moderate,Medium,,,,,,16,3.3,
+B030210,2025-03-21,R100,Suite,Booked,471.98,3,2025-03-21,2025-03-24,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,USA,Cash,Direct,Leisure,14,4.5,Late check-in
+B030211,2025-03-14,R170,Deluxe,Booked,220.5,2,2025-03-14,2025-03-15,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,Canada,Cash,Direct,Leisure,7,3.2,Late check-in
+B030212,2025-03-21,R217,Standard,Cancelled,125.97,1,2025-03-21,2025-03-26,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,Germany,Credit Card,OTA,Business,17,4.5,None
+B030213,2025-03-14,R169,Standard,Booked,114.9,4,2025-03-14,2025-03-16,Yes,No,No,Moderate,Medium,Yuki Tanaka,Japan,Debit Card,Direct,Business,4,3.0,None
+B030214,2025-03-24,R457,Deluxe,Booked,223.29,2,2025-03-24,2025-03-27,No,Yes,Yes,Moderate,Medium,Marie Dubois,USA,Debit Card,Travel Agent,Leisure,19,4.7,Late check-in
+B030215,2025-03-09,R444,Standard,Cancelled,110.52,2,2025-03-09,2025-03-12,No,Yes,No,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,Direct,Leisure,13,3.7,Extra towels
+B030216,2025-03-01,R181,Standard,Available,123.24,0,,,No,Yes,No,Moderate,Medium,,,,,,8,3.0,
+B030217,2025-03-17,R340,Standard,Cancelled,108.64,2,2025-03-17,2025-03-21,No,Yes,No,Moderate,Medium,Marie Dubois,Japan,Cash,Travel Agent,Leisure,4,4.3,None
+B030218,2025-03-14,R223,Deluxe,Available,224.76,0,,,No,No,No,Moderate,Medium,,,,,,20,3.2,
+B030219,2025-03-14,R449,Suite,Booked,448.81,4,2025-03-14,2025-03-15,Yes,Yes,No,Moderate,Medium,John Smith,Japan,Debit Card,OTA,Business,5,4.1,None
+B030220,2025-03-17,R249,Standard,Booked,113.37,1,2025-03-17,2025-03-22,Yes,No,No,Moderate,Medium,Emma Jones,UK,Credit Card,Travel Agent,Leisure,7,3.5,Late check-in
+B030221,2025-03-14,R474,Deluxe,Available,223.86,0,,,Yes,Yes,No,Moderate,Medium,,,,,,18,3.6,
+B030222,2025-03-18,R403,Suite,Booked,484.55,4,2025-03-18,2025-03-19,Yes,Yes,Yes,Moderate,Medium,Hans Muller,Germany,Debit Card,OTA,Business,0,3.3,Late check-in
+B030223,2025-03-21,R282,Deluxe,Booked,252.14,1,2025-03-21,2025-03-25,No,Yes,Yes,Moderate,Medium,John Smith,UK,Cash,Direct,Business,14,3.1,Extra towels
+B030224,2025-03-02,R166,Deluxe,Booked,253.96,1,2025-03-02,2025-03-07,No,Yes,No,Moderate,Medium,John Smith,Japan,Debit Card,Travel Agent,Business,12,4.7,Late check-in
+B030225,2025-03-12,R198,Suite,Available,463.68,0,,,No,Yes,Yes,Moderate,Medium,,,,,,13,5.0,
+B030226,2025-03-22,R398,Suite,Cancelled,444.09,1,2025-03-22,2025-03-27,No,Yes,Yes,Moderate,Medium,Hans Muller,UK,Debit Card,Direct,Leisure,9,4.2,Extra towels
+B030227,2025-03-08,R394,Deluxe,Booked,238.23,4,2025-03-08,2025-03-10,No,Yes,Yes,Moderate,Medium,Emma Jones,UK,Credit Card,Direct,Business,13,4.3,None
+B030228,2025-03-04,R186,Standard,Available,131.79,0,,,Yes,No,Yes,Moderate,Medium,,,,,,3,4.5,
+B030229,2025-03-24,R349,Suite,Booked,512.98,1,2025-03-24,2025-03-28,No,Yes,Yes,Moderate,Medium,John Smith,France,Debit Card,OTA,Business,4,4.5,Extra towels
+B030230,2025-03-18,R216,Suite,Cancelled,464.52,1,2025-03-18,2025-03-23,Yes,Yes,Yes,Moderate,Medium,John Smith,Japan,Debit Card,Travel Agent,Business,17,3.3,None
+B030231,2025-03-12,R325,Standard,Available,131.11,0,,,No,No,Yes,Moderate,Medium,,,,,,17,4.3,
+B030232,2025-03-22,R440,Deluxe,Available,237.0,0,,,No,Yes,Yes,Moderate,Medium,,,,,,13,3.5,
+B030233,2025-03-04,R426,Suite,Cancelled,438.75,2,2025-03-04,2025-03-06,Yes,Yes,No,Moderate,Medium,Marie Dubois,France,Credit Card,Direct,Leisure,1,4.2,Extra towels
+B030234,2025-03-08,R242,Standard,Available,129.48,0,,,Yes,Yes,No,Moderate,Medium,,,,,,7,4.4,
+B030235,2025-03-03,R150,Standard,Available,123.97,0,,,No,Yes,No,Moderate,Medium,,,,,,0,4.6,
+B030236,2025-03-28,R175,Standard,Booked,120.94,3,2025-03-28,2025-03-30,No,Yes,No,Moderate,Medium,Emma Jones,Germany,Debit Card,OTA,Business,2,3.9,None
+B030237,2025-03-24,R311,Deluxe,Available,218.85,0,,,No,Yes,Yes,Moderate,Medium,,,,,,2,3.9,
+B030238,2025-03-17,R110,Suite,Cancelled,492.33,1,2025-03-17,2025-03-20,No,Yes,No,Moderate,Medium,Marie Dubois,UK,Cash,Travel Agent,Business,19,5.0,Extra towels
+B030239,2025-03-27,R411,Deluxe,Booked,220.57,3,2025-03-27,2025-03-30,Yes,No,Yes,Moderate,Medium,John Smith,Japan,Credit Card,Direct,Business,7,4.2,Extra towels
+B030240,2025-03-09,R244,Deluxe,Booked,225.97,4,2025-03-09,2025-03-13,No,Yes,No,Moderate,Medium,John Smith,Canada,Credit Card,Direct,Leisure,13,3.6,Extra towels
+B030241,2025-03-03,R211,Suite,Cancelled,448.06,4,2025-03-03,2025-03-05,No,Yes,No,Moderate,Medium,Emma Jones,Canada,Cash,Direct,Leisure,6,4.7,Late check-in
+B030242,2025-03-20,R254,Suite,Booked,443.51,4,2025-03-20,2025-03-24,No,No,No,Moderate,Medium,Hans Muller,UK,Credit Card,Direct,Leisure,20,4.4,None
+B030243,2025-03-03,R138,Deluxe,Booked,229.37,1,2025-03-03,2025-03-08,Yes,No,Yes,Moderate,Medium,John Smith,Canada,Cash,OTA,Business,0,4.1,Extra towels
+B030244,2025-03-21,R441,Standard,Available,124.22,0,,,No,No,Yes,Moderate,Medium,,,,,,7,3.1,
+B030245,2025-03-08,R152,Standard,Cancelled,114.97,4,2025-03-08,2025-03-10,Yes,No,No,Moderate,Medium,Marie Dubois,Canada,Cash,Travel Agent,Business,13,3.8,Late check-in
+B030246,2025-03-05,R250,Deluxe,Booked,258.66,4,2025-03-05,2025-03-07,Yes,Yes,No,Moderate,Medium,Hans Muller,UK,Credit Card,Travel Agent,Leisure,14,3.6,None
+B030247,2025-03-01,R456,Suite,Booked,445.94,2,2025-03-01,2025-03-06,No,No,No,Moderate,Medium,Marie Dubois,Japan,Cash,Travel Agent,Business,13,3.7,Late check-in
+B030248,2025-03-21,R406,Suite,Cancelled,480.07,3,2025-03-21,2025-03-24,Yes,Yes,Yes,Moderate,Medium,Emma Jones,UK,Debit Card,OTA,Business,16,5.0,None
+B030249,2025-03-02,R135,Standard,Available,127.3,0,,,No,No,Yes,Moderate,Medium,,,,,,1,4.1,
+B030250,2025-03-17,R320,Suite,Cancelled,442.43,1,2025-03-17,2025-03-19,No,Yes,No,Moderate,Medium,Yuki Tanaka,France,Debit Card,Travel Agent,Business,9,3.5,Extra towels
+B030251,2025-03-27,R138,Deluxe,No-Show,245.97,4,2025-03-27,2025-03-31,Yes,Yes,No,Moderate,Medium,Emma Jones,USA,Debit Card,OTA,Business,4,4.0,Extra towels
+B030252,2025-03-17,R442,Deluxe,Available,216.5,0,,,Yes,Yes,No,Moderate,Medium,,,,,,2,4.4,
+B030253,2025-03-08,R299,Deluxe,Available,261.73,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,6,3.3,
+B030254,2025-03-17,R299,Deluxe,Booked,251.39,1,2025-03-17,2025-03-21,Yes,No,No,Moderate,Medium,Marie Dubois,Japan,Credit Card,Direct,Business,17,3.3,Late check-in
+B030255,2025-03-10,R350,Standard,Booked,123.2,2,2025-03-10,2025-03-14,No,No,Yes,Moderate,Medium,Emma Jones,UK,Credit Card,Direct,Leisure,9,3.2,Extra towels
+B030256,2025-03-06,R429,Suite,Booked,502.52,2,2025-03-06,2025-03-10,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,Japan,Credit Card,Travel Agent,Leisure,3,4.7,Extra towels
+B030257,2025-03-16,R100,Deluxe,Available,216.36,0,,,No,Yes,No,Moderate,Medium,,,,,,18,4.3,
+B030258,2025-03-14,R209,Deluxe,Available,249.27,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,2,4.7,
+B030259,2025-03-20,R237,Deluxe,Cancelled,219.77,2,2025-03-20,2025-03-22,No,Yes,No,Moderate,Medium,John Smith,Japan,Cash,OTA,Leisure,9,4.4,Late check-in
+B030260,2025-03-02,R109,Standard,Booked,131.36,2,2025-03-02,2025-03-06,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,Germany,Credit Card,OTA,Leisure,4,3.0,None
+B030261,2025-03-13,R458,Deluxe,Booked,257.78,2,2025-03-13,2025-03-18,No,Yes,Yes,Moderate,Medium,Emma Jones,USA,Credit Card,OTA,Business,1,3.1,None
+B030262,2025-03-22,R207,Suite,Booked,481.31,2,2025-03-22,2025-03-27,Yes,No,No,Moderate,Medium,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,18,3.9,Late check-in
+B030263,2025-03-09,R412,Suite,Available,498.04,0,,,No,No,No,Moderate,Medium,,,,,,8,4.0,
+B030264,2025-03-16,R458,Suite,Booked,454.94,1,2025-03-16,2025-03-21,No,No,Yes,Moderate,Medium,Yuki Tanaka,France,Debit Card,Direct,Leisure,9,3.4,Extra towels
+B030265,2025-03-27,R260,Suite,Cancelled,476.46,1,2025-03-27,2025-04-01,No,No,Yes,Moderate,Medium,John Smith,UK,Credit Card,Direct,Business,12,4.3,None
+B030266,2025-03-08,R432,Suite,Booked,446.62,1,2025-03-08,2025-03-13,Yes,Yes,No,Moderate,Medium,Emma Jones,Japan,Debit Card,Direct,Business,18,4.2,None
+B030267,2025-03-26,R412,Standard,Booked,129.88,2,2025-03-26,2025-03-29,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Canada,Cash,Direct,Leisure,0,4.1,Extra towels
+B030268,2025-03-13,R291,Deluxe,Available,229.99,0,,,No,No,No,Moderate,Medium,,,,,,3,4.1,
+B030269,2025-03-09,R400,Deluxe,Booked,258.57,4,2025-03-09,2025-03-12,No,No,No,Moderate,Medium,Emma Jones,UK,Cash,OTA,Leisure,20,4.6,Late check-in
+B030270,2025-03-01,R113,Deluxe,Cancelled,253.0,2,2025-03-01,2025-03-03,No,No,Yes,Moderate,Medium,Emma Jones,France,Credit Card,Travel Agent,Business,3,4.3,None
+B030271,2025-03-15,R406,Standard,Booked,116.38,1,2025-03-15,2025-03-18,No,Yes,No,Moderate,Medium,John Smith,France,Cash,Direct,Leisure,11,4.1,None
+B030272,2025-03-03,R210,Standard,Booked,108.15,2,2025-03-03,2025-03-04,No,Yes,Yes,Moderate,Medium,Hans Muller,France,Cash,Direct,Leisure,14,4.9,Extra towels
+B030273,2025-03-20,R233,Standard,Booked,130.85,4,2025-03-20,2025-03-22,Yes,Yes,No,Moderate,Medium,Hans Muller,USA,Cash,Direct,Business,14,4.5,Extra towels
+B030274,2025-03-25,R430,Deluxe,Cancelled,219.35,2,2025-03-25,2025-03-28,Yes,No,Yes,Moderate,Medium,Marie Dubois,Germany,Cash,Travel Agent,Leisure,16,3.6,Extra towels
+B030275,2025-03-08,R441,Standard,Available,113.84,0,,,No,No,No,Moderate,Medium,,,,,,11,3.5,
+B030276,2025-03-28,R408,Deluxe,Booked,216.03,2,2025-03-28,2025-03-31,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,Canada,Debit Card,OTA,Leisure,20,3.2,Extra towels
+B030277,2025-03-09,R374,Deluxe,Booked,239.66,4,2025-03-09,2025-03-11,Yes,Yes,No,Moderate,Medium,Hans Muller,UK,Credit Card,OTA,Leisure,1,3.6,Late check-in
+B030278,2025-03-01,R398,Suite,Booked,469.36,2,2025-03-01,2025-03-05,Yes,Yes,No,Moderate,Medium,John Smith,Germany,Debit Card,Direct,Business,14,4.0,Extra towels
+B030279,2025-03-01,R236,Standard,Available,112.84,0,,,Yes,No,Yes,Moderate,Medium,,,,,,12,3.6,
+B030280,2025-03-01,R159,Deluxe,Cancelled,263.05,3,2025-03-01,2025-03-06,Yes,No,No,Moderate,Medium,Hans Muller,Canada,Credit Card,OTA,Leisure,14,4.2,Extra towels
+B030281,2025-03-03,R331,Deluxe,Booked,229.22,4,2025-03-03,2025-03-08,No,No,No,Moderate,Medium,Marie Dubois,France,Credit Card,Travel Agent,Leisure,18,4.0,Extra towels
+B030282,2025-03-09,R433,Standard,Booked,113.76,4,2025-03-09,2025-03-12,Yes,No,No,Moderate,Medium,John Smith,Japan,Debit Card,OTA,Leisure,20,3.1,None
+B030283,2025-03-17,R250,Deluxe,Booked,251.78,4,2025-03-17,2025-03-19,Yes,No,Yes,Moderate,Medium,Emma Jones,Japan,Debit Card,Travel Agent,Business,3,4.6,None
+B030284,2025-03-10,R248,Deluxe,Booked,248.79,3,2025-03-10,2025-03-11,No,Yes,Yes,Moderate,Medium,Marie Dubois,USA,Credit Card,Direct,Business,0,4.4,Extra towels
+B030285,2025-03-21,R151,Standard,Booked,124.29,1,2025-03-21,2025-03-24,No,Yes,Yes,Moderate,Medium,John Smith,France,Credit Card,OTA,Business,7,4.5,Late check-in
+B030286,2025-03-28,R232,Standard,Cancelled,115.51,4,2025-03-28,2025-04-02,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,Travel Agent,Business,0,4.0,Extra towels
+B030287,2025-03-23,R405,Standard,No-Show,130.3,3,2025-03-23,2025-03-28,No,Yes,No,Moderate,Medium,Emma Jones,Japan,Credit Card,Direct,Leisure,16,3.7,Extra towels
+B030288,2025-03-20,R127,Deluxe,Booked,237.24,4,2025-03-20,2025-03-24,Yes,No,No,Moderate,Medium,Hans Muller,USA,Cash,Direct,Leisure,15,4.7,Late check-in
+B030289,2025-03-24,R195,Standard,Available,115.75,0,,,No,Yes,No,Moderate,Medium,,,,,,19,3.2,
+B030290,2025-03-08,R287,Standard,Booked,121.45,3,2025-03-08,2025-03-10,No,No,Yes,Moderate,Medium,Marie Dubois,UK,Credit Card,Direct,Business,15,3.9,Late check-in
+B030291,2025-03-10,R364,Suite,Available,496.14,0,,,Yes,No,No,Moderate,Medium,,,,,,15,4.1,
+B030292,2025-03-09,R419,Suite,Available,486.3,0,,,No,No,Yes,Moderate,Medium,,,,,,10,3.0,
+B030293,2025-03-12,R182,Deluxe,Booked,253.09,3,2025-03-12,2025-03-16,Yes,No,Yes,Moderate,Medium,John Smith,UK,Cash,OTA,Leisure,20,3.5,None
+B030294,2025-03-08,R330,Deluxe,Booked,220.31,1,2025-03-08,2025-03-13,No,No,Yes,Moderate,Medium,Hans Muller,Canada,Credit Card,OTA,Leisure,8,4.9,Late check-in
+B030295,2025-03-18,R110,Suite,Available,526.46,0,,,Yes,No,No,Moderate,Medium,,,,,,9,3.7,
+B030296,2025-03-01,R163,Deluxe,Cancelled,259.41,3,2025-03-01,2025-03-03,Yes,No,Yes,Moderate,Medium,Marie Dubois,Germany,Debit Card,Direct,Business,5,3.3,Late check-in
+B030297,2025-03-22,R165,Standard,Available,113.96,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,9,3.4,
+B030298,2025-03-27,R193,Standard,Booked,112.45,4,2025-03-27,2025-03-29,No,No,Yes,Moderate,Medium,Marie Dubois,UK,Credit Card,Direct,Business,8,3.7,Extra towels
+B030299,2025-03-22,R469,Suite,Booked,434.5,2,2025-03-22,2025-03-23,Yes,Yes,Yes,Moderate,Medium,John Smith,Canada,Cash,OTA,Leisure,2,4.9,None
+B030300,2025-03-20,R441,Deluxe,Available,251.36,0,,,No,Yes,No,Moderate,Medium,,,,,,0,4.9,
+B030301,2025-03-15,R440,Deluxe,Available,250.79,0,,,No,No,Yes,Moderate,Medium,,,,,,11,3.0,
+B030302,2025-03-15,R193,Suite,Booked,487.72,2,2025-03-15,2025-03-16,Yes,No,No,Moderate,Medium,Emma Jones,Japan,Debit Card,Direct,Business,18,4.2,Extra towels
+B030303,2025-03-10,R124,Deluxe,Booked,242.16,4,2025-03-10,2025-03-15,No,Yes,No,Moderate,Medium,Marie Dubois,Canada,Cash,Direct,Business,9,4.5,Extra towels
+B030304,2025-03-25,R418,Standard,Booked,128.32,1,2025-03-25,2025-03-28,No,No,Yes,Moderate,Medium,Hans Muller,Germany,Credit Card,OTA,Leisure,19,5.0,Late check-in
+B030305,2025-03-24,R168,Suite,Available,479.37,0,,,No,Yes,No,Moderate,Medium,,,,,,3,3.6,
+B030306,2025-03-04,R464,Deluxe,Booked,226.95,1,2025-03-04,2025-03-09,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,France,Credit Card,Direct,Leisure,6,3.9,Extra towels
+B030307,2025-03-01,R399,Suite,Available,452.46,0,,,Yes,No,No,Moderate,Medium,,,,,,2,4.5,
+B030308,2025-03-06,R124,Suite,Available,467.14,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,19,4.8,
+B030309,2025-03-12,R352,Suite,Booked,437.31,2,2025-03-12,2025-03-14,Yes,Yes,Yes,Moderate,Medium,John Smith,France,Credit Card,Direct,Business,13,3.9,None
+B030310,2025-03-09,R485,Standard,Cancelled,112.21,1,2025-03-09,2025-03-12,No,Yes,No,Moderate,Medium,Hans Muller,Japan,Cash,Travel Agent,Business,7,4.4,Extra towels
+B030311,2025-03-02,R253,Deluxe,Available,226.24,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,17,3.9,
+B030312,2025-03-01,R315,Deluxe,Available,235.18,0,,,No,Yes,Yes,Moderate,Medium,,,,,,9,3.5,
+B030313,2025-03-15,R258,Deluxe,Booked,234.68,1,2025-03-15,2025-03-16,No,Yes,No,Moderate,Medium,Hans Muller,UK,Credit Card,Travel Agent,Business,19,4.4,Extra towels
+B030314,2025-03-22,R101,Suite,Booked,460.04,4,2025-03-22,2025-03-23,Yes,No,Yes,Moderate,Medium,Marie Dubois,France,Debit Card,Direct,Business,9,4.7,Extra towels
+B030315,2025-03-16,R450,Suite,Booked,487.82,2,2025-03-16,2025-03-21,No,No,Yes,Moderate,Medium,Emma Jones,Germany,Cash,OTA,Business,15,3.2,Late check-in
+B030316,2025-03-13,R399,Deluxe,Available,249.96,0,,,No,Yes,Yes,Moderate,Medium,,,,,,19,4.2,
+B030317,2025-03-20,R424,Suite,Cancelled,474.95,3,2025-03-20,2025-03-24,Yes,No,Yes,Moderate,Medium,Emma Jones,France,Debit Card,Travel Agent,Leisure,1,3.6,Late check-in
+B030318,2025-03-26,R222,Standard,Available,113.04,0,,,Yes,No,No,Moderate,Medium,,,,,,13,4.1,
+B030319,2025-03-16,R182,Suite,Booked,455.52,2,2025-03-16,2025-03-19,No,Yes,No,Moderate,Medium,John Smith,UK,Cash,Direct,Business,11,4.9,Late check-in
+B030320,2025-03-13,R363,Suite,Booked,526.78,2,2025-03-13,2025-03-16,Yes,Yes,No,Moderate,Medium,Emma Jones,Canada,Credit Card,Direct,Leisure,15,3.2,Extra towels
+B030321,2025-03-22,R166,Standard,Booked,116.06,4,2025-03-22,2025-03-24,No,No,No,Moderate,Medium,Yuki Tanaka,France,Debit Card,Direct,Leisure,7,4.2,Extra towels
+B030322,2025-03-12,R421,Standard,Booked,126.65,2,2025-03-12,2025-03-14,No,Yes,No,Moderate,Medium,Emma Jones,Canada,Debit Card,Travel Agent,Leisure,6,4.3,Late check-in
+B030323,2025-03-23,R365,Suite,Available,472.25,0,,,No,Yes,Yes,Moderate,Medium,,,,,,17,4.6,
+B030324,2025-03-21,R292,Suite,Booked,525.13,1,2025-03-21,2025-03-22,No,Yes,Yes,Moderate,Medium,John Smith,Japan,Cash,Direct,Business,15,4.9,None
+B030325,2025-03-19,R197,Deluxe,Booked,219.55,1,2025-03-19,2025-03-21,Yes,No,No,Moderate,Medium,Hans Muller,Canada,Cash,OTA,Business,4,3.4,None
+B030326,2025-03-05,R218,Suite,Cancelled,437.34,1,2025-03-05,2025-03-08,No,No,Yes,Moderate,Medium,Emma Jones,France,Credit Card,OTA,Business,15,3.4,None
+B030327,2025-03-13,R443,Standard,Cancelled,124.84,1,2025-03-13,2025-03-16,Yes,Yes,No,Moderate,Medium,John Smith,Japan,Cash,Direct,Leisure,1,3.6,None
+B030328,2025-03-06,R305,Deluxe,Booked,220.74,1,2025-03-06,2025-03-07,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,Japan,Cash,Direct,Leisure,10,3.5,Extra towels
+B030329,2025-03-06,R395,Suite,Booked,498.4,3,2025-03-06,2025-03-11,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,USA,Credit Card,Direct,Leisure,4,4.6,Late check-in
+B030330,2025-03-10,R386,Suite,Booked,480.58,3,2025-03-10,2025-03-14,No,No,No,Moderate,Medium,Emma Jones,Germany,Debit Card,Travel Agent,Business,3,4.6,None
+B030331,2025-03-16,R108,Deluxe,Booked,246.95,1,2025-03-16,2025-03-19,No,Yes,Yes,Moderate,Medium,Hans Muller,Canada,Debit Card,OTA,Business,9,3.8,Late check-in
+B030332,2025-03-20,R209,Standard,Available,121.1,0,,,No,Yes,No,Moderate,Medium,,,,,,20,3.8,
+B030333,2025-03-24,R336,Suite,Booked,495.32,1,2025-03-24,2025-03-29,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,USA,Debit Card,Travel Agent,Leisure,5,4.5,Extra towels
+B030334,2025-03-12,R424,Deluxe,Available,217.24,0,,,Yes,Yes,No,Moderate,Medium,,,,,,1,3.0,
+B030335,2025-03-16,R397,Deluxe,Cancelled,236.46,2,2025-03-16,2025-03-18,Yes,No,Yes,Moderate,Medium,Emma Jones,UK,Debit Card,OTA,Business,5,3.5,Late check-in
+B030336,2025-03-24,R443,Suite,Booked,488.57,1,2025-03-24,2025-03-29,Yes,No,No,Moderate,Medium,John Smith,France,Debit Card,OTA,Business,10,3.4,Late check-in
+B030337,2025-03-12,R292,Standard,Booked,110.05,2,2025-03-12,2025-03-17,Yes,No,Yes,Moderate,Medium,Marie Dubois,Japan,Cash,Direct,Business,0,4.2,Extra towels
+B030338,2025-03-21,R221,Suite,Booked,493.35,4,2025-03-21,2025-03-22,Yes,Yes,No,Moderate,Medium,Marie Dubois,USA,Cash,OTA,Business,7,3.8,Extra towels
+B030339,2025-03-05,R403,Deluxe,Available,258.08,0,,,No,No,No,Moderate,Medium,,,,,,7,4.5,
+B030340,2025-03-05,R475,Standard,Booked,126.11,3,2025-03-05,2025-03-10,Yes,No,Yes,Moderate,Medium,Marie Dubois,Canada,Credit Card,Direct,Leisure,1,3.1,Late check-in
+B030341,2025-03-19,R146,Deluxe,Booked,253.31,1,2025-03-19,2025-03-21,No,Yes,No,Moderate,Medium,John Smith,Canada,Debit Card,OTA,Leisure,1,4.7,Late check-in
+B030342,2025-03-03,R103,Standard,Booked,125.42,4,2025-03-03,2025-03-06,Yes,No,No,Moderate,Medium,Yuki Tanaka,USA,Debit Card,Travel Agent,Leisure,20,4.5,Late check-in
+B030343,2025-03-27,R181,Standard,Booked,116.03,3,2025-03-27,2025-03-30,No,Yes,No,Moderate,Medium,John Smith,Canada,Debit Card,Travel Agent,Business,13,4.2,Late check-in
+B030344,2025-03-06,R281,Suite,Available,465.46,0,,,Yes,No,Yes,Moderate,Medium,,,,,,15,3.6,
+B030345,2025-03-26,R140,Standard,Cancelled,117.95,1,2025-03-26,2025-03-28,Yes,No,No,Moderate,Medium,Yuki Tanaka,UK,Debit Card,OTA,Leisure,16,4.7,Late check-in
+B030346,2025-03-28,R270,Suite,Available,486.52,0,,,No,No,No,Moderate,Medium,,,,,,4,5.0,
+B030347,2025-03-28,R454,Deluxe,Booked,260.93,2,2025-03-28,2025-03-31,No,No,Yes,Moderate,Medium,John Smith,Germany,Credit Card,Direct,Business,3,3.1,None
+B030348,2025-03-28,R328,Deluxe,Available,226.13,0,,,No,No,No,Moderate,Medium,,,,,,14,4.5,
+B030349,2025-03-19,R182,Standard,Available,109.38,0,,,No,No,Yes,Moderate,Medium,,,,,,18,3.9,
+B030350,2025-03-25,R161,Standard,Available,125.79,0,,,Yes,No,No,Moderate,Medium,,,,,,15,4.3,
+B030351,2025-03-05,R238,Deluxe,Available,261.52,0,,,No,No,No,Moderate,Medium,,,,,,17,3.6,
+B030352,2025-03-27,R297,Deluxe,Cancelled,224.74,4,2025-03-27,2025-03-31,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,USA,Cash,OTA,Leisure,4,4.5,Late check-in
+B030353,2025-03-19,R287,Suite,Booked,520.23,4,2025-03-19,2025-03-20,Yes,No,No,Moderate,Medium,Hans Muller,USA,Credit Card,OTA,Business,4,4.5,Extra towels
+B030354,2025-03-07,R396,Suite,Available,451.03,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,9,3.8,
+B030355,2025-03-24,R493,Deluxe,Available,220.61,0,,,Yes,No,No,Moderate,Medium,,,,,,4,3.9,
+B030356,2025-03-26,R251,Standard,Available,130.67,0,,,Yes,No,Yes,Moderate,Medium,,,,,,8,3.9,
+B030357,2025-03-11,R160,Deluxe,Booked,217.32,3,2025-03-11,2025-03-13,No,Yes,Yes,Moderate,Medium,Emma Jones,Germany,Credit Card,OTA,Leisure,8,4.2,Extra towels
+B030358,2025-03-24,R322,Standard,Cancelled,128.73,2,2025-03-24,2025-03-25,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,France,Cash,Direct,Business,11,3.8,Extra towels
+B030359,2025-03-13,R184,Standard,Booked,120.38,4,2025-03-13,2025-03-15,No,Yes,Yes,Moderate,Medium,John Smith,UK,Debit Card,Travel Agent,Leisure,0,3.7,Late check-in
+B030360,2025-03-03,R407,Deluxe,Available,219.97,0,,,No,No,No,Moderate,Medium,,,,,,9,4.1,
+B030361,2025-03-22,R380,Deluxe,Booked,261.11,3,2025-03-22,2025-03-23,Yes,Yes,No,Moderate,Medium,John Smith,Germany,Debit Card,Direct,Leisure,2,4.6,Extra towels
+B030362,2025-03-07,R287,Standard,Booked,108.33,1,2025-03-07,2025-03-09,No,Yes,No,Moderate,Medium,Hans Muller,USA,Debit Card,Direct,Business,2,3.2,None
+B030363,2025-03-04,R405,Standard,Cancelled,109.44,2,2025-03-04,2025-03-09,No,No,Yes,Moderate,Medium,John Smith,France,Cash,OTA,Leisure,7,4.1,Extra towels
+B030364,2025-03-10,R316,Deluxe,Booked,259.77,1,2025-03-10,2025-03-15,No,No,No,Moderate,Medium,Marie Dubois,Canada,Cash,Direct,Leisure,6,3.7,Late check-in
+B030365,2025-03-15,R357,Suite,Booked,522.22,4,2025-03-15,2025-03-19,No,Yes,No,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,Travel Agent,Business,14,4.5,Late check-in
+B030366,2025-03-02,R150,Standard,Booked,113.54,4,2025-03-02,2025-03-05,Yes,No,Yes,Moderate,Medium,Emma Jones,Japan,Debit Card,Travel Agent,Leisure,4,4.0,Extra towels
+B030367,2025-03-21,R122,Suite,Available,469.16,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,2,4.2,
+B030368,2025-03-28,R154,Standard,No-Show,128.87,2,2025-03-28,2025-04-01,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,Japan,Debit Card,Direct,Leisure,12,3.4,Late check-in
+B030369,2025-03-14,R136,Deluxe,Booked,238.45,2,2025-03-14,2025-03-16,No,No,Yes,Moderate,Medium,John Smith,Canada,Cash,OTA,Leisure,5,3.8,Late check-in
+B030370,2025-03-20,R222,Standard,Available,124.9,0,,,No,Yes,No,Moderate,Medium,,,,,,7,3.1,
+B030371,2025-03-21,R213,Standard,Available,131.15,0,,,Yes,Yes,No,Moderate,Medium,,,,,,14,4.6,
+B030372,2025-03-16,R309,Deluxe,Booked,249.34,3,2025-03-16,2025-03-19,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,UK,Debit Card,Direct,Leisure,0,4.5,None
+B030373,2025-03-05,R186,Standard,Available,112.07,0,,,Yes,Yes,No,Moderate,Medium,,,,,,8,4.8,
+B030374,2025-03-12,R113,Deluxe,Cancelled,250.93,1,2025-03-12,2025-03-16,No,Yes,Yes,Moderate,Medium,Marie Dubois,UK,Debit Card,Travel Agent,Business,11,4.4,Late check-in
+B030375,2025-03-25,R411,Deluxe,Booked,234.06,3,2025-03-25,2025-03-30,No,No,Yes,Moderate,Medium,Marie Dubois,USA,Cash,OTA,Business,3,4.3,Extra towels
+B030376,2025-03-11,R354,Deluxe,Available,259.4,0,,,No,No,Yes,Moderate,Medium,,,,,,12,4.7,
+B030377,2025-03-27,R124,Suite,Available,515.73,0,,,Yes,No,Yes,Moderate,Medium,,,,,,7,4.7,
+B030378,2025-03-01,R340,Suite,Booked,516.84,2,2025-03-01,2025-03-04,Yes,Yes,Yes,Moderate,Medium,John Smith,Japan,Debit Card,Travel Agent,Leisure,0,4.2,None
+B030379,2025-03-06,R452,Suite,Available,482.28,0,,,Yes,No,Yes,Moderate,Medium,,,,,,8,3.1,
+B030380,2025-03-19,R479,Deluxe,Booked,243.35,1,2025-03-19,2025-03-22,No,Yes,No,Moderate,Medium,Emma Jones,Canada,Credit Card,Travel Agent,Business,1,3.9,Late check-in
+B030381,2025-03-16,R340,Suite,Available,509.5,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,12,4.9,
+B030382,2025-03-12,R281,Suite,Available,437.94,0,,,Yes,Yes,No,Moderate,Medium,,,,,,2,3.5,
+B030383,2025-03-03,R262,Standard,Available,111.55,0,,,No,Yes,Yes,Moderate,Medium,,,,,,10,4.5,
+B030384,2025-03-26,R322,Deluxe,Available,228.77,0,,,Yes,Yes,No,Moderate,Medium,,,,,,7,3.5,
+B030385,2025-03-22,R371,Suite,Cancelled,464.51,1,2025-03-22,2025-03-23,Yes,No,No,Moderate,Medium,John Smith,Canada,Cash,OTA,Business,12,3.3,Extra towels
+B030386,2025-03-09,R207,Suite,Cancelled,454.08,3,2025-03-09,2025-03-11,No,Yes,Yes,Moderate,Medium,Emma Jones,Germany,Credit Card,Direct,Business,2,4.3,None
+B030387,2025-03-01,R405,Deluxe,Booked,248.93,4,2025-03-01,2025-03-02,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,UK,Cash,Travel Agent,Business,4,4.9,Late check-in
+B030388,2025-03-27,R419,Standard,Booked,130.75,2,2025-03-27,2025-04-01,Yes,No,Yes,Moderate,Medium,Emma Jones,Canada,Cash,OTA,Business,3,4.4,Extra towels
+B030389,2025-03-04,R490,Deluxe,Booked,228.64,4,2025-03-04,2025-03-07,Yes,No,Yes,Moderate,Medium,Emma Jones,Canada,Debit Card,Travel Agent,Leisure,19,4.7,Extra towels
+B030390,2025-03-01,R364,Suite,Available,456.96,0,,,Yes,No,Yes,Moderate,Medium,,,,,,4,4.7,
+B030391,2025-03-05,R223,Suite,Booked,507.19,1,2025-03-05,2025-03-10,No,No,Yes,Moderate,Medium,Yuki Tanaka,UK,Cash,OTA,Business,1,4.5,Late check-in
+B030392,2025-03-18,R372,Suite,Booked,501.18,2,2025-03-18,2025-03-21,Yes,No,No,Moderate,Medium,Hans Muller,Canada,Cash,OTA,Business,0,4.1,Extra towels
+B030393,2025-03-13,R345,Suite,Booked,499.8,1,2025-03-13,2025-03-17,Yes,No,No,Moderate,Medium,Hans Muller,France,Cash,Travel Agent,Leisure,0,3.5,Extra towels
+B030394,2025-03-02,R398,Deluxe,Cancelled,237.37,1,2025-03-02,2025-03-06,No,No,No,Moderate,Medium,Yuki Tanaka,France,Cash,OTA,Leisure,7,3.9,Late check-in
+B030395,2025-03-08,R309,Deluxe,Available,216.99,0,,,No,Yes,No,Moderate,Medium,,,,,,10,4.6,
+B030396,2025-03-04,R105,Standard,Booked,120.79,2,2025-03-04,2025-03-05,No,No,No,Moderate,Medium,Marie Dubois,UK,Cash,OTA,Leisure,20,4.9,Late check-in
+B030397,2025-03-12,R326,Deluxe,Available,249.37,0,,,Yes,No,No,Moderate,Medium,,,,,,1,3.8,
+B030398,2025-03-08,R118,Standard,Cancelled,125.41,1,2025-03-08,2025-03-11,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,Canada,Credit Card,Travel Agent,Business,1,4.6,None
+B030399,2025-03-14,R220,Deluxe,Available,220.76,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,20,4.3,
+B030400,2025-03-26,R366,Standard,Available,120.72,0,,,Yes,Yes,No,Moderate,Medium,,,,,,12,3.6,
+B030401,2025-03-23,R448,Deluxe,Booked,241.41,1,2025-03-23,2025-03-28,Yes,No,No,Moderate,Medium,Marie Dubois,Japan,Cash,Direct,Leisure,15,3.3,None
+B030402,2025-03-10,R327,Deluxe,Booked,248.36,2,2025-03-10,2025-03-11,Yes,No,No,Moderate,Medium,Hans Muller,Japan,Credit Card,Travel Agent,Leisure,13,4.7,None
+B030403,2025-03-08,R341,Standard,Available,117.32,0,,,No,No,No,Moderate,Medium,,,,,,9,4.2,
+B030404,2025-03-04,R112,Standard,Available,108.34,0,,,No,No,No,Moderate,Medium,,,,,,13,4.1,
+B030405,2025-03-04,R438,Standard,Available,125.25,0,,,Yes,Yes,No,Moderate,Medium,,,,,,6,3.8,
+B030406,2025-03-06,R278,Standard,Booked,123.43,2,2025-03-06,2025-03-09,Yes,No,No,Moderate,Medium,Emma Jones,USA,Debit Card,Direct,Leisure,3,4.6,None
+B030407,2025-03-01,R440,Suite,Cancelled,488.68,2,2025-03-01,2025-03-06,No,No,No,Moderate,Medium,John Smith,Japan,Credit Card,Travel Agent,Business,11,3.3,None
+B030408,2025-03-24,R230,Standard,Booked,127.1,3,2025-03-24,2025-03-28,Yes,Yes,No,Moderate,Medium,Marie Dubois,Japan,Debit Card,Travel Agent,Leisure,13,3.2,Late check-in
+B030409,2025-03-21,R270,Suite,Cancelled,473.39,1,2025-03-21,2025-03-26,Yes,No,No,Moderate,Medium,Hans Muller,France,Debit Card,OTA,Business,12,4.5,None
+B030410,2025-03-20,R215,Standard,Booked,118.52,4,2025-03-20,2025-03-24,No,Yes,No,Moderate,Medium,Marie Dubois,Canada,Debit Card,OTA,Business,20,3.4,Extra towels
+B030411,2025-03-25,R110,Suite,Cancelled,526.13,3,2025-03-25,2025-03-27,No,Yes,No,Moderate,Medium,Marie Dubois,France,Credit Card,Direct,Leisure,11,4.9,Late check-in
+B030412,2025-03-07,R386,Suite,Booked,456.34,4,2025-03-07,2025-03-08,Yes,Yes,Yes,Moderate,Medium,John Smith,France,Debit Card,Travel Agent,Business,20,4.2,None
+B030413,2025-03-04,R295,Deluxe,Cancelled,219.93,2,2025-03-04,2025-03-06,No,No,Yes,Moderate,Medium,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,2,4.2,Extra towels
+B030414,2025-03-08,R242,Standard,Available,110.66,0,,,No,Yes,No,Moderate,Medium,,,,,,9,3.4,
+B030415,2025-03-07,R353,Suite,Booked,481.01,2,2025-03-07,2025-03-11,Yes,No,No,Moderate,Medium,Hans Muller,UK,Credit Card,OTA,Business,0,3.6,Extra towels
+B030416,2025-03-07,R492,Suite,Booked,464.89,3,2025-03-07,2025-03-10,No,Yes,Yes,Moderate,Medium,Marie Dubois,Japan,Debit Card,OTA,Leisure,15,4.9,Late check-in
+B030417,2025-03-09,R303,Deluxe,Available,239.15,0,,,Yes,No,Yes,Moderate,Medium,,,,,,13,4.8,
+B030418,2025-03-14,R185,Deluxe,Booked,228.01,4,2025-03-14,2025-03-17,No,Yes,No,Moderate,Medium,Hans Muller,UK,Debit Card,Travel Agent,Leisure,4,4.4,Late check-in
+B030419,2025-03-26,R483,Deluxe,Booked,247.82,1,2025-03-26,2025-03-31,No,No,No,Moderate,Medium,John Smith,France,Debit Card,Direct,Business,6,5.0,Extra towels
+B030420,2025-03-14,R383,Standard,Cancelled,112.08,3,2025-03-14,2025-03-16,Yes,No,Yes,Moderate,Medium,Marie Dubois,UK,Cash,Travel Agent,Business,14,3.9,None
+B030421,2025-03-17,R188,Deluxe,Available,256.13,0,,,No,No,No,Moderate,Medium,,,,,,0,4.7,
+B030422,2025-03-17,R123,Suite,Available,517.0,0,,,No,No,No,Moderate,Medium,,,,,,19,5.0,
+B030423,2025-03-07,R114,Standard,Booked,124.65,3,2025-03-07,2025-03-11,No,Yes,Yes,Moderate,Medium,Yuki Tanaka,Japan,Debit Card,OTA,Business,13,4.7,Late check-in
+B030424,2025-03-09,R305,Deluxe,Available,235.9,0,,,No,Yes,No,Moderate,Medium,,,,,,15,4.4,
+B030425,2025-03-10,R180,Deluxe,Booked,238.84,4,2025-03-10,2025-03-11,No,No,No,Moderate,Medium,Hans Muller,France,Debit Card,Direct,Leisure,5,3.6,Extra towels
+B030426,2025-03-03,R500,Standard,Available,128.48,0,,,Yes,No,Yes,Moderate,Medium,,,,,,1,4.7,
+B030427,2025-03-24,R459,Deluxe,Booked,243.01,2,2025-03-24,2025-03-26,Yes,Yes,No,Moderate,Medium,Marie Dubois,France,Credit Card,Direct,Business,18,3.8,Extra towels
+B030428,2025-03-13,R303,Standard,Booked,125.77,3,2025-03-13,2025-03-17,Yes,Yes,Yes,Moderate,Medium,Marie Dubois,UK,Cash,Direct,Business,4,4.1,None
+B030429,2025-03-09,R199,Deluxe,Cancelled,218.26,1,2025-03-09,2025-03-11,No,No,Yes,Moderate,Medium,Yuki Tanaka,Canada,Debit Card,OTA,Leisure,7,4.6,Late check-in
+B030430,2025-03-12,R345,Standard,Available,111.99,0,,,No,No,Yes,Moderate,Medium,,,,,,14,4.9,
+B030431,2025-03-27,R225,Deluxe,Available,235.14,0,,,Yes,No,Yes,Moderate,Medium,,,,,,7,4.0,
+B030432,2025-03-26,R228,Deluxe,Available,216.86,0,,,Yes,No,Yes,Moderate,Medium,,,,,,7,4.4,
+B030433,2025-03-03,R138,Standard,Booked,120.57,1,2025-03-03,2025-03-04,No,Yes,Yes,Moderate,Medium,Emma Jones,France,Cash,OTA,Business,17,4.8,Late check-in
+B030434,2025-03-14,R277,Deluxe,No-Show,234.06,1,2025-03-14,2025-03-18,Yes,No,Yes,Moderate,Medium,Hans Muller,Japan,Cash,OTA,Business,7,3.7,Late check-in
+B030435,2025-03-06,R231,Deluxe,Available,224.37,0,,,No,Yes,No,Moderate,Medium,,,,,,17,4.6,
+B030436,2025-03-10,R344,Standard,Available,114.88,0,,,No,No,No,Moderate,Medium,,,,,,6,3.9,
+B030437,2025-03-18,R463,Deluxe,Cancelled,238.67,3,2025-03-18,2025-03-21,No,Yes,No,Moderate,Medium,Hans Muller,Germany,Cash,Direct,Leisure,6,3.4,None
+B030438,2025-03-10,R172,Deluxe,Booked,252.77,1,2025-03-10,2025-03-12,Yes,No,No,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,OTA,Leisure,14,3.1,Extra towels
+B030439,2025-03-06,R477,Suite,Cancelled,458.97,1,2025-03-06,2025-03-08,No,No,No,Moderate,Medium,Yuki Tanaka,Canada,Debit Card,Travel Agent,Leisure,0,4.7,Late check-in
+B030440,2025-03-22,R209,Suite,Available,432.27,0,,,Yes,Yes,No,Moderate,Medium,,,,,,3,3.8,
+B030441,2025-03-17,R419,Standard,Booked,112.61,1,2025-03-17,2025-03-19,No,Yes,No,Moderate,Medium,Yuki Tanaka,France,Debit Card,OTA,Leisure,17,4.8,None
+B030442,2025-03-05,R444,Suite,Booked,458.87,1,2025-03-05,2025-03-09,No,Yes,No,Moderate,Medium,Emma Jones,USA,Debit Card,Travel Agent,Business,3,3.9,None
+B030443,2025-03-28,R128,Suite,Booked,456.97,2,2025-03-28,2025-03-31,Yes,No,No,Moderate,Medium,Hans Muller,Japan,Credit Card,Travel Agent,Leisure,20,3.7,None
+B030444,2025-03-05,R323,Suite,Booked,525.46,2,2025-03-05,2025-03-09,Yes,Yes,Yes,Moderate,Medium,John Smith,Canada,Credit Card,Travel Agent,Business,19,4.7,Late check-in
+B030445,2025-03-13,R403,Standard,Booked,110.6,2,2025-03-13,2025-03-16,Yes,No,Yes,Moderate,Medium,Emma Jones,UK,Debit Card,OTA,Business,7,4.8,Late check-in
+B030446,2025-03-16,R489,Standard,Booked,109.92,2,2025-03-16,2025-03-21,No,No,Yes,Moderate,Medium,Yuki Tanaka,Japan,Credit Card,Travel Agent,Leisure,14,4.5,Extra towels
+B030447,2025-03-14,R403,Standard,Available,131.05,0,,,Yes,Yes,No,Moderate,Medium,,,,,,18,4.7,
+B030448,2025-03-28,R420,Standard,No-Show,114.22,4,2025-03-28,2025-03-31,No,No,No,Moderate,Medium,Yuki Tanaka,Germany,Debit Card,Direct,Leisure,17,4.1,Late check-in
+B030449,2025-03-27,R360,Standard,Available,122.87,0,,,No,Yes,No,Moderate,Medium,,,,,,4,4.4,
+B030450,2025-03-26,R486,Standard,Booked,108.45,4,2025-03-26,2025-03-28,No,Yes,No,Moderate,Medium,Hans Muller,France,Debit Card,Direct,Leisure,0,4.5,None
+B030451,2025-03-12,R294,Deluxe,Available,238.76,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,7,4.4,
+B030452,2025-03-16,R372,Suite,Available,519.53,0,,,No,No,Yes,Moderate,Medium,,,,,,20,3.3,
+B030453,2025-03-07,R352,Deluxe,Available,220.85,0,,,No,Yes,No,Moderate,Medium,,,,,,7,4.6,
+B030454,2025-03-14,R224,Deluxe,Booked,243.92,4,2025-03-14,2025-03-18,No,Yes,Yes,Moderate,Medium,Marie Dubois,France,Debit Card,Travel Agent,Business,12,3.6,Late check-in
+B030455,2025-03-13,R413,Standard,Booked,110.77,1,2025-03-13,2025-03-15,No,No,Yes,Moderate,Medium,Yuki Tanaka,France,Debit Card,OTA,Leisure,18,4.3,None
+B030456,2025-03-26,R114,Deluxe,Available,231.95,0,,,No,No,No,Moderate,Medium,,,,,,15,4.6,
+B030457,2025-03-21,R213,Deluxe,Available,237.09,0,,,Yes,No,No,Moderate,Medium,,,,,,8,3.9,
+B030458,2025-03-15,R334,Suite,Cancelled,524.48,1,2025-03-15,2025-03-18,Yes,Yes,Yes,Moderate,Medium,Hans Muller,UK,Credit Card,Direct,Business,15,4.7,None
+B030459,2025-03-08,R197,Suite,Booked,500.78,1,2025-03-08,2025-03-13,Yes,No,No,Moderate,Medium,Hans Muller,UK,Cash,Travel Agent,Business,8,3.5,None
+B030460,2025-03-08,R175,Suite,Available,451.47,0,,,Yes,Yes,No,Moderate,Medium,,,,,,6,4.1,
+B030461,2025-03-08,R137,Deluxe,Available,256.12,0,,,No,Yes,No,Moderate,Medium,,,,,,3,4.5,
+B030462,2025-03-16,R335,Suite,Booked,478.38,4,2025-03-16,2025-03-17,Yes,No,Yes,Moderate,Medium,Marie Dubois,USA,Cash,Direct,Leisure,11,3.5,Extra towels
+B030463,2025-03-02,R315,Standard,Available,127.36,0,,,No,Yes,No,Moderate,Medium,,,,,,3,4.8,
+B030464,2025-03-14,R264,Deluxe,Booked,243.63,1,2025-03-14,2025-03-17,Yes,No,Yes,Moderate,Medium,Yuki Tanaka,USA,Credit Card,OTA,Leisure,2,4.0,Late check-in
+B030465,2025-03-18,R396,Standard,Booked,113.03,4,2025-03-18,2025-03-21,Yes,Yes,No,Moderate,Medium,Marie Dubois,Canada,Credit Card,Direct,Business,5,4.9,Late check-in
+B030466,2025-03-22,R241,Standard,Booked,123.53,3,2025-03-22,2025-03-25,Yes,Yes,Yes,Moderate,Medium,John Smith,Canada,Credit Card,Direct,Leisure,15,3.3,None
+B030467,2025-03-11,R226,Standard,Booked,118.34,2,2025-03-11,2025-03-15,Yes,Yes,Yes,Moderate,Medium,Yuki Tanaka,Japan,Cash,OTA,Leisure,17,4.2,Late check-in
+B030468,2025-03-26,R390,Deluxe,Available,228.3,0,,,No,No,No,Moderate,Medium,,,,,,1,3.4,
+B030469,2025-03-23,R100,Standard,Cancelled,127.28,3,2025-03-23,2025-03-25,No,No,No,Moderate,Medium,Emma Jones,France,Debit Card,Direct,Leisure,9,3.7,None
+B030470,2025-03-25,R129,Standard,Available,108.9,0,,,No,No,Yes,Moderate,Medium,,,,,,3,4.5,
+B030471,2025-03-24,R231,Standard,Booked,118.79,4,2025-03-24,2025-03-28,No,No,No,Moderate,Medium,Emma Jones,Canada,Cash,Direct,Business,7,4.4,Late check-in
+B030472,2025-03-20,R357,Deluxe,Booked,256.5,1,2025-03-20,2025-03-23,No,Yes,Yes,Moderate,Medium,Marie Dubois,Canada,Debit Card,Direct,Leisure,14,3.8,Late check-in
+B030473,2025-03-09,R277,Deluxe,Booked,233.05,3,2025-03-09,2025-03-14,Yes,No,Yes,Moderate,Medium,Yuki Tanaka,France,Debit Card,OTA,Leisure,9,3.4,Late check-in
+B030474,2025-03-13,R124,Deluxe,Cancelled,231.22,2,2025-03-13,2025-03-16,Yes,No,No,Moderate,Medium,Hans Muller,Japan,Credit Card,Travel Agent,Business,11,4.2,Extra towels
+B030475,2025-03-26,R375,Suite,Booked,460.59,3,2025-03-26,2025-03-29,No,Yes,No,Moderate,Medium,Emma Jones,UK,Debit Card,OTA,Business,3,4.1,Extra towels
+B030476,2025-03-23,R321,Deluxe,Booked,262.37,2,2025-03-23,2025-03-26,No,No,No,Moderate,Medium,Yuki Tanaka,France,Credit Card,OTA,Business,4,4.6,Extra towels
+B030477,2025-03-20,R169,Standard,Booked,130.27,2,2025-03-20,2025-03-25,No,No,No,Moderate,Medium,Yuki Tanaka,USA,Debit Card,Direct,Business,12,4.2,None
+B030478,2025-03-07,R178,Standard,Booked,123.42,1,2025-03-07,2025-03-11,No,No,No,Moderate,Medium,Hans Muller,Canada,Debit Card,Travel Agent,Leisure,12,3.7,Late check-in
+B030479,2025-03-10,R291,Suite,Available,515.32,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,12,3.2,
+B030480,2025-03-24,R254,Deluxe,Available,222.42,0,,,Yes,No,Yes,Moderate,Medium,,,,,,18,3.2,
+B030481,2025-03-20,R458,Suite,Available,470.96,0,,,No,No,No,Moderate,Medium,,,,,,8,4.5,
+B030482,2025-03-24,R450,Deluxe,Booked,226.75,1,2025-03-24,2025-03-25,No,Yes,Yes,Moderate,Medium,Emma Jones,UK,Cash,OTA,Business,7,3.5,Extra towels
+B030483,2025-03-10,R163,Deluxe,Booked,258.36,2,2025-03-10,2025-03-14,Yes,Yes,No,Moderate,Medium,Yuki Tanaka,France,Debit Card,Travel Agent,Business,15,3.1,None
+B030484,2025-03-09,R297,Suite,Booked,433.07,2,2025-03-09,2025-03-12,Yes,No,No,Moderate,Medium,Yuki Tanaka,UK,Cash,OTA,Business,5,5.0,Extra towels
+B030485,2025-03-07,R202,Deluxe,Cancelled,261.23,4,2025-03-07,2025-03-08,Yes,Yes,No,Moderate,Medium,John Smith,Germany,Cash,Direct,Business,19,3.9,Extra towels
+B030486,2025-03-01,R365,Deluxe,Booked,240.26,2,2025-03-01,2025-03-02,No,No,Yes,Moderate,Medium,Hans Muller,Canada,Cash,Direct,Business,4,3.6,Extra towels
+B030487,2025-03-26,R329,Standard,Booked,131.83,3,2025-03-26,2025-03-28,Yes,No,Yes,Moderate,Medium,John Smith,Canada,Credit Card,Travel Agent,Leisure,15,3.4,Extra towels
+B030488,2025-03-21,R180,Deluxe,Available,250.01,0,,,Yes,Yes,Yes,Moderate,Medium,,,,,,3,3.1,
+B030489,2025-03-26,R355,Standard,Booked,120.36,3,2025-03-26,2025-03-28,No,No,Yes,Moderate,Medium,Emma Jones,France,Credit Card,OTA,Leisure,9,4.9,Late check-in
+B030490,2025-03-21,R194,Standard,Available,111.14,0,,,Yes,No,Yes,Moderate,Medium,,,,,,1,3.9,
+B030491,2025-03-25,R416,Deluxe,Available,249.3,0,,,No,No,Yes,Moderate,Medium,,,,,,1,4.5,
+B030492,2025-03-24,R286,Standard,Booked,113.32,4,2025-03-24,2025-03-28,Yes,No,No,Moderate,Medium,Emma Jones,France,Debit Card,Direct,Leisure,9,4.4,None
+B030493,2025-03-24,R394,Standard,Available,121.62,0,,,Yes,Yes,No,Moderate,Medium,,,,,,10,3.9,
+B030494,2025-03-08,R206,Deluxe,Booked,244.98,3,2025-03-08,2025-03-13,Yes,No,No,Moderate,Medium,Emma Jones,Japan,Cash,OTA,Business,6,4.3,Late check-in
+B030495,2025-03-04,R158,Deluxe,Available,245.6,0,,,No,No,No,Moderate,Medium,,,,,,15,3.5,
+B030496,2025-03-07,R301,Standard,Booked,119.9,2,2025-03-07,2025-03-11,No,Yes,No,Moderate,Medium,Yuki Tanaka,USA,Debit Card,Direct,Business,19,4.7,None
+B030497,2025-03-02,R395,Deluxe,Booked,237.7,3,2025-03-02,2025-03-03,Yes,Yes,No,Moderate,Medium,Emma Jones,UK,Credit Card,Direct,Leisure,4,3.3,Late check-in
+B030498,2025-03-10,R196,Standard,Available,109.96,0,,,No,Yes,No,Moderate,Medium,,,,,,5,4.9,
+B030499,2025-03-05,R110,Suite,Booked,448.43,3,2025-03-05,2025-03-06,No,No,No,Moderate,Medium,Yuki Tanaka,Canada,Debit Card,Travel Agent,Business,12,3.5,None
+B030500,2025-03-28,R137,Deluxe,Available,259.76,0,,,No,Yes,No,Moderate,Medium,,,,,,16,3.3,

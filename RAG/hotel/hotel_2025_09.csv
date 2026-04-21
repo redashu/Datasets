@@ -1,0 +1,501 @@
+booking_id,date,room_id,room_type,status,price,guest_count,check_in,check_out,wifi,parking,breakfast,season,occupancy_level,guest_name,country,payment_method,booking_channel,stay_purpose,discount_pct,review_score,special_request
+B090001,2025-09-03,R144,Standard,No-Show,100.85,2,2025-09-03,2025-09-07,Yes,No,No,Low,Low,Marie Dubois,USA,Credit Card,Direct,Business,1,4.3,None
+B090002,2025-09-28,R129,Standard,Available,92.74,0,,,No,No,Yes,Low,Low,,,,,,3,3.8,
+B090003,2025-09-10,R455,Deluxe,No-Show,217.91,4,2025-09-10,2025-09-12,No,Yes,Yes,Low,Low,John Smith,USA,Cash,OTA,Business,15,5.0,Extra towels
+B090004,2025-09-26,R385,Deluxe,No-Show,205.23,3,2025-09-26,2025-09-30,No,No,Yes,Low,Low,Hans Muller,France,Credit Card,Direct,Business,5,4.4,Extra towels
+B090005,2025-09-15,R178,Deluxe,Booked,181.31,2,2025-09-15,2025-09-19,No,No,Yes,Low,Low,Emma Jones,Japan,Credit Card,Direct,Leisure,11,4.9,Extra towels
+B090006,2025-09-06,R257,Deluxe,Available,185.4,0,,,Yes,Yes,No,Low,Low,,,,,,16,3.1,
+B090007,2025-09-18,R474,Deluxe,Cancelled,182.09,1,2025-09-18,2025-09-19,Yes,Yes,No,Low,Low,Marie Dubois,France,Cash,Direct,Leisure,19,3.3,None
+B090008,2025-09-18,R147,Suite,Cancelled,403.83,4,2025-09-18,2025-09-21,No,No,No,Low,Low,Emma Jones,Canada,Debit Card,Travel Agent,Business,18,4.0,None
+B090009,2025-09-18,R146,Standard,Available,105.47,0,,,Yes,Yes,Yes,Low,Low,,,,,,11,3.3,
+B090010,2025-09-12,R420,Standard,Cancelled,108.8,2,2025-09-12,2025-09-16,Yes,No,No,Low,Low,Marie Dubois,UK,Cash,OTA,Business,14,5.0,Late check-in
+B090011,2025-09-12,R233,Standard,Available,101.66,0,,,Yes,Yes,No,Low,Low,,,,,,1,3.6,
+B090012,2025-09-09,R337,Deluxe,Available,216.37,0,,,Yes,No,No,Low,Low,,,,,,4,4.5,
+B090013,2025-09-07,R438,Deluxe,Available,219.07,0,,,Yes,No,Yes,Low,Low,,,,,,18,4.1,
+B090014,2025-09-15,R431,Standard,Available,90.59,0,,,No,No,Yes,Low,Low,,,,,,13,4.8,
+B090015,2025-09-05,R138,Suite,Cancelled,385.08,1,2025-09-05,2025-09-10,Yes,Yes,Yes,Low,Low,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,5,4.2,None
+B090016,2025-09-22,R459,Deluxe,Booked,211.6,2,2025-09-22,2025-09-26,Yes,Yes,Yes,Low,Low,John Smith,UK,Cash,Direct,Leisure,18,3.3,Late check-in
+B090017,2025-09-04,R343,Standard,Available,102.92,0,,,Yes,Yes,No,Low,Low,,,,,,3,4.2,
+B090018,2025-09-02,R228,Suite,Booked,409.87,3,2025-09-02,2025-09-05,Yes,Yes,No,Low,Low,Yuki Tanaka,France,Credit Card,Direct,Leisure,17,4.9,Late check-in
+B090019,2025-09-23,R426,Standard,Available,106.05,0,,,No,Yes,No,Low,Low,,,,,,19,3.4,
+B090020,2025-09-07,R167,Suite,Booked,432.75,4,2025-09-07,2025-09-12,No,No,No,Low,Low,John Smith,Canada,Debit Card,Travel Agent,Business,14,4.2,Late check-in
+B090021,2025-09-10,R385,Suite,Available,397.44,0,,,Yes,No,Yes,Low,Low,,,,,,8,3.2,
+B090022,2025-09-16,R176,Suite,Available,412.69,0,,,Yes,Yes,No,Low,Low,,,,,,13,3.9,
+B090023,2025-09-18,R411,Deluxe,Available,181.05,0,,,Yes,Yes,No,Low,Low,,,,,,9,3.3,
+B090024,2025-09-15,R178,Standard,Available,96.83,0,,,Yes,No,Yes,Low,Low,,,,,,0,3.5,
+B090025,2025-09-02,R167,Standard,Available,103.52,0,,,Yes,No,Yes,Low,Low,,,,,,4,3.6,
+B090026,2025-09-03,R236,Suite,Available,384.04,0,,,Yes,Yes,No,Low,Low,,,,,,12,4.1,
+B090027,2025-09-07,R342,Deluxe,Cancelled,191.47,1,2025-09-07,2025-09-10,Yes,No,No,Low,Low,Marie Dubois,France,Cash,Travel Agent,Leisure,7,3.2,Extra towels
+B090028,2025-09-15,R497,Standard,Available,95.66,0,,,No,No,Yes,Low,Low,,,,,,10,3.5,
+B090029,2025-09-14,R202,Suite,Available,431.89,0,,,No,No,Yes,Low,Low,,,,,,20,3.3,
+B090030,2025-09-21,R121,Standard,Available,101.12,0,,,No,No,No,Low,Low,,,,,,10,3.1,
+B090031,2025-09-14,R344,Suite,Booked,437.08,4,2025-09-14,2025-09-18,No,Yes,Yes,Low,Low,Hans Muller,Germany,Cash,Direct,Leisure,3,4.0,Late check-in
+B090032,2025-09-11,R326,Standard,Booked,102.4,1,2025-09-11,2025-09-15,Yes,Yes,No,Low,Low,Hans Muller,Japan,Cash,Travel Agent,Business,11,4.7,None
+B090033,2025-09-08,R372,Deluxe,Booked,212.07,4,2025-09-08,2025-09-10,No,Yes,Yes,Low,Low,Yuki Tanaka,Japan,Credit Card,Travel Agent,Leisure,5,3.9,Extra towels
+B090034,2025-09-17,R176,Suite,Available,436.61,0,,,No,No,Yes,Low,Low,,,,,,17,3.8,
+B090035,2025-09-11,R276,Standard,Available,90.07,0,,,Yes,No,Yes,Low,Low,,,,,,1,4.0,
+B090036,2025-09-26,R101,Standard,Booked,106.27,3,2025-09-26,2025-09-28,No,No,Yes,Low,Low,Emma Jones,Germany,Cash,Travel Agent,Leisure,4,4.6,None
+B090037,2025-09-27,R331,Suite,Available,419.86,0,,,Yes,No,No,Low,Low,,,,,,2,3.7,
+B090038,2025-09-24,R238,Deluxe,Booked,181.73,4,2025-09-24,2025-09-27,Yes,No,Yes,Low,Low,Emma Jones,Canada,Debit Card,Travel Agent,Business,20,4.0,None
+B090039,2025-09-19,R365,Deluxe,Cancelled,191.97,4,2025-09-19,2025-09-24,No,Yes,Yes,Low,Low,John Smith,Canada,Cash,OTA,Leisure,8,4.9,Extra towels
+B090040,2025-09-11,R200,Deluxe,Cancelled,217.61,3,2025-09-11,2025-09-13,Yes,Yes,Yes,Low,Low,Yuki Tanaka,UK,Debit Card,Direct,Business,1,4.0,None
+B090041,2025-09-04,R314,Suite,Available,384.79,0,,,Yes,No,Yes,Low,Low,,,,,,1,4.0,
+B090042,2025-09-14,R195,Deluxe,Available,180.41,0,,,No,Yes,No,Low,Low,,,,,,0,4.9,
+B090043,2025-09-13,R434,Deluxe,Booked,207.28,1,2025-09-13,2025-09-17,Yes,Yes,Yes,Low,Low,John Smith,Japan,Cash,Direct,Business,14,3.9,Extra towels
+B090044,2025-09-24,R137,Deluxe,Booked,219.79,2,2025-09-24,2025-09-29,No,No,No,Low,Low,Marie Dubois,France,Cash,OTA,Leisure,13,3.5,None
+B090045,2025-09-14,R116,Standard,No-Show,90.58,2,2025-09-14,2025-09-15,Yes,No,Yes,Low,Low,Emma Jones,Germany,Credit Card,Direct,Leisure,19,4.9,Late check-in
+B090046,2025-09-03,R433,Suite,Booked,434.07,2,2025-09-03,2025-09-08,Yes,Yes,Yes,Low,Low,Emma Jones,Germany,Debit Card,OTA,Business,17,4.2,Extra towels
+B090047,2025-09-16,R178,Suite,Booked,432.77,2,2025-09-16,2025-09-21,No,No,Yes,Low,Low,Hans Muller,Japan,Cash,OTA,Business,15,3.5,None
+B090048,2025-09-28,R115,Deluxe,Cancelled,190.05,2,2025-09-28,2025-10-01,No,Yes,No,Low,Low,Marie Dubois,Germany,Cash,Travel Agent,Leisure,6,3.3,Late check-in
+B090049,2025-09-19,R123,Standard,Booked,102.16,3,2025-09-19,2025-09-20,No,No,No,Low,Low,John Smith,Japan,Cash,Travel Agent,Business,5,3.8,Extra towels
+B090050,2025-09-04,R466,Standard,Available,105.42,0,,,No,No,No,Low,Low,,,,,,13,3.2,
+B090051,2025-09-06,R286,Deluxe,Available,211.99,0,,,Yes,Yes,Yes,Low,Low,,,,,,6,4.9,
+B090052,2025-09-06,R121,Deluxe,No-Show,218.46,1,2025-09-06,2025-09-09,No,No,No,Low,Low,Marie Dubois,Canada,Debit Card,OTA,Business,7,4.0,Extra towels
+B090053,2025-09-07,R253,Suite,Available,363.38,0,,,No,Yes,No,Low,Low,,,,,,6,3.6,
+B090054,2025-09-26,R262,Deluxe,Available,212.69,0,,,Yes,No,Yes,Low,Low,,,,,,4,3.2,
+B090055,2025-09-11,R157,Suite,Cancelled,392.51,3,2025-09-11,2025-09-14,Yes,No,Yes,Low,Low,Hans Muller,Japan,Debit Card,Travel Agent,Business,18,3.0,None
+B090056,2025-09-18,R421,Deluxe,Cancelled,190.29,1,2025-09-18,2025-09-23,Yes,No,Yes,Low,Low,Yuki Tanaka,France,Cash,Travel Agent,Business,18,4.8,None
+B090057,2025-09-08,R303,Standard,Cancelled,106.43,3,2025-09-08,2025-09-09,No,No,No,Low,Low,Emma Jones,USA,Credit Card,Travel Agent,Business,7,4.2,Late check-in
+B090058,2025-09-13,R481,Deluxe,Available,185.03,0,,,Yes,No,Yes,Low,Low,,,,,,15,4.0,
+B090059,2025-09-11,R166,Deluxe,Booked,196.99,2,2025-09-11,2025-09-16,No,Yes,No,Low,Low,Yuki Tanaka,USA,Cash,Travel Agent,Leisure,17,5.0,Late check-in
+B090060,2025-09-13,R351,Standard,Booked,97.99,1,2025-09-13,2025-09-15,Yes,No,No,Low,Low,Marie Dubois,Canada,Debit Card,Direct,Leisure,16,4.7,None
+B090061,2025-09-08,R351,Standard,Booked,108.65,1,2025-09-08,2025-09-11,Yes,Yes,No,Low,Low,Marie Dubois,USA,Credit Card,OTA,Business,10,4.6,Extra towels
+B090062,2025-09-12,R241,Standard,Available,106.48,0,,,Yes,Yes,Yes,Low,Low,,,,,,14,3.4,
+B090063,2025-09-26,R235,Suite,Available,392.73,0,,,No,No,No,Low,Low,,,,,,10,5.0,
+B090064,2025-09-11,R259,Deluxe,Available,201.51,0,,,No,No,No,Low,Low,,,,,,5,3.0,
+B090065,2025-09-26,R459,Standard,Available,90.92,0,,,No,Yes,Yes,Low,Low,,,,,,15,3.4,
+B090066,2025-09-25,R240,Deluxe,No-Show,214.49,2,2025-09-25,2025-09-27,No,Yes,Yes,Low,Low,Hans Muller,Japan,Debit Card,OTA,Business,10,3.9,None
+B090067,2025-09-15,R117,Suite,Available,377.34,0,,,Yes,Yes,No,Low,Low,,,,,,18,3.9,
+B090068,2025-09-04,R101,Deluxe,Available,203.01,0,,,No,Yes,Yes,Low,Low,,,,,,12,4.7,
+B090069,2025-09-03,R264,Suite,Cancelled,401.31,4,2025-09-03,2025-09-04,Yes,Yes,No,Low,Low,Marie Dubois,USA,Debit Card,OTA,Business,3,3.4,Late check-in
+B090070,2025-09-08,R309,Suite,Available,388.51,0,,,Yes,Yes,Yes,Low,Low,,,,,,1,3.5,
+B090071,2025-09-14,R189,Suite,Cancelled,379.61,1,2025-09-14,2025-09-18,No,No,Yes,Low,Low,John Smith,Japan,Cash,Travel Agent,Business,13,3.3,None
+B090072,2025-09-28,R457,Standard,Booked,107.69,4,2025-09-28,2025-09-30,No,Yes,Yes,Low,Low,Marie Dubois,USA,Credit Card,OTA,Business,2,4.1,None
+B090073,2025-09-03,R359,Standard,Booked,109.3,4,2025-09-03,2025-09-08,Yes,No,No,Low,Low,Emma Jones,USA,Debit Card,Travel Agent,Leisure,12,3.8,Extra towels
+B090074,2025-09-07,R484,Deluxe,Available,187.7,0,,,Yes,No,Yes,Low,Low,,,,,,1,4.2,
+B090075,2025-09-04,R398,Suite,Booked,381.21,1,2025-09-04,2025-09-09,No,No,Yes,Low,Low,Yuki Tanaka,UK,Debit Card,OTA,Leisure,10,3.1,Extra towels
+B090076,2025-09-07,R439,Standard,Booked,104.6,4,2025-09-07,2025-09-12,No,Yes,Yes,Low,Low,Yuki Tanaka,France,Debit Card,OTA,Business,6,4.3,None
+B090077,2025-09-15,R316,Standard,Available,109.14,0,,,No,No,Yes,Low,Low,,,,,,13,4.5,
+B090078,2025-09-27,R499,Deluxe,Available,200.65,0,,,Yes,No,Yes,Low,Low,,,,,,12,3.7,
+B090079,2025-09-12,R415,Suite,Available,381.35,0,,,Yes,Yes,No,Low,Low,,,,,,15,3.4,
+B090080,2025-09-25,R159,Suite,Available,377.85,0,,,Yes,Yes,No,Low,Low,,,,,,19,4.7,
+B090081,2025-09-04,R400,Suite,Cancelled,360.19,3,2025-09-04,2025-09-08,No,No,Yes,Low,Low,Yuki Tanaka,France,Credit Card,Travel Agent,Leisure,8,3.0,Late check-in
+B090082,2025-09-03,R480,Deluxe,Booked,186.45,4,2025-09-03,2025-09-07,No,No,Yes,Low,Low,Emma Jones,France,Credit Card,Travel Agent,Leisure,0,3.6,Extra towels
+B090083,2025-09-25,R257,Deluxe,Booked,191.76,3,2025-09-25,2025-09-29,No,No,No,Low,Low,Yuki Tanaka,Germany,Cash,OTA,Leisure,8,3.6,None
+B090084,2025-09-15,R374,Standard,Available,101.23,0,,,No,Yes,No,Low,Low,,,,,,10,4.4,
+B090085,2025-09-22,R456,Deluxe,Available,218.25,0,,,Yes,No,Yes,Low,Low,,,,,,3,3.8,
+B090086,2025-09-10,R328,Deluxe,Cancelled,186.44,4,2025-09-10,2025-09-15,No,Yes,No,Low,Low,John Smith,UK,Credit Card,Travel Agent,Business,19,3.8,None
+B090087,2025-09-14,R407,Standard,Booked,102.48,2,2025-09-14,2025-09-16,Yes,No,No,Low,Low,John Smith,UK,Cash,Travel Agent,Business,11,4.5,Extra towels
+B090088,2025-09-13,R203,Deluxe,Booked,186.18,1,2025-09-13,2025-09-14,Yes,No,No,Low,Low,Yuki Tanaka,France,Credit Card,Travel Agent,Leisure,16,4.6,None
+B090089,2025-09-18,R336,Standard,Booked,96.54,4,2025-09-18,2025-09-23,No,Yes,Yes,Low,Low,John Smith,USA,Debit Card,Travel Agent,Business,0,4.0,Extra towels
+B090090,2025-09-20,R109,Deluxe,Available,193.95,0,,,Yes,Yes,Yes,Low,Low,,,,,,6,3.0,
+B090091,2025-09-13,R465,Suite,Available,403.2,0,,,Yes,Yes,No,Low,Low,,,,,,18,3.5,
+B090092,2025-09-16,R183,Deluxe,Booked,206.22,3,2025-09-16,2025-09-17,No,Yes,No,Low,Low,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,14,4.5,Late check-in
+B090093,2025-09-03,R369,Suite,Available,407.04,0,,,No,No,No,Low,Low,,,,,,16,4.3,
+B090094,2025-09-17,R130,Standard,Available,102.59,0,,,No,No,No,Low,Low,,,,,,10,4.5,
+B090095,2025-09-26,R320,Standard,Booked,104.75,1,2025-09-26,2025-09-29,Yes,No,No,Low,Low,Emma Jones,UK,Debit Card,Direct,Leisure,13,3.7,None
+B090096,2025-09-17,R102,Standard,Booked,100.24,2,2025-09-17,2025-09-19,Yes,No,Yes,Low,Low,John Smith,France,Cash,Travel Agent,Leisure,6,4.4,Late check-in
+B090097,2025-09-03,R164,Standard,Booked,91.83,1,2025-09-03,2025-09-08,Yes,No,Yes,Low,Low,Yuki Tanaka,France,Cash,Travel Agent,Business,11,5.0,Late check-in
+B090098,2025-09-22,R487,Standard,Available,104.19,0,,,Yes,Yes,Yes,Low,Low,,,,,,6,4.5,
+B090099,2025-09-19,R238,Deluxe,No-Show,190.48,4,2025-09-19,2025-09-22,Yes,No,Yes,Low,Low,John Smith,France,Debit Card,Travel Agent,Business,16,3.8,Late check-in
+B090100,2025-09-27,R469,Standard,Available,90.83,0,,,No,Yes,Yes,Low,Low,,,,,,15,3.7,
+B090101,2025-09-06,R372,Standard,Booked,98.12,1,2025-09-06,2025-09-07,Yes,No,No,Low,Low,Emma Jones,France,Debit Card,Travel Agent,Leisure,10,4.2,Extra towels
+B090102,2025-09-01,R264,Suite,Booked,380.59,3,2025-09-01,2025-09-04,No,No,No,Low,Low,Hans Muller,USA,Cash,OTA,Leisure,20,3.2,Extra towels
+B090103,2025-09-15,R113,Deluxe,Available,196.22,0,,,No,No,Yes,Low,Low,,,,,,6,3.0,
+B090104,2025-09-09,R319,Suite,Booked,432.08,3,2025-09-09,2025-09-14,No,No,Yes,Low,Low,Yuki Tanaka,USA,Credit Card,OTA,Business,6,3.2,None
+B090105,2025-09-07,R424,Standard,Booked,98.65,3,2025-09-07,2025-09-12,No,No,Yes,Low,Low,John Smith,USA,Credit Card,Travel Agent,Business,11,3.2,Extra towels
+B090106,2025-09-25,R166,Standard,Available,108.4,0,,,Yes,Yes,No,Low,Low,,,,,,3,3.6,
+B090107,2025-09-25,R283,Standard,Available,93.84,0,,,Yes,Yes,Yes,Low,Low,,,,,,11,4.4,
+B090108,2025-09-08,R118,Deluxe,Booked,216.28,3,2025-09-08,2025-09-10,Yes,Yes,Yes,Low,Low,John Smith,UK,Debit Card,Direct,Leisure,11,3.8,Extra towels
+B090109,2025-09-13,R354,Suite,Available,391.35,0,,,Yes,Yes,Yes,Low,Low,,,,,,19,3.2,
+B090110,2025-09-19,R101,Standard,Booked,97.1,4,2025-09-19,2025-09-24,Yes,No,No,Low,Low,Yuki Tanaka,USA,Cash,Travel Agent,Business,13,5.0,None
+B090111,2025-09-24,R199,Standard,Available,92.94,0,,,No,Yes,No,Low,Low,,,,,,10,3.4,
+B090112,2025-09-06,R326,Standard,Booked,92.2,1,2025-09-06,2025-09-11,No,Yes,Yes,Low,Low,Marie Dubois,Japan,Cash,Direct,Business,10,3.6,None
+B090113,2025-09-14,R412,Suite,Cancelled,433.47,2,2025-09-14,2025-09-19,Yes,Yes,Yes,Low,Low,Yuki Tanaka,USA,Credit Card,Direct,Business,16,4.0,None
+B090114,2025-09-12,R395,Deluxe,Booked,209.2,4,2025-09-12,2025-09-15,No,Yes,No,Low,Low,Hans Muller,USA,Cash,OTA,Leisure,5,3.5,None
+B090115,2025-09-08,R409,Suite,No-Show,422.38,1,2025-09-08,2025-09-12,Yes,Yes,No,Low,Low,Emma Jones,Germany,Cash,Travel Agent,Leisure,19,3.4,Late check-in
+B090116,2025-09-10,R269,Suite,Cancelled,366.92,3,2025-09-10,2025-09-14,Yes,Yes,Yes,Low,Low,Marie Dubois,UK,Debit Card,OTA,Leisure,10,3.1,Late check-in
+B090117,2025-09-14,R389,Suite,Available,427.83,0,,,Yes,No,No,Low,Low,,,,,,19,4.7,
+B090118,2025-09-14,R299,Suite,Available,400.58,0,,,Yes,No,No,Low,Low,,,,,,10,3.3,
+B090119,2025-09-12,R223,Standard,Booked,96.72,1,2025-09-12,2025-09-15,Yes,No,No,Low,Low,Hans Muller,France,Cash,OTA,Business,11,3.4,Late check-in
+B090120,2025-09-08,R263,Suite,Booked,369.62,3,2025-09-08,2025-09-13,No,Yes,No,Low,Low,Yuki Tanaka,UK,Debit Card,Direct,Leisure,3,4.6,Extra towels
+B090121,2025-09-06,R153,Deluxe,Available,206.53,0,,,No,No,Yes,Low,Low,,,,,,20,4.3,
+B090122,2025-09-23,R191,Standard,Available,92.18,0,,,Yes,No,No,Low,Low,,,,,,11,4.5,
+B090123,2025-09-03,R408,Standard,Available,106.51,0,,,Yes,No,No,Low,Low,,,,,,9,4.3,
+B090124,2025-09-16,R209,Deluxe,Booked,201.13,4,2025-09-16,2025-09-21,No,Yes,No,Low,Low,Yuki Tanaka,UK,Cash,Direct,Business,15,3.6,None
+B090125,2025-09-16,R421,Standard,Booked,109.74,2,2025-09-16,2025-09-19,Yes,No,No,Low,Low,Emma Jones,France,Debit Card,Direct,Business,9,4.2,Extra towels
+B090126,2025-09-04,R500,Suite,Available,404.06,0,,,Yes,Yes,No,Low,Low,,,,,,13,4.7,
+B090127,2025-09-04,R209,Standard,Available,97.08,0,,,No,No,No,Low,Low,,,,,,6,4.4,
+B090128,2025-09-07,R491,Deluxe,Available,195.16,0,,,No,No,No,Low,Low,,,,,,20,4.3,
+B090129,2025-09-25,R232,Deluxe,Available,206.61,0,,,No,Yes,Yes,Low,Low,,,,,,18,4.0,
+B090130,2025-09-06,R427,Standard,Available,96.46,0,,,No,No,Yes,Low,Low,,,,,,1,4.6,
+B090131,2025-09-12,R434,Standard,Cancelled,108.38,1,2025-09-12,2025-09-15,No,No,Yes,Low,Low,Hans Muller,France,Credit Card,Travel Agent,Leisure,2,4.4,None
+B090132,2025-09-12,R348,Standard,Available,107.73,0,,,No,Yes,Yes,Low,Low,,,,,,14,4.4,
+B090133,2025-09-11,R104,Standard,Booked,92.68,2,2025-09-11,2025-09-13,Yes,Yes,Yes,Low,Low,Yuki Tanaka,France,Credit Card,OTA,Leisure,19,4.6,Extra towels
+B090134,2025-09-01,R304,Suite,Available,401.93,0,,,No,Yes,Yes,Low,Low,,,,,,6,3.2,
+B090135,2025-09-26,R271,Suite,Available,370.07,0,,,Yes,No,No,Low,Low,,,,,,2,4.6,
+B090136,2025-09-16,R346,Deluxe,Available,192.31,0,,,No,No,No,Low,Low,,,,,,1,3.7,
+B090137,2025-09-22,R248,Deluxe,Booked,196.71,4,2025-09-22,2025-09-27,Yes,Yes,Yes,Low,Low,Yuki Tanaka,France,Debit Card,OTA,Business,2,4.9,Late check-in
+B090138,2025-09-27,R358,Deluxe,Available,185.05,0,,,Yes,Yes,Yes,Low,Low,,,,,,1,3.7,
+B090139,2025-09-02,R282,Deluxe,Available,206.32,0,,,Yes,Yes,Yes,Low,Low,,,,,,18,4.9,
+B090140,2025-09-09,R208,Deluxe,Available,192.43,0,,,Yes,No,No,Low,Low,,,,,,11,4.8,
+B090141,2025-09-06,R117,Deluxe,Available,217.01,0,,,Yes,Yes,No,Low,Low,,,,,,4,3.4,
+B090142,2025-09-05,R407,Deluxe,Available,192.47,0,,,No,No,No,Low,Low,,,,,,14,3.8,
+B090143,2025-09-25,R242,Standard,Available,96.19,0,,,No,No,No,Low,Low,,,,,,6,3.7,
+B090144,2025-09-27,R297,Suite,Booked,386.31,3,2025-09-27,2025-10-02,No,Yes,Yes,Low,Low,Hans Muller,Canada,Debit Card,Direct,Leisure,18,4.4,None
+B090145,2025-09-20,R195,Suite,Available,412.47,0,,,Yes,No,No,Low,Low,,,,,,11,3.3,
+B090146,2025-09-09,R346,Deluxe,Booked,211.58,3,2025-09-09,2025-09-14,No,Yes,No,Low,Low,Marie Dubois,France,Cash,Direct,Business,1,3.3,None
+B090147,2025-09-22,R355,Standard,Available,99.04,0,,,Yes,No,Yes,Low,Low,,,,,,19,4.3,
+B090148,2025-09-09,R187,Suite,No-Show,364.8,1,2025-09-09,2025-09-13,Yes,No,Yes,Low,Low,Hans Muller,UK,Cash,OTA,Leisure,16,3.9,Late check-in
+B090149,2025-09-01,R223,Suite,Available,361.0,0,,,No,Yes,No,Low,Low,,,,,,11,4.2,
+B090150,2025-09-28,R436,Standard,Cancelled,95.68,3,2025-09-28,2025-09-30,Yes,No,No,Low,Low,Emma Jones,Canada,Debit Card,Direct,Business,16,3.5,Extra towels
+B090151,2025-09-07,R248,Deluxe,Booked,206.71,4,2025-09-07,2025-09-11,No,Yes,Yes,Low,Low,Emma Jones,Germany,Debit Card,Direct,Business,16,4.9,Late check-in
+B090152,2025-09-02,R485,Suite,Available,360.49,0,,,No,No,Yes,Low,Low,,,,,,19,4.3,
+B090153,2025-09-25,R362,Deluxe,Booked,192.25,3,2025-09-25,2025-09-26,No,No,Yes,Low,Low,Hans Muller,UK,Cash,OTA,Business,16,3.8,Late check-in
+B090154,2025-09-01,R193,Suite,Available,370.31,0,,,Yes,Yes,No,Low,Low,,,,,,11,4.9,
+B090155,2025-09-16,R483,Deluxe,Booked,208.48,1,2025-09-16,2025-09-18,No,Yes,No,Low,Low,Yuki Tanaka,Germany,Debit Card,Travel Agent,Business,9,5.0,Late check-in
+B090156,2025-09-27,R471,Deluxe,Available,194.3,0,,,Yes,Yes,Yes,Low,Low,,,,,,4,4.0,
+B090157,2025-09-07,R103,Deluxe,Available,188.72,0,,,No,Yes,No,Low,Low,,,,,,14,3.5,
+B090158,2025-09-25,R464,Standard,Available,97.23,0,,,Yes,No,Yes,Low,Low,,,,,,13,4.2,
+B090159,2025-09-27,R101,Suite,Available,419.64,0,,,No,No,Yes,Low,Low,,,,,,16,3.9,
+B090160,2025-09-19,R204,Standard,Available,107.61,0,,,No,Yes,No,Low,Low,,,,,,14,5.0,
+B090161,2025-09-01,R427,Deluxe,Available,182.68,0,,,Yes,Yes,No,Low,Low,,,,,,1,4.3,
+B090162,2025-09-06,R202,Deluxe,Available,212.49,0,,,Yes,No,Yes,Low,Low,,,,,,12,4.3,
+B090163,2025-09-08,R273,Standard,Booked,105.2,3,2025-09-08,2025-09-10,No,No,Yes,Low,Low,Hans Muller,France,Credit Card,Direct,Business,10,3.3,Late check-in
+B090164,2025-09-10,R379,Suite,Available,415.78,0,,,Yes,No,Yes,Low,Low,,,,,,20,4.8,
+B090165,2025-09-18,R286,Standard,Available,91.99,0,,,Yes,Yes,No,Low,Low,,,,,,9,3.1,
+B090166,2025-09-07,R147,Suite,Booked,386.61,2,2025-09-07,2025-09-09,No,Yes,Yes,Low,Low,John Smith,USA,Credit Card,Direct,Leisure,17,4.5,Extra towels
+B090167,2025-09-25,R254,Suite,Available,394.96,0,,,No,Yes,Yes,Low,Low,,,,,,19,4.0,
+B090168,2025-09-19,R219,Suite,Booked,366.74,3,2025-09-19,2025-09-23,No,Yes,Yes,Low,Low,Hans Muller,France,Credit Card,Travel Agent,Business,12,3.5,Extra towels
+B090169,2025-09-24,R140,Deluxe,Available,190.78,0,,,Yes,No,Yes,Low,Low,,,,,,13,3.0,
+B090170,2025-09-17,R158,Deluxe,Booked,210.89,4,2025-09-17,2025-09-20,No,Yes,Yes,Low,Low,John Smith,Germany,Debit Card,OTA,Leisure,14,3.9,None
+B090171,2025-09-24,R121,Standard,No-Show,107.48,4,2025-09-24,2025-09-28,Yes,No,No,Low,Low,Marie Dubois,Germany,Debit Card,Direct,Business,13,3.8,Extra towels
+B090172,2025-09-17,R408,Deluxe,Available,193.96,0,,,No,Yes,Yes,Low,Low,,,,,,18,3.8,
+B090173,2025-09-26,R170,Suite,Booked,385.15,4,2025-09-26,2025-09-27,Yes,No,Yes,Low,Low,John Smith,France,Cash,Travel Agent,Leisure,18,3.5,Extra towels
+B090174,2025-09-23,R294,Suite,Booked,430.68,4,2025-09-23,2025-09-27,No,No,Yes,Low,Low,John Smith,Japan,Credit Card,Travel Agent,Leisure,6,5.0,Late check-in
+B090175,2025-09-06,R176,Suite,No-Show,391.61,1,2025-09-06,2025-09-08,Yes,No,No,Low,Low,Yuki Tanaka,UK,Credit Card,OTA,Business,20,3.7,Extra towels
+B090176,2025-09-10,R442,Standard,Available,109.18,0,,,No,No,Yes,Low,Low,,,,,,3,4.4,
+B090177,2025-09-19,R474,Standard,Booked,93.79,1,2025-09-19,2025-09-23,No,Yes,Yes,Low,Low,Hans Muller,France,Cash,Direct,Leisure,11,3.0,None
+B090178,2025-09-04,R142,Deluxe,Booked,187.46,1,2025-09-04,2025-09-06,No,No,No,Low,Low,Hans Muller,Japan,Debit Card,Travel Agent,Leisure,3,3.5,Extra towels
+B090179,2025-09-12,R254,Deluxe,Booked,218.58,2,2025-09-12,2025-09-17,No,Yes,Yes,Low,Low,Marie Dubois,Germany,Cash,OTA,Business,12,4.5,Extra towels
+B090180,2025-09-11,R282,Deluxe,Available,201.32,0,,,Yes,No,Yes,Low,Low,,,,,,13,4.1,
+B090181,2025-09-04,R288,Standard,Available,93.79,0,,,No,Yes,Yes,Low,Low,,,,,,0,4.8,
+B090182,2025-09-13,R466,Standard,Available,102.13,0,,,Yes,Yes,No,Low,Low,,,,,,9,4.4,
+B090183,2025-09-15,R127,Suite,Booked,391.02,2,2025-09-15,2025-09-18,No,Yes,No,Low,Low,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,4,3.4,None
+B090184,2025-09-02,R220,Suite,Available,391.88,0,,,No,Yes,No,Low,Low,,,,,,0,4.6,
+B090185,2025-09-28,R472,Suite,Cancelled,381.86,1,2025-09-28,2025-10-03,No,Yes,Yes,Low,Low,Marie Dubois,Japan,Debit Card,Travel Agent,Business,12,5.0,None
+B090186,2025-09-09,R473,Standard,Booked,106.18,4,2025-09-09,2025-09-12,No,Yes,Yes,Low,Low,Marie Dubois,USA,Cash,Direct,Business,4,3.5,Late check-in
+B090187,2025-09-05,R339,Deluxe,Available,186.14,0,,,No,Yes,No,Low,Low,,,,,,20,5.0,
+B090188,2025-09-16,R179,Deluxe,Available,187.93,0,,,No,Yes,Yes,Low,Low,,,,,,4,3.6,
+B090189,2025-09-12,R213,Deluxe,No-Show,212.78,3,2025-09-12,2025-09-16,No,Yes,Yes,Low,Low,John Smith,Japan,Debit Card,Direct,Business,12,4.4,None
+B090190,2025-09-07,R411,Suite,Booked,398.71,4,2025-09-07,2025-09-12,Yes,Yes,Yes,Low,Low,Hans Muller,UK,Cash,Travel Agent,Business,0,3.4,None
+B090191,2025-09-12,R293,Standard,No-Show,105.34,4,2025-09-12,2025-09-14,No,No,No,Low,Low,John Smith,Germany,Credit Card,OTA,Leisure,18,4.5,Late check-in
+B090192,2025-09-24,R330,Suite,No-Show,393.85,2,2025-09-24,2025-09-26,No,Yes,No,Low,Low,Hans Muller,Japan,Credit Card,Direct,Business,4,4.9,None
+B090193,2025-09-04,R307,Deluxe,Booked,190.64,4,2025-09-04,2025-09-07,Yes,No,Yes,Low,Low,John Smith,France,Cash,Travel Agent,Leisure,14,3.3,Extra towels
+B090194,2025-09-01,R481,Suite,Booked,389.3,1,2025-09-01,2025-09-04,Yes,No,No,Low,Low,Marie Dubois,USA,Debit Card,Travel Agent,Business,8,4.2,Late check-in
+B090195,2025-09-05,R177,Deluxe,Cancelled,208.35,2,2025-09-05,2025-09-06,No,Yes,No,Low,Low,John Smith,France,Credit Card,Travel Agent,Leisure,17,3.1,Late check-in
+B090196,2025-09-22,R321,Standard,Available,100.33,0,,,No,No,Yes,Low,Low,,,,,,3,4.1,
+B090197,2025-09-21,R345,Suite,Available,435.44,0,,,Yes,No,No,Low,Low,,,,,,14,3.9,
+B090198,2025-09-05,R195,Deluxe,Available,189.01,0,,,No,No,No,Low,Low,,,,,,16,4.5,
+B090199,2025-09-22,R131,Deluxe,Available,205.89,0,,,No,No,Yes,Low,Low,,,,,,12,4.1,
+B090200,2025-09-09,R264,Deluxe,Booked,208.98,2,2025-09-09,2025-09-14,Yes,Yes,Yes,Low,Low,John Smith,UK,Debit Card,Travel Agent,Business,8,3.1,Extra towels
+B090201,2025-09-23,R342,Standard,Available,95.26,0,,,No,Yes,Yes,Low,Low,,,,,,16,3.5,
+B090202,2025-09-27,R350,Deluxe,Available,212.08,0,,,No,No,No,Low,Low,,,,,,8,3.7,
+B090203,2025-09-25,R287,Deluxe,Booked,195.58,3,2025-09-25,2025-09-30,Yes,Yes,No,Low,Low,Marie Dubois,France,Debit Card,Direct,Leisure,3,3.3,None
+B090204,2025-09-09,R345,Standard,Booked,106.93,2,2025-09-09,2025-09-12,No,Yes,No,Low,Low,Marie Dubois,Germany,Cash,OTA,Business,9,4.8,Extra towels
+B090205,2025-09-21,R275,Suite,Cancelled,415.88,4,2025-09-21,2025-09-25,No,No,No,Low,Low,Marie Dubois,Canada,Debit Card,Direct,Leisure,13,3.4,Extra towels
+B090206,2025-09-27,R310,Suite,Booked,404.03,1,2025-09-27,2025-10-01,No,No,Yes,Low,Low,Marie Dubois,UK,Debit Card,OTA,Business,8,4.6,Extra towels
+B090207,2025-09-28,R236,Suite,Cancelled,383.7,1,2025-09-28,2025-10-02,No,Yes,Yes,Low,Low,Yuki Tanaka,UK,Cash,Travel Agent,Leisure,14,3.2,Late check-in
+B090208,2025-09-15,R209,Deluxe,Available,187.93,0,,,No,No,No,Low,Low,,,,,,13,3.9,
+B090209,2025-09-17,R490,Deluxe,Available,209.23,0,,,Yes,No,Yes,Low,Low,,,,,,0,3.9,
+B090210,2025-09-26,R264,Deluxe,Booked,187.54,4,2025-09-26,2025-09-30,Yes,Yes,Yes,Low,Low,Hans Muller,Canada,Cash,OTA,Leisure,4,3.1,None
+B090211,2025-09-06,R356,Suite,Available,407.69,0,,,No,Yes,No,Low,Low,,,,,,14,3.5,
+B090212,2025-09-28,R433,Deluxe,No-Show,182.07,2,2025-09-28,2025-10-02,No,Yes,Yes,Low,Low,John Smith,Germany,Debit Card,Direct,Business,6,3.7,None
+B090213,2025-09-19,R396,Standard,Cancelled,101.61,3,2025-09-19,2025-09-21,Yes,Yes,Yes,Low,Low,Emma Jones,France,Credit Card,Travel Agent,Business,6,4.4,Extra towels
+B090214,2025-09-04,R124,Standard,Available,95.45,0,,,Yes,Yes,Yes,Low,Low,,,,,,12,3.0,
+B090215,2025-09-28,R409,Standard,Available,102.04,0,,,No,No,No,Low,Low,,,,,,11,4.2,
+B090216,2025-09-18,R178,Suite,Cancelled,398.75,4,2025-09-18,2025-09-21,No,Yes,Yes,Low,Low,Yuki Tanaka,Canada,Cash,Travel Agent,Leisure,16,3.2,Late check-in
+B090217,2025-09-04,R488,Suite,Available,362.25,0,,,No,No,No,Low,Low,,,,,,2,3.5,
+B090218,2025-09-07,R431,Deluxe,No-Show,207.92,3,2025-09-07,2025-09-08,Yes,No,No,Low,Low,Yuki Tanaka,Japan,Debit Card,Travel Agent,Business,9,3.5,None
+B090219,2025-09-11,R491,Deluxe,Booked,184.9,1,2025-09-11,2025-09-14,No,No,No,Low,Low,John Smith,Germany,Debit Card,Travel Agent,Leisure,2,4.7,Extra towels
+B090220,2025-09-16,R298,Standard,Booked,108.52,4,2025-09-16,2025-09-21,No,Yes,No,Low,Low,Marie Dubois,France,Credit Card,Travel Agent,Business,13,3.7,Extra towels
+B090221,2025-09-18,R433,Deluxe,Available,215.65,0,,,Yes,No,Yes,Low,Low,,,,,,7,4.7,
+B090222,2025-09-24,R476,Standard,Booked,104.13,4,2025-09-24,2025-09-26,Yes,Yes,Yes,Low,Low,Hans Muller,Germany,Credit Card,Travel Agent,Business,9,3.5,None
+B090223,2025-09-07,R180,Suite,Booked,408.2,2,2025-09-07,2025-09-08,Yes,Yes,Yes,Low,Low,Marie Dubois,USA,Debit Card,OTA,Leisure,8,3.6,None
+B090224,2025-09-03,R111,Standard,Cancelled,107.63,4,2025-09-03,2025-09-08,Yes,Yes,Yes,Low,Low,Marie Dubois,UK,Cash,Direct,Business,5,3.1,Late check-in
+B090225,2025-09-03,R169,Suite,Available,385.23,0,,,Yes,Yes,Yes,Low,Low,,,,,,15,3.2,
+B090226,2025-09-13,R309,Deluxe,Available,217.1,0,,,No,No,No,Low,Low,,,,,,5,3.1,
+B090227,2025-09-26,R498,Deluxe,Cancelled,185.81,3,2025-09-26,2025-09-30,Yes,Yes,Yes,Low,Low,Hans Muller,Germany,Cash,OTA,Leisure,8,4.0,Late check-in
+B090228,2025-09-06,R315,Suite,Available,382.23,0,,,No,No,Yes,Low,Low,,,,,,19,3.8,
+B090229,2025-09-01,R350,Deluxe,Booked,190.25,4,2025-09-01,2025-09-03,Yes,Yes,Yes,Low,Low,Marie Dubois,Japan,Debit Card,OTA,Business,2,3.6,Late check-in
+B090230,2025-09-06,R176,Suite,No-Show,390.94,3,2025-09-06,2025-09-07,No,Yes,Yes,Low,Low,John Smith,Canada,Credit Card,Direct,Business,13,4.1,Extra towels
+B090231,2025-09-22,R124,Standard,Available,108.72,0,,,Yes,No,No,Low,Low,,,,,,11,3.2,
+B090232,2025-09-05,R267,Standard,Available,104.74,0,,,Yes,Yes,Yes,Low,Low,,,,,,15,3.7,
+B090233,2025-09-17,R396,Standard,Available,97.23,0,,,Yes,Yes,Yes,Low,Low,,,,,,16,4.3,
+B090234,2025-09-03,R359,Suite,Available,439.68,0,,,No,No,No,Low,Low,,,,,,10,3.0,
+B090235,2025-09-04,R393,Deluxe,Booked,190.33,3,2025-09-04,2025-09-09,No,Yes,Yes,Low,Low,Hans Muller,Canada,Cash,OTA,Business,12,3.3,Extra towels
+B090236,2025-09-01,R114,Standard,Cancelled,105.17,4,2025-09-01,2025-09-02,No,Yes,No,Low,Low,Hans Muller,USA,Debit Card,Travel Agent,Business,1,4.7,Late check-in
+B090237,2025-09-02,R277,Deluxe,Booked,197.18,4,2025-09-02,2025-09-03,No,Yes,Yes,Low,Low,Marie Dubois,Germany,Debit Card,Travel Agent,Leisure,12,3.2,None
+B090238,2025-09-17,R207,Deluxe,Cancelled,181.02,2,2025-09-17,2025-09-18,No,Yes,No,Low,Low,Yuki Tanaka,France,Credit Card,Travel Agent,Business,8,4.6,Late check-in
+B090239,2025-09-17,R464,Deluxe,Available,183.53,0,,,No,Yes,Yes,Low,Low,,,,,,17,4.0,
+B090240,2025-09-14,R404,Suite,Available,390.07,0,,,Yes,Yes,No,Low,Low,,,,,,13,4.5,
+B090241,2025-09-16,R221,Suite,Booked,410.7,2,2025-09-16,2025-09-19,Yes,No,Yes,Low,Low,John Smith,France,Debit Card,OTA,Leisure,5,4.9,Extra towels
+B090242,2025-09-12,R162,Suite,Booked,409.1,1,2025-09-12,2025-09-16,No,No,No,Low,Low,John Smith,Germany,Cash,OTA,Business,19,3.7,None
+B090243,2025-09-18,R335,Suite,Available,407.97,0,,,Yes,No,No,Low,Low,,,,,,11,3.3,
+B090244,2025-09-06,R222,Suite,No-Show,388.15,4,2025-09-06,2025-09-08,Yes,Yes,Yes,Low,Low,Emma Jones,UK,Debit Card,OTA,Leisure,11,4.0,Late check-in
+B090245,2025-09-21,R208,Deluxe,Available,181.69,0,,,Yes,Yes,Yes,Low,Low,,,,,,1,3.7,
+B090246,2025-09-19,R227,Deluxe,Available,200.48,0,,,No,No,Yes,Low,Low,,,,,,17,4.6,
+B090247,2025-09-17,R212,Standard,Available,99.33,0,,,No,Yes,No,Low,Low,,,,,,0,4.6,
+B090248,2025-09-14,R432,Deluxe,Booked,187.76,2,2025-09-14,2025-09-15,Yes,No,Yes,Low,Low,Hans Muller,France,Cash,OTA,Business,12,3.3,Late check-in
+B090249,2025-09-06,R103,Standard,Available,98.37,0,,,Yes,No,No,Low,Low,,,,,,13,3.7,
+B090250,2025-09-25,R286,Deluxe,Booked,186.3,3,2025-09-25,2025-09-26,No,Yes,Yes,Low,Low,Yuki Tanaka,UK,Credit Card,Direct,Leisure,12,3.1,None
+B090251,2025-09-21,R396,Standard,Available,93.3,0,,,Yes,No,No,Low,Low,,,,,,6,4.6,
+B090252,2025-09-06,R152,Standard,Booked,99.43,3,2025-09-06,2025-09-11,Yes,Yes,No,Low,Low,Emma Jones,UK,Credit Card,Direct,Leisure,13,4.1,None
+B090253,2025-09-06,R144,Standard,Available,108.85,0,,,Yes,Yes,Yes,Low,Low,,,,,,8,4.1,
+B090254,2025-09-08,R234,Standard,Cancelled,98.1,2,2025-09-08,2025-09-09,Yes,Yes,Yes,Low,Low,Emma Jones,France,Debit Card,OTA,Leisure,15,4.4,Extra towels
+B090255,2025-09-06,R404,Suite,Booked,428.42,3,2025-09-06,2025-09-10,No,No,Yes,Low,Low,Marie Dubois,France,Credit Card,Direct,Business,20,3.5,None
+B090256,2025-09-09,R103,Standard,Booked,99.38,3,2025-09-09,2025-09-14,No,No,Yes,Low,Low,Emma Jones,UK,Credit Card,OTA,Leisure,18,4.0,None
+B090257,2025-09-16,R332,Suite,No-Show,370.79,4,2025-09-16,2025-09-17,Yes,No,Yes,Low,Low,Emma Jones,Canada,Cash,Direct,Leisure,12,3.0,Extra towels
+B090258,2025-09-10,R444,Deluxe,Available,200.99,0,,,Yes,No,Yes,Low,Low,,,,,,19,4.6,
+B090259,2025-09-24,R296,Standard,Cancelled,90.97,2,2025-09-24,2025-09-29,No,No,Yes,Low,Low,Emma Jones,France,Credit Card,Travel Agent,Business,17,4.4,Late check-in
+B090260,2025-09-16,R427,Suite,Booked,428.82,1,2025-09-16,2025-09-19,No,No,Yes,Low,Low,Marie Dubois,USA,Debit Card,OTA,Business,2,4.6,Extra towels
+B090261,2025-09-03,R167,Standard,Available,101.21,0,,,No,No,No,Low,Low,,,,,,4,5.0,
+B090262,2025-09-20,R142,Standard,Booked,100.43,2,2025-09-20,2025-09-21,No,No,No,Low,Low,Marie Dubois,Canada,Cash,OTA,Leisure,8,4.6,Extra towels
+B090263,2025-09-10,R322,Deluxe,Available,190.87,0,,,Yes,Yes,No,Low,Low,,,,,,5,3.6,
+B090264,2025-09-04,R486,Suite,Booked,419.51,3,2025-09-04,2025-09-07,No,No,Yes,Low,Low,Marie Dubois,Japan,Credit Card,OTA,Leisure,7,4.1,Late check-in
+B090265,2025-09-16,R172,Suite,Available,360.22,0,,,Yes,No,No,Low,Low,,,,,,8,3.9,
+B090266,2025-09-27,R269,Standard,Available,92.02,0,,,No,Yes,Yes,Low,Low,,,,,,5,4.8,
+B090267,2025-09-15,R272,Suite,Booked,384.87,1,2025-09-15,2025-09-18,No,No,No,Low,Low,Yuki Tanaka,Germany,Credit Card,Travel Agent,Leisure,6,4.6,Extra towels
+B090268,2025-09-27,R374,Deluxe,Booked,182.26,4,2025-09-27,2025-10-01,Yes,Yes,Yes,Low,Low,Marie Dubois,France,Credit Card,OTA,Business,10,4.5,None
+B090269,2025-09-03,R398,Suite,Booked,390.24,4,2025-09-03,2025-09-06,Yes,Yes,No,Low,Low,Yuki Tanaka,Germany,Cash,Direct,Leisure,12,3.4,Late check-in
+B090270,2025-09-01,R298,Deluxe,Available,211.35,0,,,No,Yes,No,Low,Low,,,,,,14,4.7,
+B090271,2025-09-15,R133,Deluxe,Booked,197.85,2,2025-09-15,2025-09-20,No,No,No,Low,Low,Hans Muller,USA,Credit Card,Travel Agent,Leisure,6,4.6,None
+B090272,2025-09-27,R271,Suite,Booked,437.16,4,2025-09-27,2025-10-01,No,No,No,Low,Low,Hans Muller,USA,Debit Card,Direct,Leisure,6,3.5,None
+B090273,2025-09-10,R207,Standard,Available,101.69,0,,,Yes,Yes,No,Low,Low,,,,,,14,4.8,
+B090274,2025-09-14,R282,Suite,Cancelled,420.35,1,2025-09-14,2025-09-16,Yes,Yes,No,Low,Low,Hans Muller,Germany,Credit Card,Direct,Business,18,3.6,None
+B090275,2025-09-22,R319,Suite,Available,393.28,0,,,Yes,No,No,Low,Low,,,,,,9,4.1,
+B090276,2025-09-26,R478,Standard,No-Show,91.24,2,2025-09-26,2025-09-28,Yes,Yes,Yes,Low,Low,Hans Muller,Japan,Cash,OTA,Leisure,13,3.0,Extra towels
+B090277,2025-09-23,R286,Deluxe,Available,201.98,0,,,Yes,No,No,Low,Low,,,,,,12,3.2,
+B090278,2025-09-21,R406,Standard,Available,104.7,0,,,Yes,Yes,Yes,Low,Low,,,,,,3,4.3,
+B090279,2025-09-02,R101,Suite,Cancelled,416.1,4,2025-09-02,2025-09-06,Yes,No,No,Low,Low,Marie Dubois,Germany,Credit Card,Travel Agent,Business,19,5.0,Late check-in
+B090280,2025-09-19,R224,Standard,Booked,96.56,3,2025-09-19,2025-09-20,No,Yes,Yes,Low,Low,John Smith,Germany,Credit Card,Travel Agent,Business,0,4.7,None
+B090281,2025-09-11,R123,Suite,Available,385.18,0,,,Yes,Yes,Yes,Low,Low,,,,,,9,3.9,
+B090282,2025-09-04,R138,Standard,Available,105.19,0,,,No,No,Yes,Low,Low,,,,,,7,4.3,
+B090283,2025-09-19,R236,Deluxe,Booked,206.38,2,2025-09-19,2025-09-20,Yes,Yes,No,Low,Low,Yuki Tanaka,USA,Cash,Direct,Business,12,4.2,Late check-in
+B090284,2025-09-11,R180,Suite,Available,423.12,0,,,No,Yes,No,Low,Low,,,,,,1,3.8,
+B090285,2025-09-01,R242,Suite,Booked,420.45,2,2025-09-01,2025-09-05,No,Yes,No,Low,Low,Hans Muller,UK,Credit Card,Travel Agent,Leisure,18,3.4,Late check-in
+B090286,2025-09-15,R396,Suite,Available,386.99,0,,,Yes,No,No,Low,Low,,,,,,0,4.2,
+B090287,2025-09-05,R411,Deluxe,Cancelled,212.21,3,2025-09-05,2025-09-09,Yes,No,Yes,Low,Low,Hans Muller,Germany,Cash,Travel Agent,Business,0,3.8,Late check-in
+B090288,2025-09-06,R118,Suite,Available,415.83,0,,,Yes,Yes,No,Low,Low,,,,,,16,4.7,
+B090289,2025-09-05,R350,Deluxe,Booked,207.76,4,2025-09-05,2025-09-07,Yes,Yes,Yes,Low,Low,John Smith,France,Debit Card,OTA,Business,9,4.9,Late check-in
+B090290,2025-09-06,R456,Deluxe,Booked,209.66,1,2025-09-06,2025-09-08,Yes,No,No,Low,Low,Hans Muller,France,Cash,Travel Agent,Business,7,3.4,Extra towels
+B090291,2025-09-16,R322,Deluxe,Available,212.21,0,,,No,No,Yes,Low,Low,,,,,,0,3.6,
+B090292,2025-09-21,R105,Deluxe,Available,207.19,0,,,No,Yes,Yes,Low,Low,,,,,,11,4.4,
+B090293,2025-09-08,R276,Deluxe,Available,193.44,0,,,Yes,No,Yes,Low,Low,,,,,,11,4.8,
+B090294,2025-09-15,R198,Standard,Available,108.2,0,,,Yes,No,Yes,Low,Low,,,,,,2,4.1,
+B090295,2025-09-10,R437,Suite,Booked,421.25,1,2025-09-10,2025-09-12,Yes,No,No,Low,Low,Yuki Tanaka,France,Debit Card,Direct,Business,16,4.6,Late check-in
+B090296,2025-09-21,R392,Standard,Available,105.26,0,,,Yes,No,No,Low,Low,,,,,,7,4.8,
+B090297,2025-09-10,R184,Standard,Available,90.77,0,,,No,Yes,No,Low,Low,,,,,,17,4.0,
+B090298,2025-09-05,R151,Deluxe,Cancelled,198.09,3,2025-09-05,2025-09-10,Yes,Yes,Yes,Low,Low,Yuki Tanaka,Japan,Debit Card,OTA,Business,13,3.1,Extra towels
+B090299,2025-09-20,R483,Suite,Cancelled,426.99,1,2025-09-20,2025-09-23,No,No,Yes,Low,Low,Emma Jones,Canada,Debit Card,Direct,Business,11,3.9,Late check-in
+B090300,2025-09-14,R437,Suite,Booked,378.34,2,2025-09-14,2025-09-15,Yes,No,Yes,Low,Low,Yuki Tanaka,UK,Debit Card,Travel Agent,Business,9,5.0,None
+B090301,2025-09-17,R194,Suite,Available,409.04,0,,,No,No,No,Low,Low,,,,,,20,4.7,
+B090302,2025-09-10,R467,Deluxe,Available,181.7,0,,,No,No,Yes,Low,Low,,,,,,16,4.7,
+B090303,2025-09-02,R329,Standard,Available,96.6,0,,,Yes,Yes,No,Low,Low,,,,,,7,3.5,
+B090304,2025-09-28,R298,Standard,No-Show,100.95,4,2025-09-28,2025-10-01,No,No,Yes,Low,Low,Marie Dubois,France,Debit Card,OTA,Business,12,4.0,None
+B090305,2025-09-26,R471,Standard,Available,95.21,0,,,No,Yes,No,Low,Low,,,,,,9,4.0,
+B090306,2025-09-03,R488,Standard,Available,101.42,0,,,Yes,No,Yes,Low,Low,,,,,,14,3.2,
+B090307,2025-09-03,R141,Deluxe,Available,208.74,0,,,Yes,No,No,Low,Low,,,,,,5,3.8,
+B090308,2025-09-10,R342,Deluxe,Available,200.49,0,,,Yes,No,Yes,Low,Low,,,,,,9,4.4,
+B090309,2025-09-21,R406,Deluxe,Available,193.09,0,,,No,Yes,Yes,Low,Low,,,,,,14,4.6,
+B090310,2025-09-06,R351,Standard,Available,101.57,0,,,Yes,Yes,No,Low,Low,,,,,,17,4.8,
+B090311,2025-09-13,R238,Standard,Available,93.01,0,,,No,No,No,Low,Low,,,,,,20,5.0,
+B090312,2025-09-11,R433,Standard,Available,102.86,0,,,No,No,Yes,Low,Low,,,,,,16,5.0,
+B090313,2025-09-21,R139,Deluxe,Booked,193.32,2,2025-09-21,2025-09-25,No,No,No,Low,Low,Emma Jones,USA,Debit Card,Travel Agent,Business,18,3.3,Extra towels
+B090314,2025-09-16,R173,Deluxe,Booked,215.55,3,2025-09-16,2025-09-20,No,No,Yes,Low,Low,Yuki Tanaka,UK,Cash,Travel Agent,Leisure,11,4.0,Extra towels
+B090315,2025-09-23,R410,Deluxe,Available,211.92,0,,,Yes,Yes,Yes,Low,Low,,,,,,10,3.4,
+B090316,2025-09-09,R320,Suite,Booked,421.2,3,2025-09-09,2025-09-14,No,No,No,Low,Low,Marie Dubois,Germany,Debit Card,OTA,Leisure,17,4.1,None
+B090317,2025-09-26,R288,Suite,Available,432.19,0,,,No,No,No,Low,Low,,,,,,18,4.3,
+B090318,2025-09-21,R256,Suite,Available,423.24,0,,,Yes,No,Yes,Low,Low,,,,,,7,3.9,
+B090319,2025-09-21,R154,Standard,Booked,95.58,3,2025-09-21,2025-09-24,No,No,Yes,Low,Low,John Smith,UK,Cash,Direct,Business,17,4.0,Late check-in
+B090320,2025-09-11,R216,Suite,Booked,381.08,4,2025-09-11,2025-09-14,Yes,No,Yes,Low,Low,Hans Muller,France,Credit Card,Direct,Leisure,4,4.3,None
+B090321,2025-09-18,R482,Standard,Available,107.82,0,,,No,Yes,No,Low,Low,,,,,,5,4.8,
+B090322,2025-09-28,R443,Suite,Available,367.23,0,,,Yes,Yes,Yes,Low,Low,,,,,,17,3.3,
+B090323,2025-09-10,R214,Suite,Available,430.8,0,,,No,Yes,Yes,Low,Low,,,,,,15,3.7,
+B090324,2025-09-25,R466,Standard,Available,101.4,0,,,No,No,Yes,Low,Low,,,,,,14,4.8,
+B090325,2025-09-04,R313,Standard,Available,99.79,0,,,No,Yes,No,Low,Low,,,,,,14,4.0,
+B090326,2025-09-01,R241,Standard,Available,109.28,0,,,Yes,Yes,No,Low,Low,,,,,,4,3.3,
+B090327,2025-09-27,R477,Deluxe,Booked,214.39,2,2025-09-27,2025-10-01,No,Yes,No,Low,Low,Marie Dubois,Japan,Debit Card,Travel Agent,Leisure,20,3.6,Late check-in
+B090328,2025-09-23,R331,Standard,Booked,95.79,4,2025-09-23,2025-09-25,No,No,No,Low,Low,Emma Jones,USA,Debit Card,Direct,Leisure,13,4.0,Extra towels
+B090329,2025-09-27,R465,Suite,Available,423.89,0,,,No,Yes,Yes,Low,Low,,,,,,12,3.7,
+B090330,2025-09-07,R149,Deluxe,Cancelled,205.11,3,2025-09-07,2025-09-08,No,Yes,No,Low,Low,Yuki Tanaka,Canada,Cash,OTA,Leisure,2,4.7,Extra towels
+B090331,2025-09-18,R139,Standard,Available,96.34,0,,,No,Yes,No,Low,Low,,,,,,6,3.6,
+B090332,2025-09-19,R256,Deluxe,Available,198.12,0,,,No,Yes,No,Low,Low,,,,,,6,3.0,
+B090333,2025-09-26,R312,Suite,Available,369.66,0,,,No,Yes,Yes,Low,Low,,,,,,13,3.5,
+B090334,2025-09-05,R491,Deluxe,Booked,212.3,2,2025-09-05,2025-09-09,No,No,No,Low,Low,John Smith,Germany,Cash,Direct,Leisure,10,4.8,Late check-in
+B090335,2025-09-05,R339,Suite,Available,379.78,0,,,Yes,No,No,Low,Low,,,,,,14,4.5,
+B090336,2025-09-09,R476,Deluxe,Available,195.21,0,,,No,No,No,Low,Low,,,,,,14,4.9,
+B090337,2025-09-04,R205,Standard,Booked,91.04,1,2025-09-04,2025-09-09,No,No,No,Low,Low,John Smith,USA,Cash,Direct,Leisure,19,3.8,None
+B090338,2025-09-27,R194,Deluxe,Booked,194.18,4,2025-09-27,2025-09-29,No,Yes,Yes,Low,Low,Hans Muller,Germany,Cash,OTA,Leisure,9,3.4,None
+B090339,2025-09-14,R102,Deluxe,Booked,194.96,1,2025-09-14,2025-09-17,No,Yes,Yes,Low,Low,Marie Dubois,France,Cash,Direct,Business,15,4.7,Extra towels
+B090340,2025-09-04,R319,Deluxe,Cancelled,214.81,3,2025-09-04,2025-09-08,Yes,Yes,No,Low,Low,Hans Muller,Germany,Credit Card,Travel Agent,Leisure,9,4.6,Late check-in
+B090341,2025-09-05,R244,Suite,Available,399.4,0,,,Yes,Yes,Yes,Low,Low,,,,,,14,3.1,
+B090342,2025-09-07,R493,Suite,Available,421.67,0,,,No,No,Yes,Low,Low,,,,,,4,4.8,
+B090343,2025-09-24,R375,Deluxe,Available,196.19,0,,,Yes,No,No,Low,Low,,,,,,18,3.2,
+B090344,2025-09-01,R108,Suite,Booked,400.4,3,2025-09-01,2025-09-04,Yes,No,No,Low,Low,Yuki Tanaka,Germany,Cash,Travel Agent,Business,8,3.8,Late check-in
+B090345,2025-09-19,R315,Deluxe,Available,217.63,0,,,No,Yes,No,Low,Low,,,,,,11,5.0,
+B090346,2025-09-03,R230,Suite,Available,362.87,0,,,No,No,No,Low,Low,,,,,,15,4.9,
+B090347,2025-09-16,R173,Standard,Booked,97.99,1,2025-09-16,2025-09-17,No,Yes,Yes,Low,Low,John Smith,UK,Credit Card,Direct,Business,8,4.6,Late check-in
+B090348,2025-09-03,R197,Standard,Cancelled,107.57,3,2025-09-03,2025-09-04,Yes,Yes,Yes,Low,Low,John Smith,USA,Debit Card,Travel Agent,Leisure,15,3.7,Extra towels
+B090349,2025-09-08,R316,Suite,Available,434.73,0,,,No,Yes,Yes,Low,Low,,,,,,7,4.6,
+B090350,2025-09-11,R455,Suite,Available,379.99,0,,,Yes,Yes,No,Low,Low,,,,,,1,4.2,
+B090351,2025-09-24,R235,Deluxe,Available,188.88,0,,,No,No,Yes,Low,Low,,,,,,6,3.3,
+B090352,2025-09-19,R379,Suite,Booked,421.67,2,2025-09-19,2025-09-23,Yes,No,Yes,Low,Low,Emma Jones,USA,Debit Card,Direct,Leisure,4,4.6,Late check-in
+B090353,2025-09-21,R203,Suite,Booked,392.61,2,2025-09-21,2025-09-26,Yes,Yes,Yes,Low,Low,Yuki Tanaka,Japan,Debit Card,Travel Agent,Leisure,19,4.4,Extra towels
+B090354,2025-09-14,R415,Suite,Booked,392.78,1,2025-09-14,2025-09-16,No,No,Yes,Low,Low,Yuki Tanaka,UK,Debit Card,Direct,Business,7,3.5,Extra towels
+B090355,2025-09-20,R383,Standard,Available,103.38,0,,,Yes,No,No,Low,Low,,,,,,13,4.3,
+B090356,2025-09-17,R289,Standard,Booked,92.5,1,2025-09-17,2025-09-22,No,Yes,No,Low,Low,Emma Jones,USA,Debit Card,OTA,Leisure,0,4.3,Extra towels
+B090357,2025-09-20,R257,Deluxe,Available,193.4,0,,,Yes,No,Yes,Low,Low,,,,,,12,3.3,
+B090358,2025-09-21,R317,Suite,Available,372.96,0,,,Yes,No,No,Low,Low,,,,,,15,3.3,
+B090359,2025-09-14,R153,Deluxe,Available,197.78,0,,,Yes,Yes,Yes,Low,Low,,,,,,4,4.1,
+B090360,2025-09-03,R219,Deluxe,Available,187.21,0,,,Yes,No,No,Low,Low,,,,,,5,4.2,
+B090361,2025-09-25,R173,Standard,Available,107.57,0,,,No,Yes,Yes,Low,Low,,,,,,4,3.2,
+B090362,2025-09-04,R462,Suite,Available,426.28,0,,,Yes,Yes,No,Low,Low,,,,,,18,4.9,
+B090363,2025-09-25,R172,Suite,Cancelled,384.47,4,2025-09-25,2025-09-29,Yes,No,No,Low,Low,Emma Jones,USA,Cash,Direct,Leisure,1,4.7,Late check-in
+B090364,2025-09-01,R197,Standard,Booked,101.97,4,2025-09-01,2025-09-05,Yes,Yes,No,Low,Low,Emma Jones,Canada,Credit Card,Travel Agent,Leisure,2,3.8,Extra towels
+B090365,2025-09-22,R252,Suite,Booked,365.67,4,2025-09-22,2025-09-27,No,Yes,No,Low,Low,Emma Jones,France,Cash,Direct,Leisure,8,4.7,None
+B090366,2025-09-16,R297,Suite,Available,398.06,0,,,Yes,Yes,Yes,Low,Low,,,,,,7,4.9,
+B090367,2025-09-27,R371,Deluxe,Booked,185.95,1,2025-09-27,2025-10-01,No,No,Yes,Low,Low,Yuki Tanaka,Japan,Cash,OTA,Leisure,17,4.8,None
+B090368,2025-09-03,R427,Deluxe,Available,193.87,0,,,Yes,Yes,No,Low,Low,,,,,,10,4.5,
+B090369,2025-09-06,R348,Standard,Available,90.69,0,,,Yes,No,No,Low,Low,,,,,,2,3.4,
+B090370,2025-09-10,R490,Suite,Booked,402.0,4,2025-09-10,2025-09-14,Yes,No,No,Low,Low,Emma Jones,Japan,Credit Card,Direct,Leisure,13,4.4,Extra towels
+B090371,2025-09-01,R230,Deluxe,Available,208.57,0,,,Yes,Yes,No,Low,Low,,,,,,4,3.2,
+B090372,2025-09-16,R335,Suite,Available,432.93,0,,,No,No,Yes,Low,Low,,,,,,16,4.7,
+B090373,2025-09-17,R186,Deluxe,Available,208.0,0,,,No,No,No,Low,Low,,,,,,12,3.8,
+B090374,2025-09-28,R416,Standard,No-Show,98.34,4,2025-09-28,2025-09-29,Yes,No,No,Low,Low,Marie Dubois,Canada,Cash,Direct,Leisure,14,3.3,Extra towels
+B090375,2025-09-20,R208,Standard,Available,100.63,0,,,No,No,No,Low,Low,,,,,,5,3.5,
+B090376,2025-09-23,R356,Suite,Available,437.74,0,,,Yes,No,No,Low,Low,,,,,,17,3.1,
+B090377,2025-09-02,R128,Standard,Cancelled,104.75,3,2025-09-02,2025-09-04,No,Yes,No,Low,Low,John Smith,UK,Cash,OTA,Business,8,3.8,Late check-in
+B090378,2025-09-10,R433,Suite,Available,373.74,0,,,Yes,No,No,Low,Low,,,,,,11,4.5,
+B090379,2025-09-22,R468,Standard,Booked,99.21,3,2025-09-22,2025-09-23,Yes,No,Yes,Low,Low,Hans Muller,Canada,Debit Card,Travel Agent,Business,1,4.6,Late check-in
+B090380,2025-09-14,R229,Standard,Available,101.7,0,,,Yes,Yes,Yes,Low,Low,,,,,,14,4.1,
+B090381,2025-09-06,R296,Deluxe,Booked,181.44,3,2025-09-06,2025-09-07,Yes,No,No,Low,Low,Yuki Tanaka,USA,Debit Card,Direct,Leisure,9,5.0,None
+B090382,2025-09-04,R111,Deluxe,Cancelled,208.22,2,2025-09-04,2025-09-08,Yes,Yes,No,Low,Low,Hans Muller,Germany,Debit Card,Travel Agent,Leisure,7,4.6,Late check-in
+B090383,2025-09-25,R175,Standard,Available,90.81,0,,,Yes,No,Yes,Low,Low,,,,,,8,4.5,
+B090384,2025-09-18,R464,Standard,Available,105.73,0,,,No,Yes,No,Low,Low,,,,,,8,3.8,
+B090385,2025-09-14,R215,Standard,Available,109.89,0,,,Yes,Yes,Yes,Low,Low,,,,,,10,3.3,
+B090386,2025-09-28,R471,Deluxe,Cancelled,193.2,1,2025-09-28,2025-10-01,No,No,No,Low,Low,Marie Dubois,Canada,Cash,Travel Agent,Business,16,4.2,None
+B090387,2025-09-03,R286,Deluxe,Booked,184.49,3,2025-09-03,2025-09-07,Yes,No,No,Low,Low,John Smith,Germany,Cash,Travel Agent,Leisure,13,3.8,None
+B090388,2025-09-06,R424,Standard,Booked,107.96,4,2025-09-06,2025-09-09,Yes,Yes,No,Low,Low,Emma Jones,France,Cash,OTA,Business,14,4.8,Late check-in
+B090389,2025-09-18,R459,Deluxe,Available,196.29,0,,,No,Yes,Yes,Low,Low,,,,,,14,5.0,
+B090390,2025-09-21,R390,Standard,Available,91.16,0,,,Yes,No,Yes,Low,Low,,,,,,10,4.2,
+B090391,2025-09-13,R165,Standard,No-Show,90.97,1,2025-09-13,2025-09-14,Yes,No,No,Low,Low,Hans Muller,Japan,Debit Card,OTA,Business,1,4.5,Late check-in
+B090392,2025-09-03,R187,Deluxe,Cancelled,209.7,1,2025-09-03,2025-09-05,Yes,Yes,Yes,Low,Low,John Smith,Germany,Credit Card,Travel Agent,Business,3,4.1,None
+B090393,2025-09-19,R327,Deluxe,Available,197.98,0,,,No,Yes,Yes,Low,Low,,,,,,12,3.4,
+B090394,2025-09-17,R322,Deluxe,Available,194.57,0,,,Yes,No,No,Low,Low,,,,,,4,4.1,
+B090395,2025-09-09,R482,Standard,Available,90.15,0,,,Yes,Yes,No,Low,Low,,,,,,19,4.2,
+B090396,2025-09-16,R350,Standard,Available,90.47,0,,,Yes,No,No,Low,Low,,,,,,3,3.4,
+B090397,2025-09-04,R194,Suite,Booked,362.7,1,2025-09-04,2025-09-05,Yes,Yes,No,Low,Low,John Smith,Japan,Debit Card,OTA,Leisure,13,4.0,Late check-in
+B090398,2025-09-24,R165,Deluxe,Available,180.39,0,,,Yes,No,Yes,Low,Low,,,,,,12,3.5,
+B090399,2025-09-12,R149,Suite,Booked,365.35,3,2025-09-12,2025-09-17,No,Yes,No,Low,Low,John Smith,USA,Debit Card,Direct,Business,14,4.0,Late check-in
+B090400,2025-09-10,R255,Deluxe,Booked,208.48,3,2025-09-10,2025-09-13,Yes,No,Yes,Low,Low,Emma Jones,Canada,Debit Card,OTA,Business,19,4.3,None
+B090401,2025-09-23,R471,Suite,Available,392.91,0,,,Yes,Yes,Yes,Low,Low,,,,,,18,3.2,
+B090402,2025-09-26,R314,Standard,Booked,101.56,2,2025-09-26,2025-09-29,No,No,No,Low,Low,Emma Jones,Japan,Credit Card,Travel Agent,Leisure,16,4.8,Late check-in
+B090403,2025-09-15,R153,Suite,Booked,370.2,3,2025-09-15,2025-09-19,No,Yes,No,Low,Low,John Smith,USA,Debit Card,Direct,Leisure,0,3.8,None
+B090404,2025-09-12,R482,Standard,Booked,106.45,1,2025-09-12,2025-09-17,No,Yes,No,Low,Low,Yuki Tanaka,Japan,Cash,Travel Agent,Business,13,4.6,Extra towels
+B090405,2025-09-25,R159,Suite,Available,425.71,0,,,No,No,Yes,Low,Low,,,,,,2,4.9,
+B090406,2025-09-16,R196,Standard,Booked,95.6,4,2025-09-16,2025-09-17,No,Yes,Yes,Low,Low,Hans Muller,Germany,Credit Card,Travel Agent,Leisure,2,4.9,Late check-in
+B090407,2025-09-16,R393,Standard,Cancelled,98.27,3,2025-09-16,2025-09-21,Yes,No,Yes,Low,Low,Hans Muller,France,Credit Card,Direct,Business,17,4.2,Late check-in
+B090408,2025-09-14,R162,Deluxe,Booked,194.25,1,2025-09-14,2025-09-19,Yes,No,Yes,Low,Low,Emma Jones,UK,Credit Card,Travel Agent,Leisure,0,3.2,Extra towels
+B090409,2025-09-05,R220,Standard,Available,102.75,0,,,Yes,No,Yes,Low,Low,,,,,,8,3.6,
+B090410,2025-09-19,R122,Suite,Available,422.9,0,,,Yes,Yes,No,Low,Low,,,,,,10,4.6,
+B090411,2025-09-03,R398,Deluxe,Available,196.71,0,,,Yes,Yes,No,Low,Low,,,,,,4,3.6,
+B090412,2025-09-12,R107,Standard,Available,93.11,0,,,No,No,Yes,Low,Low,,,,,,15,3.5,
+B090413,2025-09-07,R375,Suite,Booked,377.24,1,2025-09-07,2025-09-11,No,Yes,No,Low,Low,Emma Jones,UK,Debit Card,Direct,Leisure,0,3.5,Extra towels
+B090414,2025-09-18,R116,Deluxe,No-Show,185.31,1,2025-09-18,2025-09-22,Yes,Yes,Yes,Low,Low,Marie Dubois,USA,Cash,Travel Agent,Business,7,4.4,Late check-in
+B090415,2025-09-02,R241,Suite,Available,378.72,0,,,No,Yes,No,Low,Low,,,,,,20,4.6,
+B090416,2025-09-18,R323,Suite,Booked,376.06,2,2025-09-18,2025-09-19,Yes,No,Yes,Low,Low,Marie Dubois,France,Debit Card,Travel Agent,Business,6,3.6,None
+B090417,2025-09-20,R214,Suite,Available,420.66,0,,,Yes,No,Yes,Low,Low,,,,,,7,4.6,
+B090418,2025-09-18,R373,Standard,Booked,94.44,1,2025-09-18,2025-09-21,No,No,Yes,Low,Low,Yuki Tanaka,Canada,Credit Card,Travel Agent,Business,11,4.6,Extra towels
+B090419,2025-09-15,R341,Standard,Cancelled,109.01,3,2025-09-15,2025-09-16,No,Yes,Yes,Low,Low,John Smith,Germany,Credit Card,OTA,Business,18,3.3,None
+B090420,2025-09-01,R335,Standard,Booked,94.37,4,2025-09-01,2025-09-04,No,No,No,Low,Low,Marie Dubois,Germany,Cash,OTA,Business,16,4.4,None
+B090421,2025-09-22,R340,Deluxe,Booked,182.37,3,2025-09-22,2025-09-25,Yes,No,No,Low,Low,John Smith,France,Debit Card,Travel Agent,Business,14,3.8,None
+B090422,2025-09-15,R435,Standard,Available,104.08,0,,,No,Yes,Yes,Low,Low,,,,,,15,3.3,
+B090423,2025-09-01,R253,Standard,Available,97.78,0,,,No,Yes,Yes,Low,Low,,,,,,7,4.5,
+B090424,2025-09-14,R116,Standard,Available,90.27,0,,,No,Yes,Yes,Low,Low,,,,,,7,3.7,
+B090425,2025-09-23,R323,Suite,Cancelled,406.7,2,2025-09-23,2025-09-28,Yes,Yes,Yes,Low,Low,Emma Jones,Germany,Debit Card,OTA,Business,18,3.8,None
+B090426,2025-09-15,R293,Suite,Available,412.14,0,,,Yes,Yes,Yes,Low,Low,,,,,,10,4.2,
+B090427,2025-09-26,R282,Suite,Booked,425.75,4,2025-09-26,2025-09-27,Yes,Yes,No,Low,Low,John Smith,Canada,Debit Card,OTA,Business,14,4.0,None
+B090428,2025-09-05,R197,Standard,Booked,105.6,4,2025-09-05,2025-09-07,No,Yes,Yes,Low,Low,Emma Jones,Japan,Cash,Direct,Leisure,12,4.6,Late check-in
+B090429,2025-09-28,R157,Suite,Available,417.63,0,,,No,No,No,Low,Low,,,,,,11,4.4,
+B090430,2025-09-19,R425,Deluxe,Available,187.43,0,,,Yes,No,No,Low,Low,,,,,,15,5.0,
+B090431,2025-09-20,R397,Suite,Available,376.73,0,,,Yes,No,No,Low,Low,,,,,,0,4.1,
+B090432,2025-09-07,R247,Standard,Available,92.36,0,,,No,Yes,No,Low,Low,,,,,,12,3.4,
+B090433,2025-09-26,R437,Deluxe,Booked,183.96,3,2025-09-26,2025-10-01,Yes,No,No,Low,Low,Marie Dubois,UK,Debit Card,OTA,Business,12,4.9,None
+B090434,2025-09-09,R170,Deluxe,Available,219.19,0,,,No,Yes,No,Low,Low,,,,,,15,5.0,
+B090435,2025-09-06,R121,Standard,No-Show,98.88,4,2025-09-06,2025-09-11,No,Yes,Yes,Low,Low,John Smith,USA,Cash,Direct,Leisure,9,4.3,Extra towels
+B090436,2025-09-14,R268,Deluxe,Booked,192.48,4,2025-09-14,2025-09-19,No,No,No,Low,Low,Yuki Tanaka,Japan,Debit Card,OTA,Business,19,3.8,Late check-in
+B090437,2025-09-06,R430,Standard,Available,99.56,0,,,Yes,No,Yes,Low,Low,,,,,,6,3.9,
+B090438,2025-09-11,R413,Deluxe,Available,187.4,0,,,Yes,No,Yes,Low,Low,,,,,,12,4.8,
+B090439,2025-09-21,R313,Suite,Available,410.59,0,,,Yes,No,No,Low,Low,,,,,,9,3.4,
+B090440,2025-09-06,R305,Deluxe,Available,212.71,0,,,Yes,No,Yes,Low,Low,,,,,,1,3.2,
+B090441,2025-09-21,R163,Suite,Available,390.62,0,,,Yes,Yes,Yes,Low,Low,,,,,,5,4.4,
+B090442,2025-09-05,R140,Suite,Booked,428.64,1,2025-09-05,2025-09-08,No,No,No,Low,Low,Hans Muller,USA,Debit Card,Direct,Leisure,16,4.3,Late check-in
+B090443,2025-09-27,R402,Standard,Available,102.2,0,,,Yes,No,Yes,Low,Low,,,,,,4,4.8,
+B090444,2025-09-05,R234,Suite,Available,434.71,0,,,No,No,Yes,Low,Low,,,,,,16,4.3,
+B090445,2025-09-24,R371,Standard,Available,104.53,0,,,No,No,No,Low,Low,,,,,,17,3.2,
+B090446,2025-09-11,R356,Deluxe,Available,181.43,0,,,Yes,No,Yes,Low,Low,,,,,,0,4.0,
+B090447,2025-09-26,R166,Deluxe,Booked,193.73,3,2025-09-26,2025-09-28,Yes,Yes,Yes,Low,Low,Emma Jones,USA,Credit Card,Direct,Business,11,4.8,None
+B090448,2025-09-02,R474,Suite,Cancelled,376.44,2,2025-09-02,2025-09-05,Yes,Yes,No,Low,Low,John Smith,USA,Cash,OTA,Leisure,11,4.0,Late check-in
+B090449,2025-09-05,R465,Suite,Booked,360.42,1,2025-09-05,2025-09-09,No,No,Yes,Low,Low,Hans Muller,Japan,Credit Card,Travel Agent,Business,5,4.1,Extra towels
+B090450,2025-09-04,R299,Standard,Available,106.47,0,,,No,No,No,Low,Low,,,,,,15,4.6,
+B090451,2025-09-24,R215,Standard,Available,103.57,0,,,Yes,Yes,No,Low,Low,,,,,,1,4.9,
+B090452,2025-09-15,R225,Suite,Available,415.93,0,,,No,No,No,Low,Low,,,,,,16,3.6,
+B090453,2025-09-23,R357,Suite,Available,428.92,0,,,No,Yes,No,Low,Low,,,,,,14,3.0,
+B090454,2025-09-04,R157,Deluxe,Available,202.37,0,,,No,No,Yes,Low,Low,,,,,,11,4.4,
+B090455,2025-09-25,R208,Suite,Available,392.69,0,,,No,Yes,Yes,Low,Low,,,,,,15,3.7,
+B090456,2025-09-23,R303,Standard,Available,92.72,0,,,Yes,Yes,Yes,Low,Low,,,,,,7,4.1,
+B090457,2025-09-20,R211,Deluxe,Available,199.54,0,,,Yes,No,No,Low,Low,,,,,,4,4.2,
+B090458,2025-09-08,R317,Suite,Cancelled,423.82,4,2025-09-08,2025-09-12,Yes,No,Yes,Low,Low,Emma Jones,Japan,Debit Card,Direct,Leisure,17,5.0,None
+B090459,2025-09-28,R285,Standard,Booked,107.1,2,2025-09-28,2025-10-02,Yes,No,Yes,Low,Low,John Smith,Canada,Cash,Direct,Business,11,3.7,Extra towels
+B090460,2025-09-02,R473,Standard,Available,99.49,0,,,No,No,Yes,Low,Low,,,,,,6,3.5,
+B090461,2025-09-27,R306,Suite,Booked,439.15,4,2025-09-27,2025-09-29,No,No,Yes,Low,Low,Hans Muller,Canada,Cash,Travel Agent,Leisure,9,4.3,None
+B090462,2025-09-13,R243,Deluxe,Available,180.51,0,,,No,No,No,Low,Low,,,,,,20,4.8,
+B090463,2025-09-28,R468,Suite,Available,415.4,0,,,No,Yes,No,Low,Low,,,,,,0,3.1,
+B090464,2025-09-20,R493,Suite,Cancelled,387.96,3,2025-09-20,2025-09-22,No,No,No,Low,Low,Yuki Tanaka,USA,Credit Card,Direct,Business,3,3.6,None
+B090465,2025-09-26,R263,Standard,Available,109.76,0,,,No,Yes,No,Low,Low,,,,,,15,3.1,
+B090466,2025-09-26,R389,Standard,Available,99.74,0,,,Yes,No,Yes,Low,Low,,,,,,16,3.1,
+B090467,2025-09-20,R256,Standard,Available,90.32,0,,,No,No,No,Low,Low,,,,,,14,3.8,
+B090468,2025-09-02,R443,Standard,Cancelled,97.68,4,2025-09-02,2025-09-04,No,Yes,Yes,Low,Low,Hans Muller,Japan,Cash,OTA,Leisure,2,4.6,Late check-in
+B090469,2025-09-08,R271,Suite,No-Show,389.33,3,2025-09-08,2025-09-13,No,No,No,Low,Low,Emma Jones,Japan,Debit Card,Direct,Leisure,8,4.2,Extra towels
+B090470,2025-09-14,R338,Standard,Cancelled,93.35,3,2025-09-14,2025-09-18,Yes,No,No,Low,Low,Emma Jones,UK,Cash,Direct,Leisure,17,3.8,Extra towels
+B090471,2025-09-02,R376,Standard,Cancelled,109.88,2,2025-09-02,2025-09-07,No,No,Yes,Low,Low,Emma Jones,Germany,Cash,Travel Agent,Business,20,3.0,Extra towels
+B090472,2025-09-01,R287,Deluxe,Available,212.02,0,,,No,No,Yes,Low,Low,,,,,,4,3.9,
+B090473,2025-09-19,R417,Suite,Available,429.93,0,,,No,Yes,No,Low,Low,,,,,,17,3.2,
+B090474,2025-09-04,R448,Deluxe,Available,187.52,0,,,No,Yes,No,Low,Low,,,,,,10,3.1,
+B090475,2025-09-08,R234,Standard,Booked,106.48,3,2025-09-08,2025-09-09,Yes,No,Yes,Low,Low,Emma Jones,Japan,Debit Card,OTA,Business,18,3.5,Late check-in
+B090476,2025-09-10,R480,Suite,Booked,429.42,1,2025-09-10,2025-09-15,Yes,No,Yes,Low,Low,Emma Jones,Canada,Cash,OTA,Leisure,1,4.4,Late check-in
+B090477,2025-09-18,R307,Deluxe,Available,198.9,0,,,Yes,Yes,No,Low,Low,,,,,,9,3.3,
+B090478,2025-09-28,R260,Suite,Booked,401.33,3,2025-09-28,2025-10-02,No,Yes,Yes,Low,Low,Marie Dubois,France,Credit Card,Travel Agent,Leisure,5,3.7,Extra towels
+B090479,2025-09-13,R471,Standard,Booked,96.36,2,2025-09-13,2025-09-15,No,No,No,Low,Low,Marie Dubois,UK,Credit Card,Direct,Leisure,3,4.0,Late check-in
+B090480,2025-09-03,R421,Suite,Available,400.97,0,,,Yes,Yes,Yes,Low,Low,,,,,,18,3.1,
+B090481,2025-09-21,R370,Suite,Available,385.44,0,,,No,No,No,Low,Low,,,,,,17,4.3,
+B090482,2025-09-11,R136,Suite,Booked,398.89,2,2025-09-11,2025-09-15,Yes,No,No,Low,Low,Hans Muller,Canada,Cash,Travel Agent,Leisure,7,3.6,Late check-in
+B090483,2025-09-24,R231,Standard,No-Show,106.47,1,2025-09-24,2025-09-25,Yes,Yes,No,Low,Low,Marie Dubois,Canada,Debit Card,OTA,Business,4,4.4,Extra towels
+B090484,2025-09-15,R152,Standard,No-Show,102.8,3,2025-09-15,2025-09-20,No,No,No,Low,Low,Marie Dubois,UK,Cash,Direct,Business,8,3.0,Late check-in
+B090485,2025-09-23,R489,Standard,Available,98.49,0,,,Yes,No,No,Low,Low,,,,,,6,3.3,
+B090486,2025-09-08,R354,Suite,Available,399.33,0,,,Yes,Yes,No,Low,Low,,,,,,9,4.8,
+B090487,2025-09-18,R433,Suite,Available,412.42,0,,,Yes,Yes,No,Low,Low,,,,,,14,3.5,
+B090488,2025-09-01,R159,Standard,Available,96.51,0,,,No,No,Yes,Low,Low,,,,,,6,4.2,
+B090489,2025-09-06,R100,Standard,Available,93.29,0,,,Yes,No,No,Low,Low,,,,,,8,3.2,
+B090490,2025-09-15,R495,Suite,Booked,395.41,3,2025-09-15,2025-09-16,No,Yes,No,Low,Low,Hans Muller,Japan,Cash,OTA,Leisure,8,4.8,None
+B090491,2025-09-07,R108,Suite,Available,391.16,0,,,Yes,No,Yes,Low,Low,,,,,,10,4.4,
+B090492,2025-09-21,R272,Standard,Booked,109.07,4,2025-09-21,2025-09-24,No,No,No,Low,Low,John Smith,Germany,Debit Card,OTA,Business,17,3.5,Extra towels
+B090493,2025-09-03,R245,Suite,Available,432.68,0,,,Yes,No,Yes,Low,Low,,,,,,5,3.3,
+B090494,2025-09-26,R239,Standard,Booked,96.03,1,2025-09-26,2025-10-01,No,No,Yes,Low,Low,Yuki Tanaka,Canada,Credit Card,Travel Agent,Leisure,11,3.0,None
+B090495,2025-09-16,R377,Suite,Cancelled,390.51,3,2025-09-16,2025-09-19,No,No,Yes,Low,Low,Marie Dubois,UK,Cash,Direct,Leisure,16,4.9,Extra towels
+B090496,2025-09-27,R349,Standard,Booked,103.06,3,2025-09-27,2025-10-02,No,Yes,Yes,Low,Low,John Smith,Canada,Cash,Direct,Business,10,4.6,Late check-in
+B090497,2025-09-25,R274,Suite,Available,369.4,0,,,No,No,No,Low,Low,,,,,,3,3.5,
+B090498,2025-09-19,R333,Suite,Booked,386.73,1,2025-09-19,2025-09-20,Yes,No,No,Low,Low,John Smith,USA,Cash,Direct,Business,14,3.4,Extra towels
+B090499,2025-09-07,R140,Deluxe,Booked,187.31,4,2025-09-07,2025-09-12,No,No,Yes,Low,Low,Emma Jones,Germany,Cash,Travel Agent,Business,14,4.8,Extra towels
+B090500,2025-09-28,R472,Deluxe,Available,194.34,0,,,Yes,No,No,Low,Low,,,,,,13,4.3,

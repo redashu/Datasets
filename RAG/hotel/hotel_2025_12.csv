@@ -1,0 +1,501 @@
+booking_id,date,room_id,room_type,status,price,guest_count,check_in,check_out,wifi,parking,breakfast,season,occupancy_level,guest_name,country,payment_method,booking_channel,stay_purpose,discount_pct,review_score,special_request
+B120001,2025-12-07,R270,Suite,Booked,578.87,2,2025-12-07,2025-12-11,No,Yes,No,Peak,High,Marie Dubois,USA,Debit Card,Travel Agent,Leisure,12,3.6,None
+B120002,2025-12-07,R288,Suite,Booked,602.42,3,2025-12-07,2025-12-10,No,Yes,No,Peak,High,John Smith,Canada,Cash,Travel Agent,Leisure,18,4.2,Late check-in
+B120003,2025-12-17,R474,Deluxe,Booked,316.47,3,2025-12-17,2025-12-18,No,Yes,No,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Business,16,3.9,None
+B120004,2025-12-28,R256,Deluxe,Booked,285.33,4,2025-12-28,2025-12-29,No,Yes,No,Peak,High,Emma Jones,Canada,Cash,Travel Agent,Leisure,9,4.7,Late check-in
+B120005,2025-12-28,R250,Deluxe,Booked,286.94,4,2025-12-28,2025-12-29,No,No,Yes,Peak,High,Yuki Tanaka,France,Debit Card,Travel Agent,Business,6,3.3,Late check-in
+B120006,2025-12-12,R239,Deluxe,Available,272.24,0,,,Yes,Yes,No,Peak,High,,,,,,0,4.5,
+B120007,2025-12-09,R476,Standard,Booked,148.49,2,2025-12-09,2025-12-11,No,Yes,Yes,Peak,High,Yuki Tanaka,Canada,Debit Card,Travel Agent,Leisure,0,3.6,Extra towels
+B120008,2025-12-17,R275,Standard,Booked,151.76,1,2025-12-17,2025-12-20,Yes,Yes,No,Peak,High,Emma Jones,France,Credit Card,Direct,Business,20,4.1,None
+B120009,2025-12-23,R231,Suite,Booked,602.88,2,2025-12-23,2025-12-26,No,Yes,No,Peak,High,John Smith,Germany,Debit Card,Direct,Business,4,4.7,None
+B120010,2025-12-12,R142,Deluxe,Booked,320.58,4,2025-12-12,2025-12-17,Yes,Yes,Yes,Peak,High,John Smith,UK,Cash,Direct,Business,0,4.5,Late check-in
+B120011,2025-12-21,R224,Suite,Booked,553.17,1,2025-12-21,2025-12-24,No,No,No,Peak,High,Marie Dubois,UK,Debit Card,OTA,Leisure,9,3.3,Late check-in
+B120012,2025-12-26,R232,Standard,Booked,139.69,3,2025-12-26,2025-12-27,No,No,No,Peak,High,Yuki Tanaka,UK,Debit Card,Travel Agent,Business,5,4.5,None
+B120013,2025-12-11,R348,Standard,Booked,136.61,2,2025-12-11,2025-12-12,Yes,No,Yes,Peak,High,Hans Muller,Canada,Debit Card,Direct,Business,16,4.1,Late check-in
+B120014,2025-12-25,R278,Deluxe,Booked,325.15,1,2025-12-25,2025-12-30,No,No,No,Peak,High,Yuki Tanaka,France,Credit Card,OTA,Business,1,4.5,Late check-in
+B120015,2025-12-20,R479,Deluxe,Booked,305.97,1,2025-12-20,2025-12-21,Yes,No,Yes,Peak,High,Marie Dubois,Japan,Cash,OTA,Leisure,17,3.6,Late check-in
+B120016,2025-12-15,R346,Standard,Booked,144.6,4,2025-12-15,2025-12-19,Yes,No,No,Peak,High,John Smith,France,Credit Card,OTA,Leisure,2,3.6,Extra towels
+B120017,2025-12-17,R357,Suite,Booked,592.66,3,2025-12-17,2025-12-21,No,No,No,Peak,High,Hans Muller,Canada,Cash,OTA,Leisure,20,3.3,Extra towels
+B120018,2025-12-28,R183,Suite,Booked,594.59,3,2025-12-28,2026-01-02,Yes,No,No,Peak,High,Emma Jones,USA,Debit Card,Direct,Business,20,4.0,Late check-in
+B120019,2025-12-11,R154,Suite,Cancelled,581.2,2,2025-12-11,2025-12-13,No,No,Yes,Peak,High,Marie Dubois,USA,Debit Card,Direct,Business,10,4.2,None
+B120020,2025-12-28,R244,Deluxe,Booked,287.84,1,2025-12-28,2025-12-29,Yes,Yes,No,Peak,High,John Smith,Japan,Cash,Travel Agent,Business,15,3.7,Extra towels
+B120021,2025-12-25,R427,Standard,Cancelled,147.76,1,2025-12-25,2025-12-30,No,Yes,No,Peak,High,Marie Dubois,Germany,Debit Card,Travel Agent,Leisure,12,4.6,Extra towels
+B120022,2025-12-12,R375,Standard,Booked,155.97,1,2025-12-12,2025-12-17,Yes,No,No,Peak,High,Yuki Tanaka,Japan,Cash,Direct,Leisure,8,4.5,Late check-in
+B120023,2025-12-27,R382,Standard,Booked,145.68,3,2025-12-27,2025-12-28,Yes,No,Yes,Peak,High,John Smith,France,Credit Card,OTA,Business,4,3.3,Extra towels
+B120024,2025-12-10,R106,Suite,Available,598.06,0,,,Yes,No,No,Peak,High,,,,,,5,4.2,
+B120025,2025-12-07,R370,Suite,Booked,608.07,2,2025-12-07,2025-12-10,Yes,Yes,Yes,Peak,High,Yuki Tanaka,Japan,Debit Card,OTA,Leisure,16,3.2,Late check-in
+B120026,2025-12-06,R303,Standard,Booked,152.68,2,2025-12-06,2025-12-10,No,Yes,Yes,Peak,High,Marie Dubois,UK,Debit Card,Travel Agent,Leisure,19,4.0,Extra towels
+B120027,2025-12-04,R233,Standard,No-Show,149.92,3,2025-12-04,2025-12-06,No,No,No,Peak,High,Hans Muller,France,Debit Card,OTA,Leisure,9,3.4,Late check-in
+B120028,2025-12-09,R259,Deluxe,Booked,273.02,3,2025-12-09,2025-12-13,No,No,Yes,Peak,High,Marie Dubois,France,Debit Card,Direct,Leisure,6,3.6,Extra towels
+B120029,2025-12-16,R280,Suite,Booked,612.31,3,2025-12-16,2025-12-17,Yes,No,No,Peak,High,Hans Muller,UK,Cash,OTA,Leisure,1,5.0,Late check-in
+B120030,2025-12-13,R331,Standard,Booked,149.21,3,2025-12-13,2025-12-15,No,No,No,Peak,High,John Smith,Germany,Debit Card,Travel Agent,Leisure,11,3.5,Extra towels
+B120031,2025-12-28,R201,Suite,Available,626.75,0,,,Yes,Yes,Yes,Peak,High,,,,,,11,4.3,
+B120032,2025-12-02,R312,Suite,Booked,628.31,1,2025-12-02,2025-12-06,No,No,Yes,Peak,High,Yuki Tanaka,France,Cash,Direct,Leisure,3,3.5,Late check-in
+B120033,2025-12-08,R358,Suite,Booked,598.36,2,2025-12-08,2025-12-12,No,No,No,Peak,High,Marie Dubois,Germany,Debit Card,Direct,Business,15,3.9,None
+B120034,2025-12-14,R383,Suite,Booked,612.33,1,2025-12-14,2025-12-15,Yes,No,Yes,Peak,High,Hans Muller,UK,Credit Card,Travel Agent,Leisure,1,4.3,Late check-in
+B120035,2025-12-02,R470,Deluxe,Booked,325.47,3,2025-12-02,2025-12-03,Yes,Yes,No,Peak,High,Emma Jones,Canada,Credit Card,OTA,Leisure,12,4.0,Late check-in
+B120036,2025-12-15,R431,Standard,Booked,147.95,4,2025-12-15,2025-12-17,Yes,No,No,Peak,High,Emma Jones,USA,Debit Card,Direct,Leisure,7,4.8,None
+B120037,2025-12-26,R110,Suite,Booked,540.38,3,2025-12-26,2025-12-27,Yes,Yes,Yes,Peak,High,John Smith,UK,Debit Card,OTA,Business,0,3.8,Late check-in
+B120038,2025-12-06,R158,Standard,Booked,150.83,3,2025-12-06,2025-12-11,Yes,Yes,No,Peak,High,Marie Dubois,UK,Credit Card,Travel Agent,Leisure,16,4.9,Extra towels
+B120039,2025-12-11,R388,Suite,Booked,568.75,4,2025-12-11,2025-12-15,Yes,Yes,Yes,Peak,High,Yuki Tanaka,France,Credit Card,Direct,Leisure,0,4.5,Extra towels
+B120040,2025-12-21,R231,Deluxe,No-Show,317.15,1,2025-12-21,2025-12-23,Yes,Yes,No,Peak,High,Yuki Tanaka,France,Credit Card,Direct,Business,14,4.6,Late check-in
+B120041,2025-12-03,R122,Suite,Cancelled,553.38,3,2025-12-03,2025-12-04,No,Yes,No,Peak,High,Hans Muller,UK,Cash,Direct,Leisure,16,4.3,None
+B120042,2025-12-28,R200,Standard,Booked,135.76,1,2025-12-28,2025-12-30,No,Yes,No,Peak,High,Emma Jones,France,Credit Card,OTA,Leisure,19,3.6,Extra towels
+B120043,2025-12-17,R108,Suite,Booked,614.66,1,2025-12-17,2025-12-20,Yes,Yes,No,Peak,High,Emma Jones,Germany,Credit Card,Direct,Business,17,3.6,None
+B120044,2025-12-01,R184,Suite,Booked,609.37,4,2025-12-01,2025-12-03,No,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,OTA,Leisure,1,3.4,Late check-in
+B120045,2025-12-16,R427,Suite,Booked,640.95,3,2025-12-16,2025-12-18,No,Yes,Yes,Peak,High,Emma Jones,France,Credit Card,Travel Agent,Leisure,11,4.7,None
+B120046,2025-12-07,R165,Standard,Booked,160.26,3,2025-12-07,2025-12-10,Yes,No,No,Peak,High,Marie Dubois,France,Debit Card,Travel Agent,Business,8,4.0,None
+B120047,2025-12-13,R249,Suite,Booked,605.45,4,2025-12-13,2025-12-14,Yes,Yes,Yes,Peak,High,Hans Muller,France,Debit Card,OTA,Business,12,3.2,Late check-in
+B120048,2025-12-26,R442,Deluxe,Booked,288.19,1,2025-12-26,2025-12-31,Yes,No,No,Peak,High,John Smith,Germany,Debit Card,OTA,Leisure,11,4.6,Late check-in
+B120049,2025-12-15,R239,Standard,Booked,149.26,4,2025-12-15,2025-12-20,No,No,No,Peak,High,Marie Dubois,Japan,Debit Card,Travel Agent,Business,19,3.7,Late check-in
+B120050,2025-12-28,R416,Standard,Booked,135.37,1,2025-12-28,2025-12-30,Yes,Yes,No,Peak,High,Hans Muller,France,Debit Card,Direct,Business,20,4.7,Extra towels
+B120051,2025-12-20,R164,Standard,Booked,164.82,4,2025-12-20,2025-12-21,Yes,No,No,Peak,High,Emma Jones,USA,Cash,Travel Agent,Business,19,3.9,None
+B120052,2025-12-08,R431,Standard,Booked,151.41,2,2025-12-08,2025-12-10,No,No,Yes,Peak,High,Hans Muller,Canada,Cash,OTA,Business,5,4.9,Extra towels
+B120053,2025-12-11,R311,Deluxe,Cancelled,280.6,3,2025-12-11,2025-12-14,Yes,Yes,No,Peak,High,Emma Jones,Canada,Debit Card,Direct,Leisure,4,4.9,Extra towels
+B120054,2025-12-05,R214,Suite,Booked,581.33,1,2025-12-05,2025-12-09,No,Yes,Yes,Peak,High,John Smith,UK,Credit Card,OTA,Business,13,4.8,None
+B120055,2025-12-26,R383,Standard,Available,136.34,0,,,No,Yes,No,Peak,High,,,,,,1,3.3,
+B120056,2025-12-17,R328,Suite,No-Show,566.5,4,2025-12-17,2025-12-18,Yes,No,Yes,Peak,High,John Smith,France,Cash,Travel Agent,Leisure,18,3.8,Late check-in
+B120057,2025-12-04,R303,Standard,No-Show,153.21,2,2025-12-04,2025-12-09,Yes,No,Yes,Peak,High,Emma Jones,USA,Debit Card,OTA,Leisure,6,4.5,Extra towels
+B120058,2025-12-24,R269,Suite,No-Show,626.73,1,2025-12-24,2025-12-26,Yes,No,Yes,Peak,High,Emma Jones,Canada,Credit Card,Direct,Business,9,4.6,Late check-in
+B120059,2025-12-07,R390,Deluxe,Booked,284.29,4,2025-12-07,2025-12-12,No,No,No,Peak,High,John Smith,France,Debit Card,Direct,Business,12,4.0,Late check-in
+B120060,2025-12-21,R445,Standard,Booked,149.72,1,2025-12-21,2025-12-22,Yes,Yes,No,Peak,High,John Smith,USA,Debit Card,Travel Agent,Business,19,4.8,None
+B120061,2025-12-01,R182,Standard,Booked,160.47,4,2025-12-01,2025-12-06,Yes,No,Yes,Peak,High,Emma Jones,UK,Credit Card,Travel Agent,Business,15,3.2,None
+B120062,2025-12-15,R401,Suite,Booked,594.05,2,2025-12-15,2025-12-20,Yes,Yes,Yes,Peak,High,John Smith,France,Cash,OTA,Leisure,7,3.7,Late check-in
+B120063,2025-12-17,R340,Standard,Booked,147.14,4,2025-12-17,2025-12-18,Yes,Yes,No,Peak,High,Hans Muller,Canada,Debit Card,Travel Agent,Leisure,16,3.4,Late check-in
+B120064,2025-12-24,R479,Suite,Booked,580.07,4,2025-12-24,2025-12-25,No,Yes,Yes,Peak,High,Emma Jones,UK,Debit Card,Direct,Leisure,20,4.9,Late check-in
+B120065,2025-12-04,R364,Deluxe,Booked,311.03,2,2025-12-04,2025-12-09,Yes,No,No,Peak,High,Marie Dubois,Japan,Cash,Direct,Leisure,20,4.0,Extra towels
+B120066,2025-12-25,R427,Standard,Booked,136.26,1,2025-12-25,2025-12-30,No,No,No,Peak,High,Yuki Tanaka,USA,Cash,Direct,Leisure,19,4.4,Extra towels
+B120067,2025-12-21,R365,Standard,Booked,153.97,1,2025-12-21,2025-12-22,No,Yes,Yes,Peak,High,Emma Jones,UK,Credit Card,Travel Agent,Leisure,6,3.8,Late check-in
+B120068,2025-12-21,R193,Standard,No-Show,160.87,3,2025-12-21,2025-12-25,No,Yes,No,Peak,High,Emma Jones,France,Credit Card,OTA,Leisure,4,3.7,None
+B120069,2025-12-23,R133,Standard,Cancelled,144.35,4,2025-12-23,2025-12-24,No,No,Yes,Peak,High,John Smith,France,Cash,OTA,Leisure,12,4.3,None
+B120070,2025-12-15,R214,Standard,Booked,137.15,2,2025-12-15,2025-12-16,Yes,Yes,No,Peak,High,John Smith,Japan,Cash,OTA,Leisure,9,4.4,Extra towels
+B120071,2025-12-01,R371,Standard,Booked,163.1,2,2025-12-01,2025-12-05,No,No,Yes,Peak,High,Emma Jones,France,Debit Card,Direct,Leisure,3,4.1,Late check-in
+B120072,2025-12-23,R247,Deluxe,Booked,307.37,2,2025-12-23,2025-12-25,Yes,Yes,No,Peak,High,John Smith,UK,Credit Card,OTA,Business,11,4.0,Extra towels
+B120073,2025-12-17,R356,Standard,Booked,136.48,4,2025-12-17,2025-12-19,Yes,No,Yes,Peak,High,Yuki Tanaka,France,Credit Card,Travel Agent,Business,20,4.0,Extra towels
+B120074,2025-12-28,R413,Deluxe,Booked,271.87,4,2025-12-28,2025-12-30,No,No,Yes,Peak,High,Hans Muller,Canada,Credit Card,Direct,Business,6,4.8,Extra towels
+B120075,2025-12-19,R451,Standard,Booked,141.52,2,2025-12-19,2025-12-21,No,Yes,Yes,Peak,High,Emma Jones,Canada,Cash,Travel Agent,Business,5,3.5,None
+B120076,2025-12-27,R201,Deluxe,Booked,298.05,2,2025-12-27,2025-12-30,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Debit Card,Direct,Business,10,4.0,Extra towels
+B120077,2025-12-12,R291,Suite,Booked,606.63,2,2025-12-12,2025-12-16,No,No,No,Peak,High,Yuki Tanaka,Japan,Debit Card,Direct,Leisure,1,3.1,Extra towels
+B120078,2025-12-06,R137,Suite,Booked,658.7,1,2025-12-06,2025-12-09,No,No,Yes,Peak,High,John Smith,Canada,Debit Card,Travel Agent,Leisure,9,3.6,None
+B120079,2025-12-21,R386,Deluxe,Booked,311.51,1,2025-12-21,2025-12-26,Yes,Yes,Yes,Peak,High,Hans Muller,France,Debit Card,Travel Agent,Business,1,3.9,Late check-in
+B120080,2025-12-06,R260,Standard,Booked,144.08,3,2025-12-06,2025-12-10,Yes,No,Yes,Peak,High,Yuki Tanaka,Germany,Cash,Direct,Business,1,3.9,Extra towels
+B120081,2025-12-18,R451,Deluxe,Booked,325.82,2,2025-12-18,2025-12-19,Yes,Yes,No,Peak,High,Yuki Tanaka,Canada,Credit Card,Travel Agent,Business,14,4.3,Late check-in
+B120082,2025-12-28,R239,Deluxe,Booked,286.58,2,2025-12-28,2026-01-02,Yes,No,Yes,Peak,High,John Smith,Canada,Cash,OTA,Leisure,8,5.0,None
+B120083,2025-12-13,R144,Deluxe,Booked,294.9,1,2025-12-13,2025-12-17,No,No,Yes,Peak,High,John Smith,France,Credit Card,Direct,Leisure,5,3.6,Late check-in
+B120084,2025-12-08,R183,Suite,No-Show,565.52,3,2025-12-08,2025-12-11,Yes,No,No,Peak,High,Yuki Tanaka,USA,Credit Card,Travel Agent,Business,9,3.1,None
+B120085,2025-12-26,R390,Standard,Cancelled,142.81,2,2025-12-26,2025-12-30,No,No,Yes,Peak,High,Marie Dubois,Japan,Debit Card,Direct,Leisure,18,3.3,Extra towels
+B120086,2025-12-18,R209,Suite,Available,608.53,0,,,No,No,No,Peak,High,,,,,,18,3.3,
+B120087,2025-12-27,R485,Deluxe,Available,293.43,0,,,No,No,Yes,Peak,High,,,,,,0,3.5,
+B120088,2025-12-01,R461,Standard,Booked,160.19,2,2025-12-01,2025-12-03,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Credit Card,OTA,Business,7,3.5,Late check-in
+B120089,2025-12-05,R169,Standard,Booked,162.99,3,2025-12-05,2025-12-09,Yes,No,No,Peak,High,Hans Muller,Germany,Credit Card,Travel Agent,Leisure,8,4.7,Extra towels
+B120090,2025-12-11,R360,Standard,Available,162.91,0,,,No,Yes,No,Peak,High,,,,,,8,4.0,
+B120091,2025-12-03,R354,Standard,Booked,158.6,3,2025-12-03,2025-12-05,No,No,No,Peak,High,Emma Jones,Japan,Credit Card,OTA,Business,18,3.4,Extra towels
+B120092,2025-12-08,R449,Deluxe,Booked,290.18,3,2025-12-08,2025-12-12,Yes,No,No,Peak,High,Emma Jones,UK,Credit Card,OTA,Leisure,15,4.7,Late check-in
+B120093,2025-12-27,R191,Suite,Booked,567.98,3,2025-12-27,2025-12-30,Yes,Yes,No,Peak,High,Hans Muller,Germany,Cash,OTA,Business,15,4.9,Late check-in
+B120094,2025-12-03,R445,Standard,Booked,161.57,4,2025-12-03,2025-12-05,Yes,No,No,Peak,High,John Smith,Canada,Credit Card,Travel Agent,Business,4,4.3,Extra towels
+B120095,2025-12-02,R300,Suite,Booked,582.69,4,2025-12-02,2025-12-06,No,No,Yes,Peak,High,John Smith,France,Cash,Travel Agent,Leisure,8,3.2,Extra towels
+B120096,2025-12-20,R480,Suite,Booked,552.04,3,2025-12-20,2025-12-25,Yes,No,Yes,Peak,High,Marie Dubois,Canada,Debit Card,Travel Agent,Leisure,2,4.7,Extra towels
+B120097,2025-12-09,R326,Standard,Booked,154.71,2,2025-12-09,2025-12-11,Yes,No,No,Peak,High,Yuki Tanaka,UK,Cash,Travel Agent,Leisure,1,3.7,None
+B120098,2025-12-06,R304,Deluxe,Booked,316.58,4,2025-12-06,2025-12-07,No,Yes,Yes,Peak,High,Yuki Tanaka,USA,Credit Card,Travel Agent,Leisure,14,3.7,Extra towels
+B120099,2025-12-11,R456,Standard,Booked,143.01,3,2025-12-11,2025-12-16,No,Yes,Yes,Peak,High,Marie Dubois,UK,Debit Card,OTA,Business,20,4.0,Late check-in
+B120100,2025-12-07,R363,Deluxe,Booked,280.62,1,2025-12-07,2025-12-10,Yes,Yes,No,Peak,High,John Smith,USA,Credit Card,OTA,Leisure,3,4.8,Late check-in
+B120101,2025-12-26,R376,Standard,Booked,160.55,2,2025-12-26,2025-12-30,No,Yes,No,Peak,High,Hans Muller,France,Debit Card,Direct,Business,5,4.7,None
+B120102,2025-12-23,R314,Deluxe,Booked,303.6,4,2025-12-23,2025-12-25,No,Yes,No,Peak,High,Emma Jones,UK,Cash,Travel Agent,Leisure,3,3.0,Extra towels
+B120103,2025-12-14,R232,Deluxe,Booked,314.95,1,2025-12-14,2025-12-16,No,Yes,Yes,Peak,High,Emma Jones,Germany,Credit Card,Direct,Business,7,3.7,Extra towels
+B120104,2025-12-02,R199,Standard,Booked,146.22,4,2025-12-02,2025-12-04,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Credit Card,Travel Agent,Leisure,0,4.3,Late check-in
+B120105,2025-12-10,R254,Deluxe,Booked,285.23,4,2025-12-10,2025-12-12,No,Yes,Yes,Peak,High,Yuki Tanaka,UK,Credit Card,Direct,Business,8,4.5,Late check-in
+B120106,2025-12-23,R309,Deluxe,Booked,323.82,3,2025-12-23,2025-12-27,Yes,No,No,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,14,4.0,Extra towels
+B120107,2025-12-25,R444,Standard,Cancelled,141.76,1,2025-12-25,2025-12-29,No,No,No,Peak,High,John Smith,Japan,Cash,Travel Agent,Leisure,3,4.7,Extra towels
+B120108,2025-12-16,R430,Standard,Booked,161.07,2,2025-12-16,2025-12-18,No,Yes,No,Peak,High,Marie Dubois,Germany,Debit Card,Direct,Business,0,3.2,Extra towels
+B120109,2025-12-04,R179,Suite,Booked,620.2,4,2025-12-04,2025-12-09,No,Yes,Yes,Peak,High,Marie Dubois,USA,Debit Card,OTA,Business,18,4.4,Extra towels
+B120110,2025-12-08,R463,Standard,Booked,137.62,1,2025-12-08,2025-12-11,Yes,No,Yes,Peak,High,Emma Jones,Canada,Cash,Direct,Business,3,4.8,None
+B120111,2025-12-07,R126,Deluxe,Booked,271.75,2,2025-12-07,2025-12-08,Yes,No,No,Peak,High,Yuki Tanaka,France,Debit Card,Travel Agent,Business,2,3.8,None
+B120112,2025-12-03,R294,Suite,Booked,564.13,4,2025-12-03,2025-12-06,No,No,Yes,Peak,High,John Smith,USA,Cash,Direct,Leisure,0,3.0,Late check-in
+B120113,2025-12-21,R443,Suite,Booked,572.02,3,2025-12-21,2025-12-24,Yes,Yes,No,Peak,High,Marie Dubois,Japan,Debit Card,Travel Agent,Leisure,0,3.8,Late check-in
+B120114,2025-12-16,R288,Deluxe,Booked,281.61,3,2025-12-16,2025-12-20,No,Yes,Yes,Peak,High,Hans Muller,UK,Credit Card,Travel Agent,Leisure,1,3.2,Extra towels
+B120115,2025-12-03,R366,Deluxe,Available,276.16,0,,,Yes,Yes,Yes,Peak,High,,,,,,20,3.2,
+B120116,2025-12-03,R335,Standard,Booked,157.03,1,2025-12-03,2025-12-05,No,No,No,Peak,High,Marie Dubois,Canada,Credit Card,Travel Agent,Leisure,17,3.2,Extra towels
+B120117,2025-12-28,R388,Standard,Booked,139.36,1,2025-12-28,2025-12-30,Yes,No,No,Peak,High,John Smith,Canada,Debit Card,Travel Agent,Leisure,12,4.6,Late check-in
+B120118,2025-12-13,R144,Standard,Booked,157.42,4,2025-12-13,2025-12-14,No,No,No,Peak,High,John Smith,France,Debit Card,OTA,Leisure,3,4.1,None
+B120119,2025-12-04,R277,Suite,Booked,647.4,2,2025-12-04,2025-12-07,No,No,No,Peak,High,Emma Jones,Germany,Credit Card,Travel Agent,Leisure,2,3.7,Extra towels
+B120120,2025-12-27,R196,Suite,Booked,642.3,2,2025-12-27,2025-12-29,Yes,No,Yes,Peak,High,Yuki Tanaka,UK,Credit Card,Direct,Business,6,4.8,Late check-in
+B120121,2025-12-26,R331,Standard,Booked,164.76,3,2025-12-26,2025-12-31,Yes,No,Yes,Peak,High,Hans Muller,UK,Cash,OTA,Business,17,4.2,Late check-in
+B120122,2025-12-08,R185,Deluxe,Cancelled,327.3,4,2025-12-08,2025-12-12,Yes,Yes,No,Peak,High,Yuki Tanaka,USA,Debit Card,Travel Agent,Leisure,20,4.9,None
+B120123,2025-12-25,R360,Deluxe,Booked,320.56,1,2025-12-25,2025-12-30,No,No,Yes,Peak,High,Marie Dubois,USA,Cash,Direct,Business,17,3.9,Late check-in
+B120124,2025-12-06,R295,Suite,Booked,569.82,1,2025-12-06,2025-12-08,No,No,Yes,Peak,High,Emma Jones,UK,Cash,Travel Agent,Leisure,14,4.8,Late check-in
+B120125,2025-12-21,R259,Standard,Booked,152.86,1,2025-12-21,2025-12-22,Yes,Yes,No,Peak,High,John Smith,UK,Debit Card,Direct,Leisure,20,4.3,Late check-in
+B120126,2025-12-01,R419,Standard,Booked,150.39,4,2025-12-01,2025-12-02,Yes,No,Yes,Peak,High,Marie Dubois,Canada,Credit Card,Direct,Leisure,11,4.7,Late check-in
+B120127,2025-12-13,R412,Suite,Available,560.6,0,,,No,Yes,Yes,Peak,High,,,,,,18,4.3,
+B120128,2025-12-15,R365,Standard,Booked,142.51,3,2025-12-15,2025-12-18,No,No,Yes,Peak,High,Yuki Tanaka,Japan,Cash,Travel Agent,Leisure,19,3.9,None
+B120129,2025-12-27,R357,Standard,Booked,150.96,2,2025-12-27,2025-12-30,Yes,Yes,No,Peak,High,Yuki Tanaka,France,Cash,OTA,Business,15,5.0,Extra towels
+B120130,2025-12-09,R147,Deluxe,No-Show,292.92,4,2025-12-09,2025-12-11,Yes,No,No,Peak,High,John Smith,Japan,Credit Card,Direct,Business,12,4.9,Extra towels
+B120131,2025-12-10,R200,Suite,Booked,649.39,4,2025-12-10,2025-12-14,Yes,Yes,No,Peak,High,Marie Dubois,Germany,Debit Card,Travel Agent,Leisure,11,4.2,None
+B120132,2025-12-22,R295,Standard,Booked,158.46,1,2025-12-22,2025-12-25,No,No,Yes,Peak,High,John Smith,Germany,Credit Card,OTA,Leisure,7,3.2,Extra towels
+B120133,2025-12-09,R141,Deluxe,Booked,289.32,1,2025-12-09,2025-12-10,No,No,Yes,Peak,High,Hans Muller,USA,Cash,Direct,Business,11,4.2,None
+B120134,2025-12-02,R466,Standard,Booked,157.21,4,2025-12-02,2025-12-04,No,No,Yes,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Business,15,3.2,None
+B120135,2025-12-28,R186,Suite,Available,613.74,0,,,Yes,No,Yes,Peak,High,,,,,,3,4.9,
+B120136,2025-12-22,R175,Standard,Booked,143.0,2,2025-12-22,2025-12-26,No,Yes,No,Peak,High,Yuki Tanaka,Germany,Debit Card,Travel Agent,Leisure,1,3.9,Extra towels
+B120137,2025-12-17,R491,Standard,Booked,135.59,3,2025-12-17,2025-12-19,No,Yes,Yes,Peak,High,Hans Muller,UK,Credit Card,Direct,Business,11,4.6,None
+B120138,2025-12-16,R114,Suite,Available,655.99,0,,,No,No,No,Peak,High,,,,,,10,4.8,
+B120139,2025-12-05,R287,Deluxe,Booked,294.69,4,2025-12-05,2025-12-07,No,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,Travel Agent,Business,19,4.9,Extra towels
+B120140,2025-12-21,R355,Suite,Booked,579.13,4,2025-12-21,2025-12-26,Yes,Yes,No,Peak,High,Hans Muller,UK,Debit Card,Direct,Business,14,4.5,None
+B120141,2025-12-13,R491,Suite,Booked,595.44,2,2025-12-13,2025-12-15,Yes,No,No,Peak,High,Marie Dubois,USA,Cash,OTA,Leisure,10,3.4,Late check-in
+B120142,2025-12-16,R247,Suite,Booked,653.15,4,2025-12-16,2025-12-20,Yes,Yes,No,Peak,High,Yuki Tanaka,USA,Credit Card,Travel Agent,Business,1,4.0,Extra towels
+B120143,2025-12-28,R423,Standard,Booked,161.09,3,2025-12-28,2025-12-31,Yes,No,Yes,Peak,High,Hans Muller,Germany,Debit Card,Travel Agent,Business,3,4.9,None
+B120144,2025-12-19,R477,Deluxe,Booked,323.69,3,2025-12-19,2025-12-24,No,Yes,No,Peak,High,John Smith,Japan,Cash,Direct,Leisure,8,4.9,None
+B120145,2025-12-02,R146,Standard,Booked,153.1,4,2025-12-02,2025-12-06,No,No,No,Peak,High,Marie Dubois,Germany,Credit Card,OTA,Business,20,4.8,Extra towels
+B120146,2025-12-03,R403,Deluxe,Booked,298.72,2,2025-12-03,2025-12-07,No,No,No,Peak,High,Marie Dubois,Canada,Debit Card,Travel Agent,Business,20,3.7,Late check-in
+B120147,2025-12-05,R302,Standard,Booked,147.55,1,2025-12-05,2025-12-06,Yes,Yes,Yes,Peak,High,Hans Muller,Japan,Cash,Travel Agent,Leisure,17,3.7,None
+B120148,2025-12-15,R117,Standard,Cancelled,137.5,4,2025-12-15,2025-12-20,No,Yes,No,Peak,High,Yuki Tanaka,UK,Credit Card,OTA,Business,9,4.3,None
+B120149,2025-12-04,R316,Standard,Cancelled,137.76,2,2025-12-04,2025-12-05,No,No,No,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Leisure,9,3.4,None
+B120150,2025-12-12,R446,Standard,Booked,164.75,1,2025-12-12,2025-12-16,No,Yes,Yes,Peak,High,John Smith,France,Cash,Direct,Leisure,16,4.1,Extra towels
+B120151,2025-12-27,R302,Suite,Booked,579.65,1,2025-12-27,2025-12-29,No,No,No,Peak,High,Emma Jones,Germany,Cash,OTA,Leisure,8,3.2,None
+B120152,2025-12-06,R160,Suite,Booked,643.89,3,2025-12-06,2025-12-11,Yes,No,No,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Business,2,3.4,Late check-in
+B120153,2025-12-05,R435,Suite,Booked,575.59,2,2025-12-05,2025-12-10,No,No,No,Peak,High,Yuki Tanaka,France,Credit Card,OTA,Leisure,1,3.4,None
+B120154,2025-12-15,R393,Deluxe,Booked,297.52,4,2025-12-15,2025-12-18,Yes,Yes,No,Peak,High,Marie Dubois,Japan,Debit Card,OTA,Leisure,4,4.4,Extra towels
+B120155,2025-12-17,R425,Suite,Booked,551.31,1,2025-12-17,2025-12-19,No,No,Yes,Peak,High,Marie Dubois,UK,Cash,OTA,Leisure,18,4.9,None
+B120156,2025-12-16,R489,Standard,Booked,158.99,4,2025-12-16,2025-12-20,No,Yes,No,Peak,High,Yuki Tanaka,UK,Credit Card,Travel Agent,Business,10,5.0,Extra towels
+B120157,2025-12-02,R271,Deluxe,Booked,297.53,1,2025-12-02,2025-12-06,Yes,Yes,Yes,Peak,High,Hans Muller,Japan,Cash,Direct,Leisure,18,3.2,None
+B120158,2025-12-15,R439,Standard,Booked,148.84,3,2025-12-15,2025-12-17,Yes,No,No,Peak,High,Yuki Tanaka,USA,Credit Card,OTA,Leisure,20,4.0,Extra towels
+B120159,2025-12-02,R442,Deluxe,Cancelled,286.11,2,2025-12-02,2025-12-03,No,No,No,Peak,High,Hans Muller,France,Cash,Direct,Business,14,3.8,Late check-in
+B120160,2025-12-18,R267,Deluxe,Booked,284.69,2,2025-12-18,2025-12-22,Yes,Yes,Yes,Peak,High,Marie Dubois,Japan,Credit Card,Direct,Business,9,4.9,Extra towels
+B120161,2025-12-10,R492,Standard,Booked,146.4,1,2025-12-10,2025-12-12,No,No,Yes,Peak,High,Yuki Tanaka,Germany,Credit Card,Direct,Business,16,4.2,None
+B120162,2025-12-22,R343,Suite,Available,624.41,0,,,No,No,No,Peak,High,,,,,,14,3.6,
+B120163,2025-12-01,R233,Deluxe,Cancelled,274.99,1,2025-12-01,2025-12-03,No,Yes,No,Peak,High,Yuki Tanaka,France,Credit Card,OTA,Business,1,3.2,Extra towels
+B120164,2025-12-11,R465,Deluxe,Cancelled,307.91,4,2025-12-11,2025-12-13,Yes,Yes,Yes,Peak,High,Hans Muller,Canada,Credit Card,Direct,Business,2,3.2,Extra towels
+B120165,2025-12-23,R436,Standard,Booked,139.1,1,2025-12-23,2025-12-25,Yes,Yes,Yes,Peak,High,Marie Dubois,USA,Credit Card,Direct,Leisure,0,3.6,None
+B120166,2025-12-12,R139,Suite,Booked,571.17,3,2025-12-12,2025-12-13,No,Yes,No,Peak,High,Emma Jones,France,Debit Card,Travel Agent,Leisure,13,3.8,Late check-in
+B120167,2025-12-28,R482,Deluxe,Booked,309.51,2,2025-12-28,2026-01-01,Yes,No,No,Peak,High,Marie Dubois,Japan,Debit Card,Direct,Leisure,3,4.1,Late check-in
+B120168,2025-12-11,R310,Deluxe,Booked,291.46,4,2025-12-11,2025-12-16,Yes,Yes,No,Peak,High,Marie Dubois,UK,Debit Card,Direct,Business,2,4.2,Late check-in
+B120169,2025-12-12,R300,Suite,Booked,586.89,3,2025-12-12,2025-12-13,No,No,No,Peak,High,John Smith,Canada,Debit Card,OTA,Leisure,4,3.9,Extra towels
+B120170,2025-12-25,R169,Standard,Booked,141.57,2,2025-12-25,2025-12-26,Yes,No,Yes,Peak,High,Hans Muller,Japan,Cash,OTA,Business,18,4.8,Late check-in
+B120171,2025-12-19,R477,Standard,Booked,135.45,4,2025-12-19,2025-12-24,No,No,No,Peak,High,Marie Dubois,Japan,Debit Card,OTA,Leisure,18,4.5,None
+B120172,2025-12-05,R289,Deluxe,Available,326.92,0,,,Yes,Yes,No,Peak,High,,,,,,1,3.4,
+B120173,2025-12-22,R106,Suite,Cancelled,626.4,1,2025-12-22,2025-12-23,No,Yes,Yes,Peak,High,Hans Muller,France,Credit Card,Travel Agent,Leisure,15,3.4,Extra towels
+B120174,2025-12-15,R495,Deluxe,Cancelled,272.95,4,2025-12-15,2025-12-19,No,No,Yes,Peak,High,Yuki Tanaka,UK,Cash,Direct,Business,9,4.7,Extra towels
+B120175,2025-12-10,R218,Deluxe,Available,323.6,0,,,Yes,No,Yes,Peak,High,,,,,,9,3.4,
+B120176,2025-12-16,R306,Standard,Cancelled,138.62,1,2025-12-16,2025-12-17,Yes,No,No,Peak,High,John Smith,Germany,Credit Card,Direct,Leisure,11,4.6,None
+B120177,2025-12-21,R472,Suite,Booked,590.46,2,2025-12-21,2025-12-25,No,No,No,Peak,High,Yuki Tanaka,Germany,Debit Card,OTA,Leisure,0,4.0,Extra towels
+B120178,2025-12-28,R422,Deluxe,Booked,311.31,1,2025-12-28,2025-12-29,No,No,Yes,Peak,High,Yuki Tanaka,Germany,Debit Card,OTA,Business,15,4.0,Extra towels
+B120179,2025-12-15,R305,Deluxe,Booked,328.35,4,2025-12-15,2025-12-19,No,Yes,No,Peak,High,Emma Jones,Japan,Debit Card,Direct,Business,2,3.8,Late check-in
+B120180,2025-12-25,R330,Deluxe,Booked,327.8,4,2025-12-25,2025-12-30,No,No,Yes,Peak,High,Yuki Tanaka,France,Debit Card,Travel Agent,Leisure,19,4.3,Late check-in
+B120181,2025-12-17,R172,Suite,Booked,598.52,4,2025-12-17,2025-12-19,No,Yes,Yes,Peak,High,Hans Muller,Canada,Credit Card,Travel Agent,Leisure,18,4.2,Late check-in
+B120182,2025-12-05,R227,Suite,Booked,576.53,4,2025-12-05,2025-12-09,Yes,Yes,No,Peak,High,Hans Muller,UK,Cash,Travel Agent,Business,12,4.8,None
+B120183,2025-12-19,R286,Deluxe,Cancelled,290.2,4,2025-12-19,2025-12-24,No,Yes,No,Peak,High,John Smith,Japan,Cash,OTA,Leisure,9,3.4,None
+B120184,2025-12-27,R405,Suite,Booked,605.1,3,2025-12-27,2025-12-28,No,Yes,No,Peak,High,Emma Jones,UK,Debit Card,OTA,Leisure,12,4.9,Late check-in
+B120185,2025-12-25,R108,Deluxe,Booked,315.89,2,2025-12-25,2025-12-30,Yes,No,No,Peak,High,John Smith,Germany,Debit Card,Direct,Business,14,4.9,Extra towels
+B120186,2025-12-04,R334,Suite,Booked,628.35,1,2025-12-04,2025-12-08,No,Yes,Yes,Peak,High,Hans Muller,Canada,Debit Card,Direct,Business,12,3.2,Late check-in
+B120187,2025-12-05,R100,Standard,Booked,146.61,3,2025-12-05,2025-12-10,No,Yes,No,Peak,High,John Smith,USA,Credit Card,OTA,Leisure,4,4.1,Extra towels
+B120188,2025-12-18,R175,Standard,Booked,145.59,1,2025-12-18,2025-12-23,Yes,Yes,No,Peak,High,John Smith,Canada,Credit Card,Direct,Business,1,4.5,Late check-in
+B120189,2025-12-15,R290,Suite,Booked,546.04,3,2025-12-15,2025-12-18,No,No,No,Peak,High,Hans Muller,USA,Credit Card,OTA,Business,6,3.0,Extra towels
+B120190,2025-12-26,R483,Suite,Booked,595.3,4,2025-12-26,2025-12-29,No,No,Yes,Peak,High,Hans Muller,Canada,Credit Card,OTA,Leisure,6,4.0,None
+B120191,2025-12-26,R168,Standard,Booked,149.44,3,2025-12-26,2025-12-29,No,No,No,Peak,High,Hans Muller,France,Cash,OTA,Leisure,17,3.8,None
+B120192,2025-12-01,R424,Deluxe,Booked,306.77,1,2025-12-01,2025-12-02,Yes,Yes,No,Peak,High,Emma Jones,France,Cash,Direct,Leisure,0,4.3,Late check-in
+B120193,2025-12-25,R382,Suite,Booked,650.67,1,2025-12-25,2025-12-27,Yes,Yes,No,Peak,High,John Smith,UK,Credit Card,Travel Agent,Leisure,7,3.8,Extra towels
+B120194,2025-12-22,R329,Deluxe,Booked,321.18,2,2025-12-22,2025-12-26,No,No,No,Peak,High,John Smith,Canada,Credit Card,OTA,Leisure,17,4.3,Extra towels
+B120195,2025-12-28,R324,Suite,Booked,612.66,2,2025-12-28,2025-12-31,Yes,Yes,Yes,Peak,High,Yuki Tanaka,Germany,Credit Card,Travel Agent,Leisure,4,3.6,Late check-in
+B120196,2025-12-25,R435,Suite,Booked,607.62,4,2025-12-25,2025-12-27,No,No,No,Peak,High,Marie Dubois,UK,Credit Card,OTA,Leisure,16,3.1,Extra towels
+B120197,2025-12-16,R126,Standard,Booked,147.94,4,2025-12-16,2025-12-17,No,Yes,No,Peak,High,Yuki Tanaka,UK,Credit Card,Travel Agent,Business,15,3.1,Late check-in
+B120198,2025-12-08,R237,Deluxe,Booked,327.16,1,2025-12-08,2025-12-10,No,No,No,Peak,High,John Smith,Canada,Credit Card,Direct,Business,5,3.6,None
+B120199,2025-12-07,R288,Deluxe,No-Show,292.44,4,2025-12-07,2025-12-08,Yes,Yes,No,Peak,High,Marie Dubois,Canada,Cash,Direct,Leisure,2,4.7,None
+B120200,2025-12-09,R386,Standard,Booked,137.22,3,2025-12-09,2025-12-12,No,Yes,No,Peak,High,John Smith,France,Debit Card,Direct,Business,13,4.5,Late check-in
+B120201,2025-12-09,R328,Suite,Booked,565.98,2,2025-12-09,2025-12-13,No,Yes,No,Peak,High,Hans Muller,UK,Debit Card,Direct,Leisure,8,3.5,Late check-in
+B120202,2025-12-08,R271,Suite,Booked,600.32,4,2025-12-08,2025-12-09,No,No,No,Peak,High,Marie Dubois,Germany,Debit Card,Direct,Business,5,4.2,None
+B120203,2025-12-04,R121,Standard,Available,150.02,0,,,No,Yes,No,Peak,High,,,,,,5,4.3,
+B120204,2025-12-07,R203,Standard,Cancelled,151.01,3,2025-12-07,2025-12-12,Yes,Yes,No,Peak,High,Hans Muller,UK,Debit Card,OTA,Business,11,4.1,Extra towels
+B120205,2025-12-26,R133,Suite,Booked,597.5,1,2025-12-26,2025-12-30,No,No,Yes,Peak,High,Emma Jones,UK,Credit Card,Direct,Leisure,1,4.5,Late check-in
+B120206,2025-12-07,R121,Suite,Booked,609.34,2,2025-12-07,2025-12-12,Yes,Yes,Yes,Peak,High,Yuki Tanaka,USA,Credit Card,Direct,Business,20,4.0,Extra towels
+B120207,2025-12-26,R231,Standard,Booked,137.45,2,2025-12-26,2025-12-27,No,No,Yes,Peak,High,John Smith,USA,Credit Card,Travel Agent,Business,3,4.0,Late check-in
+B120208,2025-12-23,R171,Standard,No-Show,147.99,2,2025-12-23,2025-12-27,Yes,No,No,Peak,High,Yuki Tanaka,France,Debit Card,OTA,Business,8,3.4,None
+B120209,2025-12-22,R137,Deluxe,Booked,308.61,3,2025-12-22,2025-12-24,Yes,Yes,Yes,Peak,High,Yuki Tanaka,Canada,Debit Card,Travel Agent,Leisure,8,3.8,Late check-in
+B120210,2025-12-11,R412,Standard,Booked,157.11,2,2025-12-11,2025-12-14,Yes,Yes,No,Peak,High,Marie Dubois,Canada,Debit Card,Direct,Business,9,3.4,Extra towels
+B120211,2025-12-25,R471,Deluxe,Available,309.93,0,,,Yes,No,No,Peak,High,,,,,,20,4.5,
+B120212,2025-12-14,R289,Suite,Booked,619.36,3,2025-12-14,2025-12-16,Yes,Yes,Yes,Peak,High,Emma Jones,UK,Credit Card,Direct,Leisure,2,3.0,Extra towels
+B120213,2025-12-18,R417,Standard,Booked,143.02,1,2025-12-18,2025-12-21,No,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,OTA,Leisure,20,3.3,None
+B120214,2025-12-10,R150,Standard,Cancelled,137.36,4,2025-12-10,2025-12-12,No,Yes,Yes,Peak,High,Marie Dubois,Japan,Debit Card,Direct,Business,17,3.2,None
+B120215,2025-12-01,R312,Deluxe,Cancelled,279.21,3,2025-12-01,2025-12-05,No,Yes,Yes,Peak,High,Marie Dubois,Canada,Cash,OTA,Business,12,4.9,None
+B120216,2025-12-02,R183,Standard,Booked,142.73,2,2025-12-02,2025-12-07,Yes,No,No,Peak,High,John Smith,USA,Debit Card,Travel Agent,Business,19,4.0,Late check-in
+B120217,2025-12-16,R399,Suite,Booked,648.06,2,2025-12-16,2025-12-17,Yes,Yes,No,Peak,High,Yuki Tanaka,UK,Cash,Direct,Leisure,14,4.8,Late check-in
+B120218,2025-12-23,R336,Standard,Available,158.27,0,,,Yes,No,No,Peak,High,,,,,,2,4.1,
+B120219,2025-12-03,R122,Standard,Booked,139.16,2,2025-12-03,2025-12-08,No,Yes,Yes,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Leisure,6,4.4,Late check-in
+B120220,2025-12-23,R276,Suite,Booked,654.99,3,2025-12-23,2025-12-26,Yes,No,Yes,Peak,High,Marie Dubois,Canada,Debit Card,Direct,Leisure,16,4.4,None
+B120221,2025-12-17,R447,Deluxe,Booked,321.05,1,2025-12-17,2025-12-21,Yes,Yes,No,Peak,High,Marie Dubois,USA,Credit Card,OTA,Leisure,1,4.2,Extra towels
+B120222,2025-12-09,R134,Standard,Booked,153.99,2,2025-12-09,2025-12-13,Yes,Yes,Yes,Peak,High,Yuki Tanaka,Germany,Cash,OTA,Business,13,4.7,None
+B120223,2025-12-17,R206,Deluxe,Booked,297.61,4,2025-12-17,2025-12-22,Yes,Yes,No,Peak,High,Marie Dubois,Germany,Credit Card,OTA,Business,20,4.2,Late check-in
+B120224,2025-12-13,R125,Suite,Booked,569.06,2,2025-12-13,2025-12-16,No,Yes,No,Peak,High,John Smith,Japan,Cash,OTA,Business,7,4.5,Late check-in
+B120225,2025-12-13,R228,Suite,Booked,648.76,3,2025-12-13,2025-12-14,Yes,No,Yes,Peak,High,John Smith,USA,Cash,Direct,Leisure,0,4.1,Extra towels
+B120226,2025-12-11,R314,Deluxe,Booked,275.5,3,2025-12-11,2025-12-14,Yes,No,No,Peak,High,Marie Dubois,Canada,Credit Card,OTA,Business,14,3.9,Extra towels
+B120227,2025-12-08,R159,Standard,Booked,150.73,3,2025-12-08,2025-12-10,No,Yes,No,Peak,High,Yuki Tanaka,France,Cash,OTA,Leisure,1,4.2,Late check-in
+B120228,2025-12-21,R148,Standard,Booked,143.65,3,2025-12-21,2025-12-23,No,No,No,Peak,High,Yuki Tanaka,Canada,Debit Card,Direct,Business,15,3.2,Extra towels
+B120229,2025-12-24,R482,Suite,Available,605.79,0,,,No,No,Yes,Peak,High,,,,,,17,4.9,
+B120230,2025-12-01,R433,Suite,Booked,564.98,3,2025-12-01,2025-12-05,No,No,Yes,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Business,10,3.8,Late check-in
+B120231,2025-12-27,R289,Deluxe,Booked,297.73,3,2025-12-27,2025-12-28,Yes,No,Yes,Peak,High,John Smith,Germany,Cash,OTA,Leisure,9,4.4,Late check-in
+B120232,2025-12-19,R499,Standard,Booked,153.19,1,2025-12-19,2025-12-23,No,No,No,Peak,High,Marie Dubois,UK,Credit Card,Travel Agent,Business,20,5.0,Extra towels
+B120233,2025-12-25,R435,Standard,Booked,163.85,2,2025-12-25,2025-12-29,Yes,Yes,Yes,Peak,High,Marie Dubois,Germany,Debit Card,OTA,Business,12,3.3,Extra towels
+B120234,2025-12-07,R181,Standard,Booked,156.92,2,2025-12-07,2025-12-11,Yes,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,16,4.9,Extra towels
+B120235,2025-12-26,R150,Standard,Booked,152.26,3,2025-12-26,2025-12-28,No,No,Yes,Peak,High,Emma Jones,France,Credit Card,OTA,Business,1,4.1,None
+B120236,2025-12-01,R264,Suite,No-Show,571.46,4,2025-12-01,2025-12-06,Yes,Yes,No,Peak,High,Emma Jones,France,Cash,Direct,Business,2,3.3,None
+B120237,2025-12-12,R430,Standard,Booked,140.12,3,2025-12-12,2025-12-17,Yes,Yes,No,Peak,High,Hans Muller,France,Credit Card,Direct,Business,15,5.0,Extra towels
+B120238,2025-12-03,R366,Suite,Booked,599.46,1,2025-12-03,2025-12-04,No,Yes,Yes,Peak,High,Yuki Tanaka,Japan,Cash,Travel Agent,Leisure,5,3.5,None
+B120239,2025-12-28,R201,Standard,Booked,146.29,1,2025-12-28,2025-12-30,Yes,Yes,No,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,20,3.4,None
+B120240,2025-12-27,R412,Deluxe,Booked,326.55,1,2025-12-27,2025-12-31,Yes,Yes,Yes,Peak,High,Emma Jones,Japan,Debit Card,OTA,Leisure,9,5.0,None
+B120241,2025-12-20,R232,Deluxe,Booked,273.0,4,2025-12-20,2025-12-21,Yes,No,Yes,Peak,High,Emma Jones,Germany,Cash,Direct,Business,15,4.3,Extra towels
+B120242,2025-12-16,R489,Deluxe,Booked,291.75,2,2025-12-16,2025-12-17,Yes,Yes,No,Peak,High,Hans Muller,UK,Debit Card,Travel Agent,Business,12,4.2,Extra towels
+B120243,2025-12-22,R371,Standard,Booked,163.68,3,2025-12-22,2025-12-24,No,No,No,Peak,High,Emma Jones,Japan,Cash,Direct,Leisure,5,3.5,Late check-in
+B120244,2025-12-25,R483,Standard,No-Show,151.15,1,2025-12-25,2025-12-30,Yes,Yes,No,Peak,High,Emma Jones,UK,Cash,OTA,Business,19,3.2,Extra towels
+B120245,2025-12-09,R289,Deluxe,Booked,322.63,3,2025-12-09,2025-12-11,No,No,No,Peak,High,Hans Muller,France,Cash,Direct,Leisure,12,3.2,Extra towels
+B120246,2025-12-22,R269,Standard,Booked,158.32,3,2025-12-22,2025-12-25,No,Yes,No,Peak,High,John Smith,Germany,Credit Card,OTA,Business,13,4.4,Extra towels
+B120247,2025-12-26,R390,Deluxe,Booked,310.87,3,2025-12-26,2025-12-27,No,Yes,No,Peak,High,Hans Muller,Japan,Credit Card,OTA,Leisure,20,3.6,Extra towels
+B120248,2025-12-09,R451,Standard,Booked,154.0,3,2025-12-09,2025-12-14,No,Yes,No,Peak,High,Emma Jones,USA,Cash,Direct,Business,16,3.2,Extra towels
+B120249,2025-12-26,R308,Deluxe,Booked,307.19,1,2025-12-26,2025-12-30,Yes,Yes,No,Peak,High,Marie Dubois,UK,Cash,Travel Agent,Leisure,6,4.3,Extra towels
+B120250,2025-12-24,R340,Deluxe,Booked,303.85,3,2025-12-24,2025-12-28,No,No,Yes,Peak,High,Hans Muller,Germany,Debit Card,Direct,Leisure,19,4.2,Late check-in
+B120251,2025-12-21,R153,Deluxe,Cancelled,303.58,2,2025-12-21,2025-12-23,No,No,No,Peak,High,Emma Jones,Germany,Cash,Travel Agent,Business,2,4.3,None
+B120252,2025-12-23,R375,Standard,Booked,152.39,3,2025-12-23,2025-12-25,Yes,Yes,No,Peak,High,Marie Dubois,Canada,Credit Card,OTA,Business,14,5.0,Late check-in
+B120253,2025-12-15,R441,Standard,Booked,159.9,3,2025-12-15,2025-12-20,No,Yes,Yes,Peak,High,Yuki Tanaka,Canada,Cash,OTA,Leisure,5,4.6,None
+B120254,2025-12-03,R186,Standard,Booked,144.31,2,2025-12-03,2025-12-05,No,Yes,Yes,Peak,High,Hans Muller,France,Credit Card,Direct,Business,12,4.8,Extra towels
+B120255,2025-12-11,R173,Suite,Booked,658.23,4,2025-12-11,2025-12-16,Yes,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,Direct,Leisure,8,4.2,Extra towels
+B120256,2025-12-26,R460,Deluxe,Booked,286.64,3,2025-12-26,2025-12-31,Yes,Yes,No,Peak,High,Emma Jones,France,Debit Card,Direct,Business,1,4.2,Extra towels
+B120257,2025-12-19,R151,Suite,Booked,590.15,3,2025-12-19,2025-12-23,Yes,Yes,Yes,Peak,High,John Smith,Japan,Credit Card,OTA,Business,17,4.9,None
+B120258,2025-12-20,R172,Standard,Booked,140.45,1,2025-12-20,2025-12-21,Yes,Yes,No,Peak,High,Hans Muller,USA,Credit Card,Direct,Business,7,4.8,None
+B120259,2025-12-24,R168,Suite,No-Show,587.36,3,2025-12-24,2025-12-28,No,Yes,No,Peak,High,Marie Dubois,UK,Cash,Travel Agent,Business,5,4.4,Extra towels
+B120260,2025-12-06,R487,Deluxe,Booked,300.26,4,2025-12-06,2025-12-07,Yes,Yes,No,Peak,High,Hans Muller,UK,Debit Card,OTA,Leisure,9,3.4,None
+B120261,2025-12-28,R394,Standard,Booked,150.88,2,2025-12-28,2025-12-31,Yes,No,No,Peak,High,Hans Muller,Canada,Credit Card,Direct,Leisure,17,3.8,Late check-in
+B120262,2025-12-11,R474,Standard,Booked,158.34,3,2025-12-11,2025-12-12,No,Yes,Yes,Peak,High,Emma Jones,France,Cash,OTA,Business,0,3.1,Extra towels
+B120263,2025-12-21,R310,Deluxe,Cancelled,298.07,4,2025-12-21,2025-12-25,Yes,No,Yes,Peak,High,Marie Dubois,Canada,Cash,Travel Agent,Leisure,14,4.5,Extra towels
+B120264,2025-12-08,R150,Suite,Available,652.11,0,,,Yes,No,Yes,Peak,High,,,,,,18,4.9,
+B120265,2025-12-23,R180,Deluxe,Booked,292.9,4,2025-12-23,2025-12-27,Yes,No,Yes,Peak,High,Marie Dubois,UK,Credit Card,Travel Agent,Leisure,18,4.0,Extra towels
+B120266,2025-12-20,R301,Suite,Booked,574.25,1,2025-12-20,2025-12-21,No,No,Yes,Peak,High,John Smith,Japan,Debit Card,Direct,Leisure,9,3.5,Extra towels
+B120267,2025-12-09,R277,Deluxe,Booked,321.93,2,2025-12-09,2025-12-13,No,Yes,Yes,Peak,High,Hans Muller,Canada,Cash,OTA,Leisure,11,3.8,None
+B120268,2025-12-18,R362,Suite,Booked,552.54,2,2025-12-18,2025-12-19,Yes,No,No,Peak,High,Marie Dubois,Canada,Cash,OTA,Business,4,3.5,Extra towels
+B120269,2025-12-09,R475,Suite,Booked,615.59,3,2025-12-09,2025-12-13,No,Yes,No,Peak,High,Marie Dubois,USA,Cash,OTA,Leisure,2,3.2,None
+B120270,2025-12-13,R233,Standard,Available,150.02,0,,,Yes,Yes,Yes,Peak,High,,,,,,6,3.4,
+B120271,2025-12-08,R309,Deluxe,Booked,315.63,3,2025-12-08,2025-12-09,No,No,No,Peak,High,Emma Jones,UK,Credit Card,OTA,Leisure,0,4.9,None
+B120272,2025-12-23,R269,Deluxe,Booked,305.57,4,2025-12-23,2025-12-27,No,No,No,Peak,High,Marie Dubois,Canada,Debit Card,Travel Agent,Business,11,3.3,Extra towels
+B120273,2025-12-12,R446,Deluxe,Booked,312.82,2,2025-12-12,2025-12-14,Yes,Yes,No,Peak,High,John Smith,USA,Cash,Direct,Business,1,3.6,Late check-in
+B120274,2025-12-01,R281,Standard,Booked,136.79,4,2025-12-01,2025-12-02,Yes,Yes,Yes,Peak,High,John Smith,France,Credit Card,Direct,Leisure,9,4.6,Extra towels
+B120275,2025-12-21,R140,Suite,Booked,652.96,1,2025-12-21,2025-12-24,No,No,No,Peak,High,Marie Dubois,Germany,Credit Card,OTA,Business,19,4.2,Extra towels
+B120276,2025-12-15,R353,Suite,Booked,554.92,1,2025-12-15,2025-12-16,Yes,No,No,Peak,High,Emma Jones,Japan,Credit Card,Travel Agent,Business,17,4.9,Extra towels
+B120277,2025-12-17,R465,Suite,Booked,628.42,1,2025-12-17,2025-12-21,No,Yes,No,Peak,High,Hans Muller,Germany,Debit Card,Direct,Business,17,4.5,Extra towels
+B120278,2025-12-10,R174,Standard,Booked,161.27,1,2025-12-10,2025-12-14,Yes,Yes,No,Peak,High,Marie Dubois,Japan,Credit Card,Travel Agent,Leisure,10,3.4,None
+B120279,2025-12-20,R215,Suite,Cancelled,600.86,1,2025-12-20,2025-12-22,Yes,Yes,No,Peak,High,Emma Jones,UK,Credit Card,Travel Agent,Business,0,4.8,Late check-in
+B120280,2025-12-02,R278,Standard,Booked,143.03,2,2025-12-02,2025-12-06,No,Yes,No,Peak,High,Hans Muller,USA,Debit Card,OTA,Business,11,4.6,Extra towels
+B120281,2025-12-03,R446,Deluxe,Booked,310.07,3,2025-12-03,2025-12-07,Yes,No,No,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Leisure,8,3.5,Late check-in
+B120282,2025-12-26,R180,Standard,Booked,149.75,3,2025-12-26,2025-12-29,No,No,No,Peak,High,Emma Jones,UK,Debit Card,OTA,Business,13,3.4,None
+B120283,2025-12-20,R441,Suite,Booked,614.27,2,2025-12-20,2025-12-22,No,No,Yes,Peak,High,Yuki Tanaka,Canada,Debit Card,Direct,Leisure,13,4.0,None
+B120284,2025-12-17,R488,Suite,Booked,643.92,1,2025-12-17,2025-12-22,No,No,No,Peak,High,Hans Muller,Germany,Credit Card,Direct,Leisure,17,3.7,None
+B120285,2025-12-03,R341,Standard,Available,158.87,0,,,No,Yes,Yes,Peak,High,,,,,,2,4.8,
+B120286,2025-12-28,R219,Standard,Booked,155.02,4,2025-12-28,2025-12-31,No,No,Yes,Peak,High,John Smith,Japan,Credit Card,Travel Agent,Business,6,3.2,Late check-in
+B120287,2025-12-27,R429,Deluxe,Cancelled,282.88,1,2025-12-27,2025-12-29,No,Yes,No,Peak,High,John Smith,France,Cash,Direct,Business,19,3.6,Extra towels
+B120288,2025-12-01,R353,Deluxe,Booked,289.3,1,2025-12-01,2025-12-06,Yes,No,Yes,Peak,High,John Smith,USA,Debit Card,OTA,Business,17,3.9,Late check-in
+B120289,2025-12-22,R314,Standard,Booked,135.78,1,2025-12-22,2025-12-27,Yes,No,No,Peak,High,John Smith,Canada,Debit Card,OTA,Leisure,17,3.4,Late check-in
+B120290,2025-12-14,R488,Suite,Cancelled,632.8,3,2025-12-14,2025-12-16,No,Yes,Yes,Peak,High,Hans Muller,Canada,Debit Card,Direct,Leisure,0,4.4,Late check-in
+B120291,2025-12-22,R388,Suite,Booked,566.95,3,2025-12-22,2025-12-25,Yes,No,Yes,Peak,High,Emma Jones,USA,Credit Card,Direct,Business,6,3.4,None
+B120292,2025-12-27,R315,Suite,Booked,606.91,3,2025-12-27,2025-12-30,Yes,No,No,Peak,High,Marie Dubois,Canada,Credit Card,OTA,Leisure,10,4.4,Late check-in
+B120293,2025-12-02,R434,Deluxe,Booked,289.52,2,2025-12-02,2025-12-06,Yes,No,No,Peak,High,Yuki Tanaka,Japan,Credit Card,OTA,Business,17,4.7,Late check-in
+B120294,2025-12-01,R284,Suite,Booked,657.71,1,2025-12-01,2025-12-04,No,No,No,Peak,High,John Smith,USA,Debit Card,Direct,Business,16,4.4,None
+B120295,2025-12-15,R294,Suite,Booked,553.96,3,2025-12-15,2025-12-18,Yes,Yes,No,Peak,High,Hans Muller,USA,Cash,Direct,Leisure,1,4.5,Extra towels
+B120296,2025-12-25,R121,Standard,Booked,141.25,3,2025-12-25,2025-12-28,Yes,No,Yes,Peak,High,John Smith,USA,Credit Card,Travel Agent,Leisure,11,4.4,Extra towels
+B120297,2025-12-05,R299,Standard,Booked,138.9,1,2025-12-05,2025-12-06,Yes,Yes,Yes,Peak,High,John Smith,Japan,Cash,Direct,Business,15,3.8,Extra towels
+B120298,2025-12-27,R448,Suite,Cancelled,637.59,1,2025-12-27,2026-01-01,No,Yes,Yes,Peak,High,John Smith,Japan,Credit Card,Direct,Business,17,4.0,None
+B120299,2025-12-20,R325,Standard,Booked,142.9,2,2025-12-20,2025-12-23,No,No,Yes,Peak,High,Emma Jones,UK,Debit Card,Direct,Business,5,4.1,Late check-in
+B120300,2025-12-09,R289,Standard,Cancelled,150.71,2,2025-12-09,2025-12-14,Yes,Yes,Yes,Peak,High,John Smith,France,Credit Card,Direct,Business,1,4.8,Extra towels
+B120301,2025-12-23,R236,Standard,Booked,160.94,2,2025-12-23,2025-12-27,Yes,No,Yes,Peak,High,John Smith,Canada,Debit Card,OTA,Leisure,19,3.4,None
+B120302,2025-12-20,R270,Standard,Booked,140.35,3,2025-12-20,2025-12-25,No,Yes,Yes,Peak,High,John Smith,France,Cash,Travel Agent,Leisure,15,4.0,Late check-in
+B120303,2025-12-18,R145,Standard,Booked,144.41,4,2025-12-18,2025-12-21,Yes,No,No,Peak,High,Yuki Tanaka,Germany,Cash,OTA,Business,19,3.1,None
+B120304,2025-12-09,R352,Deluxe,Booked,328.13,4,2025-12-09,2025-12-12,No,No,No,Peak,High,Marie Dubois,France,Credit Card,Direct,Business,2,3.4,None
+B120305,2025-12-19,R433,Suite,Booked,601.02,3,2025-12-19,2025-12-24,No,No,No,Peak,High,Hans Muller,Germany,Debit Card,Direct,Business,9,4.3,Late check-in
+B120306,2025-12-13,R192,Deluxe,Booked,309.38,3,2025-12-13,2025-12-14,Yes,Yes,No,Peak,High,Yuki Tanaka,Canada,Credit Card,OTA,Business,11,4.7,Late check-in
+B120307,2025-12-20,R105,Standard,Booked,161.96,3,2025-12-20,2025-12-23,Yes,Yes,No,Peak,High,John Smith,Japan,Debit Card,Direct,Business,12,4.7,Extra towels
+B120308,2025-12-28,R328,Standard,Booked,137.06,4,2025-12-28,2026-01-01,Yes,No,Yes,Peak,High,John Smith,USA,Debit Card,OTA,Leisure,2,5.0,Late check-in
+B120309,2025-12-27,R387,Deluxe,Booked,312.91,2,2025-12-27,2025-12-29,No,Yes,Yes,Peak,High,John Smith,Japan,Debit Card,OTA,Leisure,14,4.3,None
+B120310,2025-12-11,R347,Suite,Booked,586.35,3,2025-12-11,2025-12-14,Yes,No,Yes,Peak,High,Marie Dubois,France,Credit Card,OTA,Leisure,1,4.9,Extra towels
+B120311,2025-12-22,R182,Deluxe,Available,309.65,0,,,No,Yes,No,Peak,High,,,,,,8,3.7,
+B120312,2025-12-10,R267,Standard,No-Show,151.0,2,2025-12-10,2025-12-13,Yes,No,Yes,Peak,High,John Smith,Canada,Cash,Direct,Business,16,3.7,Extra towels
+B120313,2025-12-25,R134,Standard,Booked,160.45,4,2025-12-25,2025-12-27,No,No,Yes,Peak,High,Emma Jones,UK,Cash,OTA,Business,19,3.3,None
+B120314,2025-12-24,R115,Standard,Booked,161.21,3,2025-12-24,2025-12-27,Yes,No,Yes,Peak,High,Yuki Tanaka,Japan,Cash,OTA,Business,1,3.9,Extra towels
+B120315,2025-12-04,R463,Deluxe,Booked,280.18,1,2025-12-04,2025-12-05,Yes,No,No,Peak,High,Emma Jones,Canada,Credit Card,Travel Agent,Leisure,3,4.2,Late check-in
+B120316,2025-12-17,R255,Suite,Booked,585.66,4,2025-12-17,2025-12-19,Yes,No,No,Peak,High,John Smith,France,Debit Card,Direct,Leisure,19,4.1,Late check-in
+B120317,2025-12-11,R159,Deluxe,Booked,298.63,4,2025-12-11,2025-12-16,No,No,No,Peak,High,John Smith,France,Cash,Travel Agent,Leisure,16,3.7,Late check-in
+B120318,2025-12-14,R410,Standard,Booked,150.27,2,2025-12-14,2025-12-16,No,No,No,Peak,High,Hans Muller,UK,Cash,Direct,Business,8,3.9,None
+B120319,2025-12-15,R383,Suite,Booked,643.19,2,2025-12-15,2025-12-18,No,Yes,No,Peak,High,Hans Muller,Japan,Credit Card,Travel Agent,Business,2,4.0,None
+B120320,2025-12-25,R192,Suite,Booked,622.04,4,2025-12-25,2025-12-30,Yes,No,No,Peak,High,Hans Muller,Canada,Cash,Direct,Leisure,0,4.7,Late check-in
+B120321,2025-12-11,R268,Deluxe,Cancelled,303.42,3,2025-12-11,2025-12-13,Yes,Yes,Yes,Peak,High,Marie Dubois,France,Credit Card,Direct,Leisure,16,4.9,Extra towels
+B120322,2025-12-02,R391,Suite,Booked,623.89,2,2025-12-02,2025-12-06,No,No,Yes,Peak,High,Yuki Tanaka,France,Cash,Direct,Business,12,3.0,None
+B120323,2025-12-28,R453,Deluxe,Cancelled,313.97,4,2025-12-28,2026-01-02,Yes,No,Yes,Peak,High,Yuki Tanaka,Canada,Cash,OTA,Leisure,12,4.4,Extra towels
+B120324,2025-12-03,R342,Suite,No-Show,613.19,3,2025-12-03,2025-12-07,No,No,Yes,Peak,High,Hans Muller,Canada,Cash,OTA,Business,9,3.9,Late check-in
+B120325,2025-12-28,R416,Deluxe,Booked,316.51,1,2025-12-28,2025-12-29,No,Yes,No,Peak,High,Yuki Tanaka,USA,Debit Card,Direct,Business,6,4.4,Extra towels
+B120326,2025-12-02,R236,Deluxe,Booked,319.79,2,2025-12-02,2025-12-06,Yes,Yes,No,Peak,High,John Smith,UK,Cash,OTA,Leisure,20,4.4,Late check-in
+B120327,2025-12-04,R413,Deluxe,Booked,317.75,2,2025-12-04,2025-12-09,No,No,Yes,Peak,High,Emma Jones,USA,Cash,Direct,Business,12,4.5,Extra towels
+B120328,2025-12-09,R244,Suite,Booked,604.76,2,2025-12-09,2025-12-13,Yes,No,No,Peak,High,Emma Jones,Canada,Cash,Travel Agent,Leisure,12,3.4,Extra towels
+B120329,2025-12-23,R404,Deluxe,Booked,315.72,3,2025-12-23,2025-12-25,No,No,Yes,Peak,High,Yuki Tanaka,France,Debit Card,Travel Agent,Business,7,3.1,Extra towels
+B120330,2025-12-19,R105,Suite,Cancelled,634.76,1,2025-12-19,2025-12-21,No,No,Yes,Peak,High,Hans Muller,Germany,Debit Card,OTA,Leisure,17,3.2,Late check-in
+B120331,2025-12-03,R243,Standard,Booked,161.53,1,2025-12-03,2025-12-07,Yes,Yes,Yes,Peak,High,John Smith,Japan,Cash,Direct,Leisure,7,4.3,None
+B120332,2025-12-19,R124,Suite,Booked,600.49,1,2025-12-19,2025-12-24,No,Yes,No,Peak,High,Yuki Tanaka,UK,Cash,Direct,Leisure,14,3.1,Late check-in
+B120333,2025-12-20,R259,Deluxe,Cancelled,283.99,3,2025-12-20,2025-12-25,No,No,Yes,Peak,High,Emma Jones,Japan,Debit Card,Direct,Leisure,18,3.8,None
+B120334,2025-12-22,R404,Deluxe,Available,326.95,0,,,Yes,Yes,Yes,Peak,High,,,,,,5,4.8,
+B120335,2025-12-19,R127,Suite,Booked,572.63,4,2025-12-19,2025-12-23,No,Yes,Yes,Peak,High,Marie Dubois,UK,Debit Card,Direct,Leisure,5,3.6,Late check-in
+B120336,2025-12-12,R365,Standard,Booked,150.13,2,2025-12-12,2025-12-17,No,No,Yes,Peak,High,Yuki Tanaka,France,Cash,Travel Agent,Business,20,5.0,None
+B120337,2025-12-17,R171,Suite,Available,561.16,0,,,No,No,No,Peak,High,,,,,,11,4.0,
+B120338,2025-12-27,R167,Suite,Booked,637.23,1,2025-12-27,2025-12-28,No,Yes,No,Peak,High,Marie Dubois,UK,Debit Card,Travel Agent,Leisure,7,4.7,None
+B120339,2025-12-28,R195,Standard,Booked,146.04,2,2025-12-28,2026-01-01,Yes,No,Yes,Peak,High,Marie Dubois,UK,Credit Card,Travel Agent,Leisure,14,3.1,None
+B120340,2025-12-20,R421,Suite,Booked,640.54,2,2025-12-20,2025-12-24,Yes,Yes,Yes,Peak,High,Yuki Tanaka,Japan,Debit Card,OTA,Leisure,15,4.5,None
+B120341,2025-12-05,R146,Standard,Booked,151.87,2,2025-12-05,2025-12-10,No,Yes,No,Peak,High,Marie Dubois,Canada,Debit Card,Travel Agent,Business,1,3.3,Extra towels
+B120342,2025-12-10,R268,Deluxe,Booked,304.18,2,2025-12-10,2025-12-14,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Cash,OTA,Leisure,7,3.8,Extra towels
+B120343,2025-12-21,R490,Suite,Booked,569.94,4,2025-12-21,2025-12-24,Yes,No,Yes,Peak,High,John Smith,Japan,Debit Card,Travel Agent,Business,7,4.0,None
+B120344,2025-12-24,R343,Suite,Booked,627.57,3,2025-12-24,2025-12-27,Yes,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,OTA,Business,16,3.5,Extra towels
+B120345,2025-12-22,R383,Suite,Booked,630.99,4,2025-12-22,2025-12-27,Yes,Yes,No,Peak,High,John Smith,Germany,Cash,Travel Agent,Business,5,3.6,Late check-in
+B120346,2025-12-05,R314,Suite,Booked,573.38,3,2025-12-05,2025-12-08,Yes,Yes,Yes,Peak,High,Marie Dubois,Germany,Cash,OTA,Business,13,3.9,None
+B120347,2025-12-05,R233,Deluxe,Booked,279.08,4,2025-12-05,2025-12-08,No,Yes,No,Peak,High,Emma Jones,Germany,Cash,Travel Agent,Leisure,6,4.1,None
+B120348,2025-12-06,R201,Standard,Booked,151.08,4,2025-12-06,2025-12-10,Yes,Yes,No,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,8,4.0,None
+B120349,2025-12-22,R330,Standard,Booked,144.29,3,2025-12-22,2025-12-27,Yes,No,No,Peak,High,John Smith,Germany,Debit Card,Travel Agent,Leisure,13,3.2,Extra towels
+B120350,2025-12-04,R214,Standard,Booked,156.37,1,2025-12-04,2025-12-05,No,Yes,No,Peak,High,Marie Dubois,Canada,Credit Card,Travel Agent,Leisure,0,4.9,Extra towels
+B120351,2025-12-28,R416,Suite,Cancelled,633.02,1,2025-12-28,2025-12-29,No,No,No,Peak,High,Hans Muller,USA,Credit Card,OTA,Leisure,2,3.8,Extra towels
+B120352,2025-12-20,R284,Standard,Booked,142.88,3,2025-12-20,2025-12-23,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Cash,Direct,Business,18,3.3,None
+B120353,2025-12-28,R393,Deluxe,Booked,274.67,2,2025-12-28,2025-12-31,No,No,No,Peak,High,Yuki Tanaka,Japan,Credit Card,Direct,Leisure,19,4.9,Extra towels
+B120354,2025-12-24,R420,Suite,Booked,595.15,2,2025-12-24,2025-12-27,Yes,Yes,Yes,Peak,High,Hans Muller,France,Credit Card,Travel Agent,Business,6,4.7,Late check-in
+B120355,2025-12-18,R448,Standard,Booked,151.15,2,2025-12-18,2025-12-23,No,No,No,Peak,High,Hans Muller,Japan,Credit Card,Direct,Leisure,20,4.4,None
+B120356,2025-12-06,R465,Suite,Booked,560.31,2,2025-12-06,2025-12-08,Yes,No,Yes,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Leisure,9,3.5,None
+B120357,2025-12-14,R181,Deluxe,Booked,303.29,4,2025-12-14,2025-12-16,No,Yes,No,Peak,High,John Smith,Canada,Debit Card,OTA,Business,1,5.0,None
+B120358,2025-12-23,R245,Suite,Booked,547.24,2,2025-12-23,2025-12-25,Yes,No,Yes,Peak,High,Emma Jones,Germany,Credit Card,Travel Agent,Leisure,13,4.3,Late check-in
+B120359,2025-12-07,R429,Standard,Booked,148.17,1,2025-12-07,2025-12-12,No,No,Yes,Peak,High,Emma Jones,Japan,Credit Card,OTA,Leisure,15,4.4,None
+B120360,2025-12-26,R458,Deluxe,Booked,291.93,3,2025-12-26,2025-12-29,Yes,Yes,Yes,Peak,High,Hans Muller,Germany,Cash,OTA,Business,10,4.1,Extra towels
+B120361,2025-12-10,R355,Standard,No-Show,164.54,3,2025-12-10,2025-12-13,Yes,Yes,Yes,Peak,High,Emma Jones,UK,Credit Card,OTA,Business,17,3.8,Extra towels
+B120362,2025-12-01,R210,Suite,Booked,560.02,3,2025-12-01,2025-12-05,Yes,Yes,No,Peak,High,John Smith,USA,Debit Card,Direct,Leisure,14,3.4,None
+B120363,2025-12-24,R287,Suite,Booked,620.3,1,2025-12-24,2025-12-28,No,No,No,Peak,High,John Smith,USA,Debit Card,OTA,Leisure,17,4.9,Extra towels
+B120364,2025-12-19,R304,Deluxe,Booked,270.64,3,2025-12-19,2025-12-20,No,Yes,Yes,Peak,High,Hans Muller,Japan,Debit Card,OTA,Business,11,4.7,None
+B120365,2025-12-18,R496,Suite,Cancelled,557.78,3,2025-12-18,2025-12-22,Yes,No,Yes,Peak,High,Hans Muller,Germany,Credit Card,OTA,Leisure,18,3.3,None
+B120366,2025-12-18,R254,Suite,Available,597.97,0,,,Yes,Yes,No,Peak,High,,,,,,6,4.5,
+B120367,2025-12-16,R337,Standard,Booked,154.02,2,2025-12-16,2025-12-20,No,Yes,Yes,Peak,High,Hans Muller,France,Credit Card,Direct,Leisure,17,4.5,Extra towels
+B120368,2025-12-24,R362,Suite,Booked,555.31,4,2025-12-24,2025-12-27,No,Yes,No,Peak,High,John Smith,UK,Debit Card,Travel Agent,Leisure,3,3.4,Late check-in
+B120369,2025-12-04,R247,Standard,Booked,151.02,4,2025-12-04,2025-12-05,No,No,No,Peak,High,Hans Muller,Canada,Cash,Direct,Leisure,6,3.9,Extra towels
+B120370,2025-12-11,R326,Standard,Booked,146.93,2,2025-12-11,2025-12-12,No,No,Yes,Peak,High,Emma Jones,Germany,Credit Card,Direct,Leisure,11,4.4,Extra towels
+B120371,2025-12-03,R263,Standard,Booked,155.46,1,2025-12-03,2025-12-08,Yes,Yes,Yes,Peak,High,John Smith,Japan,Debit Card,OTA,Leisure,16,4.1,Extra towels
+B120372,2025-12-04,R465,Deluxe,Booked,279.92,3,2025-12-04,2025-12-05,Yes,Yes,No,Peak,High,Emma Jones,UK,Cash,Travel Agent,Business,14,5.0,None
+B120373,2025-12-08,R337,Deluxe,Available,328.78,0,,,Yes,Yes,No,Peak,High,,,,,,1,4.5,
+B120374,2025-12-24,R371,Suite,Available,590.63,0,,,No,Yes,Yes,Peak,High,,,,,,0,3.4,
+B120375,2025-12-16,R140,Suite,Booked,567.22,4,2025-12-16,2025-12-21,No,Yes,No,Peak,High,John Smith,Germany,Debit Card,OTA,Leisure,2,4.6,Late check-in
+B120376,2025-12-04,R322,Deluxe,Booked,329.84,1,2025-12-04,2025-12-08,No,No,Yes,Peak,High,Yuki Tanaka,France,Cash,OTA,Business,13,3.6,Extra towels
+B120377,2025-12-01,R187,Standard,No-Show,146.75,2,2025-12-01,2025-12-02,No,No,Yes,Peak,High,John Smith,Japan,Debit Card,Direct,Leisure,10,4.4,Extra towels
+B120378,2025-12-22,R290,Standard,Booked,159.95,3,2025-12-22,2025-12-26,Yes,No,Yes,Peak,High,John Smith,Germany,Debit Card,Direct,Business,17,3.1,Late check-in
+B120379,2025-12-13,R409,Suite,Cancelled,558.07,2,2025-12-13,2025-12-17,No,No,Yes,Peak,High,Yuki Tanaka,UK,Debit Card,Travel Agent,Business,11,4.8,Extra towels
+B120380,2025-12-22,R400,Suite,Booked,566.68,4,2025-12-22,2025-12-23,Yes,No,No,Peak,High,Emma Jones,Japan,Credit Card,OTA,Business,10,4.0,Extra towels
+B120381,2025-12-07,R472,Suite,Booked,593.02,3,2025-12-07,2025-12-08,No,Yes,No,Peak,High,Hans Muller,Japan,Credit Card,Direct,Leisure,14,4.0,Extra towels
+B120382,2025-12-22,R102,Suite,Available,544.75,0,,,Yes,No,Yes,Peak,High,,,,,,5,3.0,
+B120383,2025-12-12,R358,Deluxe,Booked,310.51,1,2025-12-12,2025-12-13,No,No,No,Peak,High,Yuki Tanaka,UK,Credit Card,OTA,Business,3,3.7,Extra towels
+B120384,2025-12-08,R498,Standard,Available,139.49,0,,,No,No,No,Peak,High,,,,,,10,4.6,
+B120385,2025-12-02,R240,Suite,Booked,625.39,3,2025-12-02,2025-12-04,No,No,No,Peak,High,John Smith,Canada,Cash,OTA,Leisure,20,4.7,None
+B120386,2025-12-03,R125,Suite,Booked,565.71,1,2025-12-03,2025-12-06,No,No,Yes,Peak,High,Hans Muller,USA,Debit Card,Direct,Business,1,3.9,Late check-in
+B120387,2025-12-11,R339,Suite,Booked,599.18,1,2025-12-11,2025-12-16,Yes,Yes,Yes,Peak,High,Yuki Tanaka,USA,Cash,OTA,Business,13,3.8,Extra towels
+B120388,2025-12-06,R250,Deluxe,Booked,279.77,4,2025-12-06,2025-12-07,No,No,No,Peak,High,Yuki Tanaka,Canada,Credit Card,Travel Agent,Business,1,3.4,Extra towels
+B120389,2025-12-05,R108,Deluxe,Booked,304.06,1,2025-12-05,2025-12-09,Yes,Yes,No,Peak,High,Yuki Tanaka,Canada,Credit Card,OTA,Business,8,3.8,Extra towels
+B120390,2025-12-26,R278,Standard,Booked,137.25,3,2025-12-26,2025-12-30,No,Yes,Yes,Peak,High,Emma Jones,Canada,Debit Card,OTA,Leisure,13,3.6,Extra towels
+B120391,2025-12-08,R215,Standard,Available,142.86,0,,,No,Yes,Yes,Peak,High,,,,,,11,4.0,
+B120392,2025-12-27,R134,Deluxe,Available,274.74,0,,,Yes,No,No,Peak,High,,,,,,20,4.5,
+B120393,2025-12-02,R175,Deluxe,Booked,281.87,4,2025-12-02,2025-12-05,No,No,No,Peak,High,Marie Dubois,Canada,Debit Card,OTA,Business,14,4.8,None
+B120394,2025-12-12,R302,Deluxe,Booked,317.47,2,2025-12-12,2025-12-15,No,Yes,No,Peak,High,Emma Jones,France,Debit Card,Travel Agent,Leisure,5,4.4,Late check-in
+B120395,2025-12-16,R239,Suite,Booked,579.57,2,2025-12-16,2025-12-20,No,No,No,Peak,High,John Smith,Canada,Credit Card,Travel Agent,Business,5,4.2,Extra towels
+B120396,2025-12-21,R245,Suite,Cancelled,561.01,2,2025-12-21,2025-12-25,Yes,No,No,Peak,High,Hans Muller,UK,Cash,Direct,Business,18,3.2,Extra towels
+B120397,2025-12-13,R160,Standard,Available,143.11,0,,,No,Yes,No,Peak,High,,,,,,17,3.7,
+B120398,2025-12-03,R193,Deluxe,Booked,273.34,3,2025-12-03,2025-12-05,Yes,No,No,Peak,High,John Smith,France,Credit Card,Direct,Leisure,18,3.4,Extra towels
+B120399,2025-12-01,R222,Deluxe,Booked,298.95,2,2025-12-01,2025-12-06,Yes,No,No,Peak,High,Hans Muller,Japan,Cash,Direct,Leisure,8,4.9,Late check-in
+B120400,2025-12-17,R313,Suite,Booked,557.94,1,2025-12-17,2025-12-19,Yes,Yes,Yes,Peak,High,Hans Muller,Germany,Debit Card,Direct,Business,16,4.2,Late check-in
+B120401,2025-12-03,R243,Deluxe,Booked,271.23,3,2025-12-03,2025-12-06,Yes,Yes,No,Peak,High,Marie Dubois,France,Cash,Travel Agent,Business,16,3.1,Late check-in
+B120402,2025-12-15,R188,Deluxe,Booked,299.75,2,2025-12-15,2025-12-19,No,No,Yes,Peak,High,John Smith,Germany,Credit Card,Direct,Business,13,3.8,Extra towels
+B120403,2025-12-08,R486,Deluxe,Booked,294.52,2,2025-12-08,2025-12-09,No,No,Yes,Peak,High,Yuki Tanaka,France,Credit Card,Travel Agent,Business,0,4.6,Extra towels
+B120404,2025-12-01,R245,Deluxe,Booked,305.25,4,2025-12-01,2025-12-02,Yes,No,Yes,Peak,High,Emma Jones,Canada,Cash,Direct,Business,16,3.6,Late check-in
+B120405,2025-12-21,R101,Standard,Cancelled,149.41,1,2025-12-21,2025-12-22,No,No,No,Peak,High,Marie Dubois,Canada,Debit Card,OTA,Leisure,9,3.8,None
+B120406,2025-12-09,R301,Suite,Booked,565.31,2,2025-12-09,2025-12-13,No,No,No,Peak,High,John Smith,Germany,Cash,OTA,Business,13,4.0,None
+B120407,2025-12-28,R497,Suite,Available,605.83,0,,,No,Yes,No,Peak,High,,,,,,18,4.1,
+B120408,2025-12-01,R371,Suite,Booked,603.17,1,2025-12-01,2025-12-05,No,Yes,Yes,Peak,High,Hans Muller,Japan,Credit Card,OTA,Business,0,3.4,None
+B120409,2025-12-23,R428,Suite,Booked,592.28,2,2025-12-23,2025-12-27,Yes,No,No,Peak,High,Marie Dubois,USA,Debit Card,OTA,Business,16,3.1,None
+B120410,2025-12-18,R325,Deluxe,Booked,320.2,1,2025-12-18,2025-12-19,No,No,Yes,Peak,High,Hans Muller,France,Cash,Travel Agent,Leisure,18,3.6,Late check-in
+B120411,2025-12-03,R383,Deluxe,Booked,309.68,3,2025-12-03,2025-12-08,Yes,Yes,No,Peak,High,John Smith,Germany,Cash,Direct,Leisure,20,4.4,Extra towels
+B120412,2025-12-07,R330,Standard,Booked,164.17,2,2025-12-07,2025-12-10,No,Yes,No,Peak,High,Hans Muller,Japan,Debit Card,Direct,Leisure,16,3.6,Extra towels
+B120413,2025-12-01,R439,Deluxe,Booked,321.36,1,2025-12-01,2025-12-02,Yes,No,No,Peak,High,John Smith,UK,Debit Card,Travel Agent,Leisure,0,4.0,Late check-in
+B120414,2025-12-04,R263,Deluxe,Cancelled,274.81,2,2025-12-04,2025-12-07,No,Yes,No,Peak,High,Hans Muller,Germany,Cash,OTA,Business,3,4.9,None
+B120415,2025-12-16,R461,Deluxe,Booked,312.51,2,2025-12-16,2025-12-18,No,No,No,Peak,High,Hans Muller,Canada,Cash,Travel Agent,Leisure,8,4.0,Extra towels
+B120416,2025-12-21,R251,Suite,Booked,576.56,2,2025-12-21,2025-12-26,No,No,Yes,Peak,High,John Smith,USA,Credit Card,Travel Agent,Leisure,14,3.6,Late check-in
+B120417,2025-12-06,R298,Suite,Booked,638.67,1,2025-12-06,2025-12-10,Yes,No,Yes,Peak,High,Marie Dubois,USA,Cash,Direct,Business,16,3.9,Late check-in
+B120418,2025-12-15,R190,Standard,Booked,146.61,1,2025-12-15,2025-12-16,Yes,No,Yes,Peak,High,Yuki Tanaka,Japan,Credit Card,OTA,Business,7,3.0,None
+B120419,2025-12-16,R279,Suite,Booked,650.76,3,2025-12-16,2025-12-20,No,No,No,Peak,High,Emma Jones,UK,Debit Card,Direct,Leisure,9,3.6,Extra towels
+B120420,2025-12-15,R187,Standard,Booked,149.3,2,2025-12-15,2025-12-17,No,No,No,Peak,High,John Smith,UK,Debit Card,OTA,Business,6,4.3,Late check-in
+B120421,2025-12-19,R348,Deluxe,Booked,318.43,2,2025-12-19,2025-12-21,No,Yes,Yes,Peak,High,Yuki Tanaka,Germany,Cash,OTA,Business,9,5.0,None
+B120422,2025-12-16,R378,Deluxe,Cancelled,271.79,4,2025-12-16,2025-12-21,Yes,No,Yes,Peak,High,John Smith,Japan,Cash,Direct,Leisure,17,4.3,Extra towels
+B120423,2025-12-07,R363,Suite,Cancelled,562.9,4,2025-12-07,2025-12-10,No,No,No,Peak,High,Hans Muller,USA,Credit Card,Direct,Leisure,15,4.4,Extra towels
+B120424,2025-12-10,R415,Standard,Booked,145.38,3,2025-12-10,2025-12-15,No,No,Yes,Peak,High,Yuki Tanaka,Japan,Debit Card,Travel Agent,Leisure,3,3.1,Late check-in
+B120425,2025-12-01,R381,Suite,Booked,604.42,2,2025-12-01,2025-12-06,No,No,Yes,Peak,High,Hans Muller,Germany,Cash,Direct,Leisure,5,3.4,Late check-in
+B120426,2025-12-07,R345,Suite,Booked,596.84,1,2025-12-07,2025-12-12,No,Yes,Yes,Peak,High,Marie Dubois,France,Credit Card,Travel Agent,Leisure,0,4.4,Extra towels
+B120427,2025-12-06,R340,Suite,Cancelled,612.84,3,2025-12-06,2025-12-08,No,Yes,Yes,Peak,High,John Smith,Germany,Debit Card,Travel Agent,Business,4,4.9,Extra towels
+B120428,2025-12-27,R223,Suite,Booked,637.78,4,2025-12-27,2025-12-30,Yes,No,No,Peak,High,Hans Muller,UK,Credit Card,Direct,Business,10,4.3,Extra towels
+B120429,2025-12-17,R207,Deluxe,Booked,324.4,4,2025-12-17,2025-12-18,Yes,Yes,Yes,Peak,High,Hans Muller,Canada,Debit Card,OTA,Leisure,15,4.5,Late check-in
+B120430,2025-12-19,R391,Standard,Booked,155.53,3,2025-12-19,2025-12-23,No,No,Yes,Peak,High,Yuki Tanaka,Germany,Credit Card,OTA,Business,9,3.2,Extra towels
+B120431,2025-12-26,R282,Suite,Booked,631.94,3,2025-12-26,2025-12-28,Yes,No,Yes,Peak,High,Marie Dubois,UK,Debit Card,OTA,Leisure,19,3.2,Late check-in
+B120432,2025-12-25,R236,Suite,Available,561.88,0,,,No,No,Yes,Peak,High,,,,,,19,3.9,
+B120433,2025-12-21,R500,Suite,Available,586.61,0,,,No,No,No,Peak,High,,,,,,8,3.7,
+B120434,2025-12-14,R137,Deluxe,No-Show,328.67,4,2025-12-14,2025-12-15,No,No,Yes,Peak,High,Marie Dubois,Canada,Debit Card,OTA,Business,11,3.1,None
+B120435,2025-12-08,R393,Suite,Available,622.98,0,,,No,No,Yes,Peak,High,,,,,,11,3.9,
+B120436,2025-12-05,R218,Suite,Booked,631.24,2,2025-12-05,2025-12-08,No,Yes,No,Peak,High,Hans Muller,France,Debit Card,OTA,Business,8,4.8,Late check-in
+B120437,2025-12-11,R195,Suite,Cancelled,578.76,4,2025-12-11,2025-12-14,Yes,Yes,No,Peak,High,Emma Jones,France,Cash,OTA,Leisure,1,3.9,Extra towels
+B120438,2025-12-08,R185,Suite,Available,632.54,0,,,No,Yes,Yes,Peak,High,,,,,,11,4.3,
+B120439,2025-12-20,R434,Suite,Available,639.55,0,,,No,No,No,Peak,High,,,,,,10,3.9,
+B120440,2025-12-05,R124,Deluxe,Booked,310.91,3,2025-12-05,2025-12-09,No,No,No,Peak,High,Emma Jones,UK,Cash,OTA,Business,13,4.2,Extra towels
+B120441,2025-12-09,R165,Standard,Booked,144.06,4,2025-12-09,2025-12-12,Yes,No,Yes,Peak,High,John Smith,USA,Cash,Travel Agent,Business,9,4.8,Extra towels
+B120442,2025-12-07,R326,Deluxe,Available,313.81,0,,,Yes,No,No,Peak,High,,,,,,7,4.7,
+B120443,2025-12-21,R482,Deluxe,Cancelled,297.5,2,2025-12-21,2025-12-22,No,Yes,No,Peak,High,Emma Jones,UK,Credit Card,Travel Agent,Leisure,8,3.1,Late check-in
+B120444,2025-12-11,R196,Standard,Booked,142.14,1,2025-12-11,2025-12-13,No,Yes,Yes,Peak,High,Yuki Tanaka,France,Debit Card,Travel Agent,Leisure,4,5.0,Late check-in
+B120445,2025-12-27,R438,Suite,Booked,634.13,1,2025-12-27,2025-12-30,Yes,Yes,Yes,Peak,High,Hans Muller,UK,Cash,Direct,Business,13,4.0,Late check-in
+B120446,2025-12-21,R100,Suite,Booked,639.95,3,2025-12-21,2025-12-26,No,No,No,Peak,High,Marie Dubois,UK,Credit Card,Direct,Business,4,4.7,Late check-in
+B120447,2025-12-25,R394,Deluxe,Booked,329.47,2,2025-12-25,2025-12-30,No,Yes,No,Peak,High,Marie Dubois,UK,Cash,Direct,Business,3,3.3,Extra towels
+B120448,2025-12-25,R398,Suite,Booked,549.96,3,2025-12-25,2025-12-29,No,No,Yes,Peak,High,Hans Muller,Japan,Credit Card,Direct,Business,11,3.1,None
+B120449,2025-12-09,R264,Standard,Booked,150.2,3,2025-12-09,2025-12-12,No,Yes,No,Peak,High,John Smith,USA,Credit Card,OTA,Leisure,1,4.6,Extra towels
+B120450,2025-12-16,R177,Standard,Booked,137.91,2,2025-12-16,2025-12-20,Yes,Yes,Yes,Peak,High,Marie Dubois,UK,Cash,Travel Agent,Leisure,2,3.8,None
+B120451,2025-12-01,R270,Suite,Booked,601.8,3,2025-12-01,2025-12-02,No,Yes,No,Peak,High,Yuki Tanaka,France,Debit Card,Direct,Business,16,3.5,Extra towels
+B120452,2025-12-23,R384,Deluxe,Available,290.96,0,,,Yes,No,No,Peak,High,,,,,,10,3.9,
+B120453,2025-12-28,R153,Standard,Cancelled,136.12,4,2025-12-28,2025-12-30,No,Yes,No,Peak,High,John Smith,UK,Cash,Travel Agent,Leisure,11,3.8,Late check-in
+B120454,2025-12-21,R211,Deluxe,Booked,307.23,4,2025-12-21,2025-12-22,Yes,No,No,Peak,High,Hans Muller,Canada,Debit Card,OTA,Business,10,4.7,None
+B120455,2025-12-17,R286,Standard,Booked,150.46,4,2025-12-17,2025-12-21,Yes,Yes,No,Peak,High,Yuki Tanaka,USA,Debit Card,OTA,Business,7,4.2,None
+B120456,2025-12-07,R401,Suite,Cancelled,599.06,4,2025-12-07,2025-12-08,No,No,Yes,Peak,High,Yuki Tanaka,Japan,Debit Card,OTA,Business,2,4.9,None
+B120457,2025-12-22,R170,Suite,Booked,591.94,4,2025-12-22,2025-12-25,Yes,Yes,Yes,Peak,High,Marie Dubois,Germany,Cash,OTA,Business,11,3.0,Extra towels
+B120458,2025-12-21,R253,Standard,Booked,162.47,2,2025-12-21,2025-12-25,Yes,Yes,No,Peak,High,Emma Jones,Germany,Debit Card,Travel Agent,Leisure,3,4.2,Late check-in
+B120459,2025-12-17,R240,Deluxe,Booked,313.99,2,2025-12-17,2025-12-18,No,Yes,Yes,Peak,High,Hans Muller,Germany,Credit Card,Travel Agent,Business,9,3.8,Extra towels
+B120460,2025-12-06,R245,Deluxe,Booked,306.11,1,2025-12-06,2025-12-09,No,No,Yes,Peak,High,Hans Muller,USA,Cash,Direct,Leisure,8,4.2,None
+B120461,2025-12-04,R369,Suite,Booked,553.21,3,2025-12-04,2025-12-08,No,No,No,Peak,High,Emma Jones,UK,Credit Card,Direct,Leisure,17,4.5,None
+B120462,2025-12-24,R179,Deluxe,Available,295.72,0,,,No,Yes,No,Peak,High,,,,,,3,3.1,
+B120463,2025-12-20,R142,Deluxe,Cancelled,292.48,1,2025-12-20,2025-12-25,Yes,No,Yes,Peak,High,Hans Muller,Japan,Credit Card,Travel Agent,Business,20,3.8,Late check-in
+B120464,2025-12-18,R253,Deluxe,Booked,288.16,2,2025-12-18,2025-12-22,No,No,Yes,Peak,High,Hans Muller,Germany,Cash,OTA,Leisure,5,3.8,Extra towels
+B120465,2025-12-28,R470,Deluxe,Booked,312.15,2,2025-12-28,2026-01-01,No,Yes,No,Peak,High,Emma Jones,Japan,Cash,Direct,Business,13,4.8,Late check-in
+B120466,2025-12-23,R422,Suite,Booked,569.24,1,2025-12-23,2025-12-24,No,No,Yes,Peak,High,Hans Muller,Japan,Debit Card,Direct,Leisure,3,4.3,None
+B120467,2025-12-03,R444,Deluxe,Booked,271.99,1,2025-12-03,2025-12-07,Yes,Yes,No,Peak,High,Hans Muller,USA,Debit Card,OTA,Leisure,12,3.5,Extra towels
+B120468,2025-12-15,R162,Deluxe,Booked,301.18,1,2025-12-15,2025-12-20,No,Yes,No,Peak,High,Emma Jones,USA,Cash,OTA,Leisure,1,3.0,None
+B120469,2025-12-01,R331,Deluxe,Booked,278.35,4,2025-12-01,2025-12-02,Yes,Yes,No,Peak,High,Yuki Tanaka,Germany,Credit Card,Travel Agent,Business,4,3.3,Late check-in
+B120470,2025-12-15,R160,Deluxe,Booked,319.57,4,2025-12-15,2025-12-18,No,No,No,Peak,High,Hans Muller,Germany,Debit Card,Travel Agent,Business,0,3.8,Late check-in
+B120471,2025-12-08,R325,Suite,Booked,659.05,3,2025-12-08,2025-12-12,Yes,Yes,Yes,Peak,High,Hans Muller,UK,Debit Card,Travel Agent,Business,20,4.0,None
+B120472,2025-12-10,R382,Suite,Booked,601.19,1,2025-12-10,2025-12-12,Yes,Yes,No,Peak,High,John Smith,France,Debit Card,OTA,Leisure,16,3.0,None
+B120473,2025-12-06,R243,Standard,Booked,139.8,3,2025-12-06,2025-12-10,Yes,No,Yes,Peak,High,Emma Jones,France,Cash,Travel Agent,Business,16,4.4,Late check-in
+B120474,2025-12-08,R267,Deluxe,Cancelled,317.62,3,2025-12-08,2025-12-10,No,Yes,Yes,Peak,High,John Smith,UK,Debit Card,Direct,Leisure,18,3.3,None
+B120475,2025-12-07,R111,Standard,Available,140.02,0,,,No,Yes,Yes,Peak,High,,,,,,8,4.3,
+B120476,2025-12-04,R459,Standard,Booked,143.98,2,2025-12-04,2025-12-06,Yes,No,No,Peak,High,Yuki Tanaka,Japan,Credit Card,OTA,Leisure,13,3.9,Late check-in
+B120477,2025-12-11,R154,Standard,Booked,159.69,3,2025-12-11,2025-12-12,No,Yes,Yes,Peak,High,Marie Dubois,UK,Credit Card,Travel Agent,Leisure,1,3.7,None
+B120478,2025-12-10,R358,Standard,Available,147.76,0,,,Yes,No,Yes,Peak,High,,,,,,13,3.9,
+B120479,2025-12-14,R411,Suite,Booked,576.34,3,2025-12-14,2025-12-15,No,No,No,Peak,High,Emma Jones,USA,Debit Card,Direct,Leisure,5,4.0,Late check-in
+B120480,2025-12-12,R127,Suite,Booked,602.29,3,2025-12-12,2025-12-16,Yes,Yes,No,Peak,High,Yuki Tanaka,USA,Cash,Travel Agent,Leisure,5,4.2,None
+B120481,2025-12-01,R120,Deluxe,Booked,293.95,1,2025-12-01,2025-12-04,Yes,No,Yes,Peak,High,John Smith,Canada,Debit Card,OTA,Business,7,4.6,Late check-in
+B120482,2025-12-22,R419,Deluxe,Available,274.01,0,,,No,No,Yes,Peak,High,,,,,,2,4.3,
+B120483,2025-12-24,R267,Deluxe,Booked,314.28,3,2025-12-24,2025-12-29,No,Yes,No,Peak,High,Emma Jones,USA,Cash,OTA,Leisure,2,5.0,Extra towels
+B120484,2025-12-23,R256,Suite,Cancelled,604.76,2,2025-12-23,2025-12-24,No,Yes,No,Peak,High,Marie Dubois,France,Cash,OTA,Leisure,13,3.7,Extra towels
+B120485,2025-12-25,R231,Suite,Cancelled,559.07,1,2025-12-25,2025-12-27,Yes,No,No,Peak,High,Marie Dubois,USA,Cash,Direct,Leisure,1,3.8,Extra towels
+B120486,2025-12-08,R113,Suite,Booked,568.25,4,2025-12-08,2025-12-10,No,Yes,No,Peak,High,Emma Jones,Canada,Cash,OTA,Leisure,17,4.7,None
+B120487,2025-12-18,R406,Suite,Available,594.45,0,,,No,No,Yes,Peak,High,,,,,,6,3.8,
+B120488,2025-12-05,R200,Deluxe,Booked,314.68,3,2025-12-05,2025-12-06,Yes,Yes,No,Peak,High,Marie Dubois,France,Cash,OTA,Business,2,3.2,Extra towels
+B120489,2025-12-21,R297,Deluxe,Booked,329.86,1,2025-12-21,2025-12-25,No,Yes,Yes,Peak,High,Marie Dubois,Germany,Cash,Direct,Business,10,4.4,None
+B120490,2025-12-26,R197,Standard,No-Show,139.77,3,2025-12-26,2025-12-31,No,No,Yes,Peak,High,Hans Muller,Germany,Debit Card,Travel Agent,Leisure,0,3.9,Extra towels
+B120491,2025-12-11,R229,Suite,No-Show,545.9,4,2025-12-11,2025-12-12,Yes,Yes,Yes,Peak,High,Hans Muller,USA,Cash,Travel Agent,Leisure,3,4.3,None
+B120492,2025-12-25,R108,Standard,Available,163.52,0,,,Yes,No,No,Peak,High,,,,,,20,3.9,
+B120493,2025-12-24,R156,Suite,Booked,564.45,3,2025-12-24,2025-12-29,No,Yes,No,Peak,High,Hans Muller,Germany,Cash,Direct,Business,18,3.8,Extra towels
+B120494,2025-12-24,R179,Suite,Booked,649.71,3,2025-12-24,2025-12-29,No,Yes,Yes,Peak,High,Marie Dubois,UK,Debit Card,OTA,Business,17,3.8,None
+B120495,2025-12-18,R135,Deluxe,No-Show,288.64,1,2025-12-18,2025-12-20,Yes,Yes,No,Peak,High,John Smith,UK,Cash,Direct,Business,13,4.2,Late check-in
+B120496,2025-12-23,R325,Deluxe,Booked,270.92,3,2025-12-23,2025-12-25,Yes,Yes,Yes,Peak,High,Emma Jones,UK,Cash,OTA,Business,7,3.4,Extra towels
+B120497,2025-12-11,R169,Deluxe,Booked,304.11,1,2025-12-11,2025-12-14,No,No,Yes,Peak,High,Marie Dubois,Germany,Credit Card,Direct,Business,6,4.1,Extra towels
+B120498,2025-12-16,R407,Deluxe,Booked,302.77,3,2025-12-16,2025-12-18,Yes,Yes,No,Peak,High,Hans Muller,USA,Credit Card,Direct,Leisure,10,3.2,Extra towels
+B120499,2025-12-10,R295,Suite,Booked,648.15,2,2025-12-10,2025-12-11,Yes,No,Yes,Peak,High,Marie Dubois,USA,Credit Card,Direct,Business,18,3.5,Late check-in
+B120500,2025-12-05,R257,Deluxe,Booked,319.45,1,2025-12-05,2025-12-08,Yes,No,Yes,Peak,High,Marie Dubois,Germany,Debit Card,Direct,Leisure,6,4.7,None
