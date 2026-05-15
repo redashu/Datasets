@@ -1,0 +1,1001 @@
+EmployeeID,Experience,Education,City,Department,Salary
+44920,0.7,PhD,Bangalore,DevOps,71348.0
+48546,0.9,Master,Hyderabad,AI Research,72264.0
+46369,5.7,Bachelor,Jaipur,DevOps,
+67995,13.6,PhD,Jaipur,Cloud,145701.0
+60173,8.6,Bachelor,Pune,Cloud,87900.0
+74784,3.2,Bachelor,Hyderabad,Software,47279.0
+43838,1.9,Bachelor,Hyderabad,DevOps,28836.0
+49942,,Bachelor,Bangalore,Data Science,105544.0
+41995,9.4,Bachelor,Bangalore,Data Science,105355.0
+31644,0.6,Master,Jaipur,DevOps,38239.0
+76642,1.6,PhD,Pune,Software,70680.0
+30666,9.9,Master,Jaipur,Cloud,101214.0
+36747,10.5,PhD,Jaipur,AI Research,156639.0
+47289,4.4,Bachelor,Bangalore,DevOps,75307.0
+34420,11.1,PhD,Hyderabad,DevOps,126247.0
+67344,6.8,Master,Pune,Data Science,88815.0
+59705,14.5,Bachelor,Jaipur,Cloud,127850.0
+35160,10.7,PhD,Hyderabad,Data Science,143683.0
+89501,14.1,PhD,Hyderabad,AI Research,174253.0
+87642,14.5,Master,Hyderabad,DevOps,145827.0
+29355,8.6,Master,Hyderabad,AI Research,110456.0
+16310,10.9,PhD,Delhi,AI Research,160092.0
+94037,8.0,PhD,Delhi,AI Research,149383.0
+72828,3.7,Bachelor,Delhi,DevOps,57643.0
+13323,13.9,PhD,Hyderabad,DevOps,145232.0
+59680,4.0,Master,Delhi,AI Research,106537.0
+32128,1.3,Bachelor,Hyderabad,Cloud,34669.0
+83939,7.3,Bachelor,Bangalore,Software,93274.0
+88971,9.8,Bachelor,Hyderabad,Data Science,108428.0
+22290,11.9,Master,Delhi,Software,127701.0
+35624,2.7,PhD,Delhi,DevOps,82958.0
+51907,13.6,Bachelor,Bangalore,Data Science,142361.0
+92035,13.8,PhD,Bangalore,Software,160237.0
+26648,,Master,Bangalore,AI Research,159384.0
+58092,10.5,Bachelor,Jaipur,Software,100217.0
+90395,9.7,Bachelor,Pune,AI Research,106916.0
+76986,2.1,Master,Bangalore,DevOps,67684.0
+37736,10.2,Master,Pune,Cloud,102593.0
+46545,13.1,Master,Jaipur,Data Science,150975.0
+58209,2.4,Master,Pune,AI Research,86142.0
+75050,9.5,PhD,Hyderabad,Data Science,124258.0
+92275,3.6,Master,Bangalore,DevOps,76660.0
+51124,7.2,Bachelor,Delhi,Data Science,86776.0
+70984,13.3,PhD,Hyderabad,AI Research,161123.0
+93310,3.6,Master,Jaipur,Data Science,67060.0
+85816,6.1,PhD,Jaipur,DevOps,92375.0
+51705,3.4,Bachelor,Hyderabad,DevOps,50722.0
+33603,4.9,Master,Jaipur,Cloud,77828.0
+16859,1.4,Master,Bangalore,Data Science,74364.0
+97582,10.9,Master,Pune,DevOps,120148.0
+94902,13.0,Master,Delhi,AI Research,169545.0
+82520,13.5,Master,Hyderabad,Software,136064.0
+11449,4.7,PhD,Bangalore,DevOps,93591.0
+18773,10.8,PhD,Pune,Data Science,140946.0
+49843,7.6,Bachelor,Jaipur,Cloud,83860.0
+36412,8.9,Master,Pune,Data Science,116513.0
+83014,9.9,PhD,Pune,Software,127481.0
+29322,8.4,Bachelor,Hyderabad,DevOps,91388.0
+14842,6.1,Master,Jaipur,Cloud,78035.0
+35691,12.7,Master,Jaipur,DevOps,126391.0
+75610,6.2,Master,Jaipur,DevOps,75550.0
+61979,12.2,Bachelor,Pune,Data Science,124952.0
+58348,13.0,PhD,Jaipur,Data Science,157222.0
+79765,13.7,Bachelor,Jaipur,Software,117929.0
+49272,10.0,PhD,Pune,Cloud,134404.0
+84078,8.9,Master,Hyderabad,DevOps,94632.0
+61435,2.8,PhD,Jaipur,AI Research,86789.0
+77224,,PhD,Hyderabad,Software,86559.0
+33713,6.2,Bachelor,Pune,DevOps,62211.0
+58927,1.0,Bachelor,Delhi,AI Research,56384.0
+63640,12.8,PhD,Jaipur,Data Science,155723.0
+27783,11.7,PhD,Pune,Data Science,148720.0
+28714,13.5,PhD,Hyderabad,Cloud,146073.0
+72929,11.8,PhD,Bangalore,DevOps,149050.0
+34794,4.4,Master,Delhi,DevOps,80902.0
+23800,8.2,Bachelor,Hyderabad,DevOps,79999.0
+48573,14.7,Master,Jaipur,Cloud,135177.0
+61921,11.8,Bachelor,Delhi,DevOps,111690.0
+27739,8.5,Master,Jaipur,Data Science,114743.0
+67596,8.5,Master,Pune,Data Science,110451.0
+85907,10.3,PhD,Delhi,DevOps,139352.0
+12001,9.8,Bachelor,Delhi,Software,104167.0
+25073,3.0,Master,Bangalore,AI Research,92408.0
+71634,6.3,Bachelor,Hyderabad,Software,59646.0
+72676,0.8,Bachelor,Pune,Software,32698.0
+78555,9.9,PhD,Bangalore,Data Science,138551.0
+86978,8.5,Master,Jaipur,AI Research,115556.0
+12573,13.5,Master,Delhi,AI Research,160990.0
+16912,6.6,Master,Jaipur,AI Research,109359.0
+22064,7.3,Bachelor,Delhi,DevOps,91012.0
+74555,11.8,Master,Hyderabad,AI Research,142553.0
+98679,10.9,PhD,Hyderabad,Software,128504.0
+45385,5.3,Bachelor,Jaipur,DevOps,58546.0
+34045,2.0,Bachelor,Hyderabad,DevOps,32032.0
+94098,12.7,PhD,Hyderabad,Cloud,142454.0
+57719,9.2,Master,Pune,Cloud,99136.0
+80683,10.1,Master,Delhi,Data Science,126518.0
+56373,1.9,PhD,Pune,Software,61129.0
+25931,11.4,Bachelor,Delhi,Software,116819.0
+20179,11.4,Master,Jaipur,DevOps,
+37929,3.5,Bachelor,Pune,Data Science,68709.0
+17733,6.3,Master,Bangalore,Cloud,96626.0
+80560,8.4,Master,Bangalore,Software,101148.0
+11160,10.0,Bachelor,Pune,Cloud,
+60035,14.5,Bachelor,Jaipur,Data Science,136159.0
+63340,4.9,Bachelor,Jaipur,Cloud,53895.0
+94616,4.7,Bachelor,Delhi,Software,69985.0
+74351,8.9,Bachelor,Delhi,Software,88466.0
+96607,1.3,Bachelor,Hyderabad,Software,34389.0
+87063,6.5,PhD,Hyderabad,DevOps,100504.0
+17324,5.1,Bachelor,Bangalore,Cloud,65373.0
+72039,,Bachelor,Hyderabad,Software,38739.0
+67611,12.8,PhD,Hyderabad,Cloud,145360.0
+22801,1.0,Master,Pune,Software,38176.0
+67713,12.6,Bachelor,Pune,AI Research,141095.0
+41867,5.5,PhD,Hyderabad,Software,101380.0
+26755,1.3,Bachelor,Delhi,AI Research,
+21815,6.7,Master,Bangalore,Data Science,107693.0
+77207,11.6,Bachelor,Delhi,Cloud,124662.0
+36543,9.6,Master,Pune,Cloud,112317.0
+86219,3.1,Bachelor,Bangalore,Software,62340.0
+58307,5.1,Master,Jaipur,DevOps,69109.0
+81399,1.5,Master,Jaipur,Data Science,57444.0
+60800,13.7,Master,Pune,Cloud,139562.0
+97167,,Master,Bangalore,Data Science,144445.0
+99303,9.1,PhD,Delhi,Software,130335.0
+45594,5.9,PhD,Bangalore,Cloud,111999.0
+43543,14.0,PhD,Pune,Cloud,162431.0
+84596,1.6,Master,Bangalore,AI Research,72660.0
+58960,8.8,PhD,Jaipur,DevOps,120681.0
+91334,11.0,PhD,Jaipur,AI Research,159710.0
+22647,6.3,Bachelor,Hyderabad,Software,75720.0
+38187,3.8,Master,Bangalore,AI Research,93511.0
+32661,10.8,Master,Delhi,Cloud,116381.0
+31665,13.3,Bachelor,Bangalore,Software,131843.0
+87338,1.6,Bachelor,Pune,AI Research,63239.0
+40462,13.0,Master,Jaipur,DevOps,132629.0
+55822,1.2,PhD,Bangalore,AI Research,98972.0
+94812,14.3,Master,Bangalore,AI Research,
+95613,1.7,Master,Jaipur,AI Research,65853.0
+56048,1.7,Bachelor,Hyderabad,Data Science,47759.0
+48505,13.2,Bachelor,Bangalore,Software,134222.0
+33353,14.1,PhD,Pune,DevOps,155698.0
+64927,9.6,PhD,Bangalore,Cloud,133506.0
+31719,3.1,PhD,Hyderabad,Software,84360.0
+20393,1.4,PhD,Jaipur,Data Science,75719.0
+48568,1.4,Master,Delhi,Data Science,75830.0
+83265,4.1,Master,Bangalore,Cloud,75183.0
+41573,6.8,PhD,Delhi,DevOps,105373.0
+85785,7.8,PhD,Jaipur,Cloud,100855.0
+80554,12.5,Master,Pune,Data Science,134981.0
+12891,9.0,Master,Pune,AI Research,128920.0
+50100,6.2,Master,Delhi,AI Research,106361.0
+73282,8.7,Master,Delhi,Software,
+57512,10.5,PhD,Delhi,AI Research,168395.0
+92393,5.8,Bachelor,Bangalore,DevOps,79228.0
+52587,14.3,Bachelor,Delhi,Cloud,133725.0
+17170,9.1,Bachelor,Hyderabad,AI Research,115156.0
+93359,13.6,Master,Jaipur,Cloud,135761.0
+64232,13.5,Bachelor,Delhi,Data Science,146407.0
+20083,4.9,PhD,Delhi,Data Science,99828.0
+80471,,Bachelor,Bangalore,Data Science,121041.0
+82042,1.8,PhD,Bangalore,Cloud,73890.0
+19389,14.9,PhD,Pune,AI Research,177988.0
+23647,7.7,Master,Pune,Software,103506.0
+99154,4.7,Bachelor,Hyderabad,Cloud,50951.0
+34850,7.8,Bachelor,Jaipur,AI Research,106239.0
+81344,4.3,Master,Hyderabad,Data Science,88108.0
+42295,11.8,Bachelor,Jaipur,DevOps,112152.0
+57048,6.5,Bachelor,Delhi,Cloud,75830.0
+20503,11.4,Master,Hyderabad,Cloud,128682.0
+77390,9.0,PhD,Pune,DevOps,121456.0
+23787,10.6,Bachelor,Hyderabad,AI Research,122641.0
+21604,3.3,Bachelor,Pune,Software,42869.0
+86642,13.3,Master,Jaipur,DevOps,135913.0
+93312,2.0,PhD,Jaipur,DevOps,77880.0
+80673,5.2,Bachelor,Hyderabad,Software,61836.0
+29353,6.8,Bachelor,Delhi,DevOps,90084.0
+92669,15.0,Master,Jaipur,Cloud,154681.0
+90774,1.5,PhD,Jaipur,Cloud,69857.0
+42506,1.8,Master,Pune,Data Science,57034.0
+91850,10.5,Bachelor,Bangalore,Software,100815.0
+52045,3.1,Master,Pune,Data Science,71458.0
+99452,2.3,Master,Jaipur,AI Research,68363.0
+95290,,Bachelor,Jaipur,DevOps,108402.0
+38465,6.0,Bachelor,Delhi,DevOps,82104.0
+96266,1.9,PhD,Delhi,Software,85055.0
+26431,3.1,Master,Jaipur,AI Research,78770.0
+38859,5.6,PhD,Delhi,Cloud,108467.0
+73344,7.4,Master,Hyderabad,Data Science,109047.0
+15285,9.7,Master,Bangalore,Cloud,113434.0
+64876,5.1,Bachelor,Jaipur,AI Research,75341.0
+96160,6.0,Bachelor,Jaipur,AI Research,86296.0
+92128,3.9,PhD,Hyderabad,DevOps,78720.0
+93841,14.3,Bachelor,Delhi,DevOps,131945.0
+29491,7.5,Master,Jaipur,DevOps,97423.0
+72210,13.8,Bachelor,Delhi,AI Research,149787.0
+83274,9.2,PhD,Pune,AI Research,138536.0
+62852,6.3,Bachelor,Pune,AI Research,85284.0
+27649,9.7,Master,Bangalore,Software,124281.0
+56892,12.5,Bachelor,Jaipur,Data Science,
+60605,2.1,PhD,Jaipur,Data Science,73678.0
+90052,10.0,PhD,Hyderabad,DevOps,122614.0
+56057,1.4,Bachelor,Jaipur,Data Science,42157.0
+64030,13.8,Master,Delhi,Cloud,155776.0
+98711,13.3,Master,Delhi,DevOps,138548.0
+47841,9.8,Bachelor,Bangalore,AI Research,114803.0
+24523,11.9,PhD,Bangalore,DevOps,139352.0
+30548,7.9,Master,Hyderabad,Cloud,102222.0
+25090,4.8,Master,Pune,Software,82540.0
+31676,6.4,PhD,Hyderabad,Software,93935.0
+88740,2.3,Master,Jaipur,Data Science,62984.0
+87058,1.2,PhD,Pune,Software,66675.0
+93257,0.6,Bachelor,Hyderabad,DevOps,20854.0
+31007,0.7,PhD,Pune,DevOps,51389.0
+67378,2.3,PhD,Bangalore,Cloud,76345.0
+64035,12.1,PhD,Bangalore,DevOps,146036.0
+41177,10.5,Bachelor,Jaipur,DevOps,93272.0
+85078,12.9,PhD,Bangalore,Data Science,168302.0
+82537,1.3,PhD,Pune,Data Science,75740.0
+41964,6.3,Bachelor,Jaipur,Software,62059.0
+83330,5.8,PhD,Hyderabad,Data Science,108473.0
+25082,2.5,PhD,Bangalore,AI Research,93375.0
+69725,2.5,PhD,Jaipur,Cloud,67679.0
+92859,12.0,PhD,Bangalore,AI Research,168369.0
+77639,10.5,PhD,Jaipur,Data Science,141820.0
+34025,8.5,Bachelor,Pune,Software,86756.0
+78431,8.9,Bachelor,Pune,DevOps,89865.0
+57452,14.7,Bachelor,Jaipur,AI Research,144204.0
+48672,13.6,Bachelor,Jaipur,Cloud,121389.0
+38377,,Master,Pune,Software,127581.0
+97515,5.2,Master,Delhi,DevOps,90434.0
+13140,12.5,Bachelor,Bangalore,DevOps,117268.0
+12967,0.9,PhD,Bangalore,AI Research,100558.0
+17844,2.9,Master,Jaipur,DevOps,53441.0
+82817,5.3,PhD,Pune,AI Research,115792.0
+55965,12.2,Bachelor,Hyderabad,DevOps,114002.0
+57564,11.2,PhD,Delhi,DevOps,133675.0
+47820,5.4,Bachelor,Jaipur,Cloud,60969.0
+81973,13.2,PhD,Jaipur,Software,145570.0
+63671,14.9,Master,Hyderabad,AI Research,166603.0
+38800,2.3,Bachelor,Bangalore,AI Research,79807.0
+64968,8.2,Master,Hyderabad,Software,99643.0
+42287,9.8,Master,Bangalore,Cloud,123695.0
+77945,7.3,Bachelor,Pune,AI Research,103329.0
+72345,9.0,Master,Delhi,AI Research,133703.0
+44974,10.8,Master,Jaipur,Data Science,131844.0
+19125,3.2,Master,Bangalore,Data Science,92304.0
+52611,12.1,Master,Jaipur,Data Science,143036.0
+32975,3.8,Master,Jaipur,Data Science,84359.0
+19694,1.6,Bachelor,Hyderabad,Cloud,28952.0
+99740,13.7,Master,Jaipur,Software,134651.0
+70112,4.6,Master,Jaipur,AI Research,101478.0
+73122,7.7,Bachelor,Jaipur,Cloud,77552.0
+75359,6.2,PhD,Hyderabad,Data Science,102343.0
+91799,6.2,Master,Pune,Data Science,83925.0
+36737,6.1,Bachelor,Hyderabad,Cloud,74573.0
+47816,11.6,Master,Bangalore,Cloud,122920.0
+18993,7.3,PhD,Delhi,Data Science,133652.0
+87603,6.0,PhD,Jaipur,Data Science,109371.0
+13300,7.8,PhD,Hyderabad,AI Research,132167.0
+76455,1.8,PhD,Hyderabad,DevOps,57928.0
+99596,7.2,PhD,Jaipur,Software,108618.0
+51712,12.1,Master,Delhi,Cloud,125079.0
+42061,14.7,PhD,Delhi,AI Research,189452.0
+52554,13.3,Bachelor,Jaipur,AI Research,145404.0
+16732,11.8,Master,Delhi,Cloud,141846.0
+94775,14.7,Bachelor,Hyderabad,Software,128967.0
+22501,11.3,Master,Delhi,DevOps,131885.0
+83426,14.1,PhD,Jaipur,Data Science,161067.0
+38087,14.4,Master,Hyderabad,DevOps,146894.0
+55306,2.1,Master,Hyderabad,AI Research,78435.0
+72897,5.7,PhD,Pune,DevOps,85066.0
+14509,2.3,PhD,Hyderabad,DevOps,67592.0
+83692,7.7,PhD,Hyderabad,Cloud,104139.0
+72698,14.8,Master,Hyderabad,Data Science,144924.0
+34318,3.9,Bachelor,Delhi,Cloud,62477.0
+10855,7.5,PhD,Hyderabad,AI Research,127185.0
+78315,8.8,Bachelor,Jaipur,Data Science,90971.0
+98843,1.2,Bachelor,Hyderabad,Cloud,30365.0
+80256,7.7,PhD,Jaipur,Data Science,117821.0
+63220,8.5,PhD,Pune,DevOps,107282.0
+51269,11.5,PhD,Delhi,AI Research,172881.0
+81638,0.9,Bachelor,Pune,Software,27091.0
+58312,6.0,Master,Hyderabad,Software,76493.0
+72557,3.5,Bachelor,Hyderabad,Data Science,57976.0
+54629,1.5,Master,Delhi,DevOps,53490.0
+51958,11.8,Master,Bangalore,Cloud,125141.0
+28214,2.3,Master,Delhi,Software,73286.0
+95933,7.0,PhD,Hyderabad,Data Science,119352.0
+95389,1.9,Master,Pune,DevOps,53119.0
+57188,3.5,PhD,Bangalore,AI Research,99680.0
+11645,2.2,PhD,Hyderabad,Software,61475.0
+95218,1.9,PhD,Jaipur,Cloud,64824.0
+10897,3.3,Master,Delhi,Software,77079.0
+90176,13.3,PhD,Hyderabad,Data Science,165122.0
+30889,5.3,Master,Bangalore,AI Research,99153.0
+93223,4.2,Master,Delhi,DevOps,85212.0
+58413,1.3,Bachelor,Delhi,Data Science,63616.0
+71534,14.3,PhD,Delhi,Software,164859.0
+51860,3.3,PhD,Bangalore,DevOps,80175.0
+85052,3.1,PhD,Bangalore,DevOps,85115.0
+11491,8.6,Master,Delhi,DevOps,109961.0
+24399,7.6,PhD,Pune,Data Science,
+71787,11.1,PhD,Delhi,AI Research,155083.0
+25166,10.2,Master,Hyderabad,Data Science,118021.0
+56086,7.9,PhD,Pune,Data Science,113003.0
+42200,10.0,PhD,Jaipur,AI Research,151247.0
+44555,7.3,PhD,Jaipur,DevOps,107773.0
+72481,,PhD,Hyderabad,Cloud,147334.0
+68011,3.0,PhD,Delhi,AI Research,108456.0
+34715,,Bachelor,Jaipur,Software,40424.0
+40788,13.7,Master,Pune,DevOps,131303.0
+89849,2.6,PhD,Hyderabad,Data Science,81672.0
+47402,11.6,Bachelor,Hyderabad,Data Science,116534.0
+39666,12.3,Bachelor,Hyderabad,Cloud,113539.0
+70476,7.8,Master,Hyderabad,DevOps,85671.0
+97763,7.2,PhD,Delhi,Data Science,132629.0
+11703,7.0,PhD,Bangalore,Software,116234.0
+98326,9.7,Bachelor,Jaipur,Cloud,86834.0
+64571,10.4,Master,Hyderabad,DevOps,121070.0
+80663,9.1,PhD,Jaipur,Cloud,123269.0
+91062,11.3,Master,Pune,DevOps,124859.0
+75836,11.6,Master,Bangalore,Data Science,143531.0
+80591,6.2,Master,Hyderabad,Data Science,86256.0
+38176,5.3,Master,Jaipur,AI Research,89031.0
+82568,3.1,Bachelor,Jaipur,Cloud,43777.0
+86207,12.6,Master,Pune,DevOps,135497.0
+18926,11.9,Bachelor,Bangalore,Software,118023.0
+99710,12.5,Master,Bangalore,AI Research,163979.0
+20458,5.7,Master,Bangalore,AI Research,113176.0
+28048,5.6,Master,Jaipur,Cloud,80413.0
+32736,13.5,Master,Jaipur,DevOps,143661.0
+90509,14.1,PhD,Pune,AI Research,171821.0
+75127,8.3,PhD,Bangalore,DevOps,121446.0
+96350,7.9,PhD,Pune,AI Research,140024.0
+29610,4.3,PhD,Hyderabad,Cloud,86682.0
+48634,13.2,Master,Pune,DevOps,141554.0
+23071,4.5,Bachelor,Delhi,Cloud,70814.0
+32716,3.4,Master,Hyderabad,Cloud,71362.0
+57449,4.9,Master,Hyderabad,AI Research,96191.0
+29026,2.8,Master,Jaipur,DevOps,52157.0
+43847,12.0,Bachelor,Delhi,Cloud,109014.0
+88509,13.1,PhD,Hyderabad,Data Science,160143.0
+10895,11.5,PhD,Hyderabad,AI Research,155873.0
+22395,5.9,Master,Delhi,Software,87058.0
+62241,0.8,Bachelor,Bangalore,DevOps,44987.0
+99064,1.9,Bachelor,Jaipur,DevOps,46833.0
+58431,4.1,Master,Bangalore,Data Science,88648.0
+81549,5.4,Master,Hyderabad,Software,71983.0
+74589,8.8,Master,Hyderabad,Software,101691.0
+12285,10.6,Master,Jaipur,Cloud,109443.0
+82569,3.3,Bachelor,Bangalore,Cloud,66145.0
+93157,13.4,PhD,Hyderabad,AI Research,168589.0
+28848,10.9,PhD,Hyderabad,Data Science,147846.0
+70198,12.9,PhD,Bangalore,Software,145483.0
+19698,3.9,Master,Bangalore,DevOps,68441.0
+17394,5.0,Master,Bangalore,AI Research,98985.0
+12902,12.7,Master,Hyderabad,AI Research,140166.0
+75043,4.6,Bachelor,Jaipur,Software,58340.0
+22217,2.1,Master,Bangalore,AI Research,92685.0
+60437,,Master,Jaipur,DevOps,63882.0
+93867,4.8,PhD,Hyderabad,Data Science,101718.0
+66334,6.7,Bachelor,Delhi,DevOps,77782.0
+47530,4.8,Bachelor,Hyderabad,AI Research,82701.0
+73533,,Bachelor,Bangalore,AI Research,86663.0
+53093,4.8,Master,Bangalore,Software,85967.0
+75427,13.4,Master,Delhi,AI Research,167280.0
+94538,4.5,PhD,Jaipur,DevOps,94041.0
+96056,6.0,PhD,Jaipur,AI Research,114169.0
+85339,1.9,Bachelor,Bangalore,Cloud,
+65153,3.3,PhD,Bangalore,Software,91452.0
+40673,8.5,Master,Delhi,Software,115949.0
+77389,12.6,Bachelor,Pune,Data Science,124871.0
+14305,4.3,PhD,Delhi,Software,88089.0
+72473,11.1,Bachelor,Delhi,Cloud,106100.0
+22866,5.1,Bachelor,Bangalore,Data Science,89928.0
+16258,8.6,PhD,Pune,Software,123134.0
+89906,10.7,PhD,Pune,Data Science,134443.0
+58365,7.4,PhD,Hyderabad,AI Research,119342.0
+36920,11.8,Master,Jaipur,Cloud,120933.0
+47149,3.0,Master,Jaipur,AI Research,82230.0
+71917,14.2,Master,Delhi,DevOps,156848.0
+85271,13.5,Master,Hyderabad,Data Science,143020.0
+83590,4.7,PhD,Delhi,DevOps,94681.0
+29914,8.1,Master,Hyderabad,Software,97290.0
+48556,2.0,PhD,Delhi,DevOps,85325.0
+53586,14.0,Master,Pune,DevOps,134090.0
+48761,9.1,Master,Hyderabad,DevOps,110296.0
+54940,10.8,Bachelor,Bangalore,Cloud,113236.0
+17798,4.0,PhD,Bangalore,DevOps,90928.0
+90459,5.1,PhD,Hyderabad,AI Research,116074.0
+69671,2.5,Master,Pune,DevOps,54942.0
+72850,11.2,Master,Bangalore,Cloud,120843.0
+53999,4.5,Master,Pune,Cloud,64792.0
+89823,,Master,Hyderabad,Cloud,139732.0
+39100,7.1,Bachelor,Bangalore,Software,93649.0
+26333,,PhD,Bangalore,Cloud,147229.0
+37130,8.4,Master,Jaipur,Cloud,95871.0
+15769,13.8,Bachelor,Hyderabad,DevOps,116723.0
+32668,10.0,PhD,Bangalore,Software,135941.0
+96706,11.7,Master,Hyderabad,Cloud,126389.0
+18800,10.5,Master,Bangalore,Software,129334.0
+94863,3.9,Master,Delhi,Cloud,71011.0
+59692,14.8,Master,Jaipur,Software,150626.0
+82324,0.6,Master,Jaipur,DevOps,34985.0
+45037,6.9,Master,Jaipur,DevOps,94786.0
+89536,12.8,Master,Delhi,Cloud,148718.0
+75183,4.2,Bachelor,Pune,Software,44663.0
+12331,7.3,Master,Jaipur,Data Science,111000.0
+34566,3.2,Bachelor,Jaipur,AI Research,62009.0
+54881,4.4,PhD,Pune,AI Research,111119.0
+59115,0.5,PhD,Pune,Software,60299.0
+90959,8.6,Master,Delhi,Data Science,127918.0
+52491,14.9,PhD,Delhi,Data Science,
+57288,8.6,PhD,Jaipur,Software,110655.0
+92226,11.9,PhD,Delhi,DevOps,145754.0
+54633,7.7,PhD,Delhi,Data Science,124250.0
+82850,11.2,Master,Hyderabad,AI Research,143986.0
+85110,2.5,Master,Jaipur,Data Science,64597.0
+86133,1.5,Master,Bangalore,Software,55785.0
+27382,8.2,Bachelor,Delhi,Cloud,89239.0
+98160,8.6,Master,Hyderabad,DevOps,101214.0
+88724,6.1,PhD,Jaipur,AI Research,112187.0
+27826,10.9,PhD,Bangalore,AI Research,169670.0
+75117,1.6,Bachelor,Delhi,DevOps,45848.0
+70473,,Master,Bangalore,Cloud,116280.0
+80228,10.6,Master,Jaipur,AI Research,126990.0
+52891,12.3,Master,Delhi,DevOps,
+97003,14.7,Bachelor,Jaipur,AI Research,143882.0
+27509,8.3,Master,Pune,Data Science,111161.0
+99328,6.1,Master,Delhi,Cloud,83409.0
+67686,14.4,Bachelor,Delhi,Data Science,136146.0
+76933,1.3,PhD,Bangalore,DevOps,77977.0
+55522,11.7,PhD,Hyderabad,AI Research,157219.0
+91993,8.5,Master,Pune,AI Research,115942.0
+46354,3.6,PhD,Delhi,AI Research,119234.0
+87588,8.9,Master,Hyderabad,Data Science,121314.0
+13742,11.7,Bachelor,Jaipur,AI Research,119842.0
+11558,4.2,Master,Bangalore,Software,70295.0
+33869,11.6,Bachelor,Bangalore,DevOps,117531.0
+79170,8.8,Master,Delhi,Cloud,107606.0
+24088,12.1,Master,Pune,DevOps,
+59114,12.5,Bachelor,Hyderabad,Software,103472.0
+46387,2.8,Master,Jaipur,Cloud,55519.0
+69008,3.7,Bachelor,Jaipur,Data Science,61640.0
+19119,11.8,Master,Delhi,Software,127220.0
+72045,7.9,Bachelor,Pune,AI Research,107335.0
+61255,,PhD,Pune,Software,120005.0
+60483,4.7,Bachelor,Hyderabad,DevOps,53447.0
+16292,1.0,Master,Bangalore,Data Science,64655.0
+77606,5.1,Bachelor,Jaipur,Software,69195.0
+85938,4.5,PhD,Pune,Cloud,83011.0
+33443,9.8,Bachelor,Delhi,AI Research,114194.0
+43286,14.9,Bachelor,Pune,Software,131825.0
+99680,10.5,Master,Jaipur,Data Science,116498.0
+27832,9.8,Master,Jaipur,Cloud,102388.0
+25448,14.0,PhD,Pune,AI Research,180973.0
+68655,7.4,Bachelor,Hyderabad,Cloud,72963.0
+30535,11.8,Bachelor,Jaipur,Software,108992.0
+33668,0.5,Master,Delhi,DevOps,
+10323,3.3,PhD,Bangalore,AI Research,106662.0
+18485,,Bachelor,Pune,AI Research,43522.0
+23155,11.6,Master,Jaipur,AI Research,144629.0
+51199,5.8,PhD,Bangalore,AI Research,123487.0
+88946,9.0,Bachelor,Pune,Software,84682.0
+24499,6.6,Master,Hyderabad,Data Science,89047.0
+20903,4.3,Master,Pune,AI Research,81554.0
+17469,11.3,Bachelor,Hyderabad,Cloud,102899.0
+21802,7.7,Bachelor,Delhi,DevOps,93670.0
+86200,7.9,Bachelor,Delhi,Data Science,98985.0
+95078,10.2,Bachelor,Pune,Data Science,99664.0
+46376,4.0,Bachelor,Pune,Cloud,44315.0
+22906,9.7,PhD,Pune,Software,119229.0
+70299,8.1,Bachelor,Jaipur,AI Research,94134.0
+97873,13.2,Master,Bangalore,DevOps,140742.0
+51990,11.0,Master,Delhi,Cloud,130287.0
+15163,5.4,Master,Pune,Data Science,91345.0
+98810,9.9,Master,Pune,AI Research,119352.0
+52309,6.2,PhD,Delhi,DevOps,107464.0
+76161,8.8,PhD,Pune,DevOps,120733.0
+70708,0.6,Bachelor,Pune,Data Science,32610.0
+35886,0.9,Bachelor,Delhi,AI Research,68000.0
+51005,14.3,Master,Hyderabad,Software,142247.0
+77344,1.3,PhD,Bangalore,Data Science,79377.0
+70282,9.0,PhD,Jaipur,Software,119017.0
+99930,13.5,Bachelor,Bangalore,AI Research,142323.0
+62098,1.2,PhD,Jaipur,Cloud,71874.0
+49107,8.7,Master,Hyderabad,DevOps,91980.0
+21724,13.7,Master,Hyderabad,Software,130509.0
+37677,1.8,Master,Jaipur,DevOps,50306.0
+27471,13.7,PhD,Jaipur,Data Science,
+42463,14.1,Bachelor,Bangalore,DevOps,127809.0
+30807,4.0,Bachelor,Hyderabad,AI Research,81724.0
+17617,10.5,Master,Bangalore,Software,118786.0
+57459,3.3,Master,Delhi,DevOps,77693.0
+60421,3.6,PhD,Jaipur,Software,83134.0
+92142,4.4,PhD,Hyderabad,AI Research,103556.0
+56300,5.7,Master,Delhi,Cloud,89936.0
+94375,14.7,PhD,Delhi,Cloud,158760.0
+40851,11.6,PhD,Pune,Data Science,137284.0
+39335,11.3,Bachelor,Jaipur,Cloud,106504.0
+82287,14.8,PhD,Hyderabad,Cloud,158308.0
+30588,11.2,Master,Hyderabad,Cloud,115966.0
+44819,4.3,PhD,Jaipur,AI Research,97702.0
+97401,1.7,Bachelor,Hyderabad,Cloud,26946.0
+66341,1.4,Bachelor,Delhi,Cloud,51619.0
+71327,2.8,Master,Pune,AI Research,80342.0
+42738,8.2,Bachelor,Hyderabad,DevOps,90355.0
+90440,4.8,Bachelor,Delhi,Data Science,80586.0
+41197,9.7,PhD,Bangalore,DevOps,125154.0
+73765,5.5,Bachelor,Pune,Cloud,54522.0
+99306,,Master,Pune,Software,66655.0
+29515,12.0,PhD,Hyderabad,DevOps,139153.0
+52736,5.2,PhD,Bangalore,Data Science,112161.0
+91598,1.9,PhD,Bangalore,Cloud,76511.0
+20405,3.4,Master,Pune,DevOps,67800.0
+95329,11.0,Bachelor,Pune,AI Research,121250.0
+85230,4.9,Master,Delhi,Data Science,103936.0
+25425,12.7,PhD,Delhi,Cloud,149025.0
+15000,7.2,PhD,Pune,AI Research,133359.0
+68178,8.5,Bachelor,Jaipur,DevOps,77795.0
+30868,3.5,Master,Delhi,DevOps,70615.0
+54785,12.1,PhD,Bangalore,Data Science,167269.0
+79460,12.3,Bachelor,Bangalore,Data Science,132532.0
+92474,7.8,Master,Hyderabad,Cloud,90603.0
+19622,11.3,PhD,Bangalore,Data Science,153677.0
+92548,9.3,PhD,Hyderabad,DevOps,124986.0
+59094,7.3,PhD,Pune,Software,104545.0
+54130,13.3,Bachelor,Delhi,Software,129994.0
+46694,0.6,Bachelor,Jaipur,Software,38175.0
+82068,11.9,Bachelor,Jaipur,Software,109309.0
+35560,10.4,Bachelor,Delhi,DevOps,108416.0
+66592,4.3,Master,Hyderabad,DevOps,66421.0
+17680,10.6,Bachelor,Bangalore,Data Science,
+17835,5.0,Bachelor,Pune,Cloud,55043.0
+28360,12.9,PhD,Hyderabad,Cloud,
+16166,10.8,Bachelor,Bangalore,DevOps,109646.0
+28584,8.2,PhD,Hyderabad,AI Research,131238.0
+68888,1.2,Master,Jaipur,AI Research,74331.0
+75899,1.9,PhD,Jaipur,DevOps,67872.0
+76031,4.9,PhD,Jaipur,Software,97032.0
+77331,4.8,Master,Pune,AI Research,102792.0
+16820,6.0,Bachelor,Hyderabad,Software,57719.0
+38642,5.6,PhD,Pune,Cloud,85945.0
+50780,14.6,PhD,Delhi,Data Science,180986.0
+32047,1.6,Bachelor,Jaipur,DevOps,33747.0
+49572,7.6,Master,Pune,Data Science,104445.0
+46257,12.2,PhD,Bangalore,AI Research,164462.0
+63840,10.1,Bachelor,Bangalore,DevOps,110796.0
+26788,13.5,Master,Delhi,Software,138856.0
+19916,11.7,Master,Jaipur,Software,117754.0
+34241,14.5,Master,Delhi,AI Research,177814.0
+47164,9.3,PhD,Bangalore,Cloud,125847.0
+11457,6.2,Master,Pune,DevOps,
+31076,5.4,Master,Hyderabad,AI Research,104930.0
+18530,11.9,Bachelor,Delhi,Cloud,112671.0
+97844,7.6,Bachelor,Hyderabad,Cloud,82802.0
+52173,11.7,PhD,Pune,Cloud,132238.0
+68680,14.3,PhD,Bangalore,AI Research,178619.0
+19110,13.9,Bachelor,Bangalore,AI Research,162105.0
+18053,10.2,PhD,Delhi,AI Research,159649.0
+53054,9.0,Bachelor,Delhi,Software,105887.0
+97661,0.7,Master,Hyderabad,Cloud,39834.0
+99629,1.5,Bachelor,Pune,Data Science,50911.0
+39117,4.2,PhD,Delhi,Cloud,96308.0
+73929,14.9,PhD,Hyderabad,Data Science,162729.0
+49478,4.0,Bachelor,Jaipur,Cloud,44208.0
+18369,8.8,Master,Pune,Cloud,98299.0
+91691,14.9,Master,Pune,Cloud,139520.0
+18210,12.0,Master,Delhi,Software,125552.0
+54700,6.7,Bachelor,Jaipur,AI Research,89815.0
+73201,2.2,Bachelor,Bangalore,Cloud,43016.0
+89172,2.8,PhD,Delhi,Data Science,87673.0
+75666,13.4,PhD,Pune,Data Science,160427.0
+56363,10.6,Bachelor,Jaipur,AI Research,120821.0
+89445,14.9,Master,Bangalore,Software,149836.0
+53178,13.5,Master,Bangalore,Data Science,147750.0
+78339,3.6,PhD,Jaipur,Data Science,94311.0
+11194,9.7,Master,Bangalore,DevOps,
+30838,13.3,PhD,Delhi,Data Science,161498.0
+32940,13.8,Master,Bangalore,Data Science,151836.0
+38990,5.9,Bachelor,Hyderabad,AI Research,87481.0
+40312,4.7,Master,Bangalore,Cloud,79585.0
+45225,10.0,Bachelor,Delhi,Cloud,97503.0
+29298,9.9,PhD,Jaipur,Data Science,130527.0
+77588,7.6,PhD,Hyderabad,AI Research,121472.0
+31457,4.6,Master,Bangalore,Cloud,75941.0
+69297,5.2,Master,Delhi,Data Science,89526.0
+39003,9.2,Master,Pune,Cloud,94976.0
+88400,0.6,PhD,Pune,Data Science,63885.0
+15212,4.2,PhD,Bangalore,DevOps,103940.0
+26371,11.2,PhD,Hyderabad,AI Research,
+15242,11.1,Bachelor,Hyderabad,DevOps,93193.0
+36002,13.0,Bachelor,Pune,Data Science,118495.0
+69647,11.9,Bachelor,Hyderabad,Cloud,112720.0
+71494,5.8,PhD,Jaipur,AI Research,107652.0
+34612,11.1,Bachelor,Jaipur,Software,107209.0
+82475,1.4,PhD,Pune,Software,73499.0
+50360,1.6,Master,Jaipur,DevOps,44224.0
+90591,8.4,Master,Bangalore,DevOps,102700.0
+42474,4.0,PhD,Hyderabad,DevOps,75673.0
+40472,2.5,Bachelor,Jaipur,DevOps,42741.0
+87410,9.8,Master,Bangalore,AI Research,131693.0
+95527,13.4,PhD,Bangalore,AI Research,186194.0
+90522,1.8,Master,Hyderabad,Cloud,58267.0
+98059,8.5,Bachelor,Pune,Data Science,103435.0
+87127,5.8,Bachelor,Jaipur,Cloud,60861.0
+47260,11.9,PhD,Pune,Software,138439.0
+87075,2.1,Master,Hyderabad,AI Research,84697.0
+34210,1.4,Master,Bangalore,Cloud,68434.0
+85635,4.6,Bachelor,Delhi,Cloud,76074.0
+61210,8.5,PhD,Bangalore,Software,133840.0
+24985,6.7,PhD,Bangalore,Cloud,112200.0
+38964,7.7,Bachelor,Delhi,Software,79352.0
+80511,1.8,PhD,Delhi,Software,70832.0
+54090,11.7,Bachelor,Pune,Software,97539.0
+18968,10.4,PhD,Delhi,AI Research,161458.0
+24728,14.6,Master,Jaipur,Cloud,142832.0
+94039,4.2,PhD,Hyderabad,DevOps,83103.0
+49848,9.0,PhD,Pune,Software,120131.0
+21393,1.6,Master,Jaipur,Software,48885.0
+44826,,Master,Delhi,Cloud,99151.0
+66932,12.5,PhD,Bangalore,Data Science,171390.0
+24383,2.9,PhD,Hyderabad,Data Science,82049.0
+43890,8.9,Bachelor,Hyderabad,DevOps,84651.0
+65943,9.2,Bachelor,Jaipur,Software,84641.0
+23474,3.5,Master,Hyderabad,Software,73699.0
+80607,8.7,Bachelor,Pune,AI Research,107334.0
+15948,10.5,Bachelor,Jaipur,Software,97586.0
+68699,3.4,Master,Jaipur,AI Research,78080.0
+86403,1.2,Master,Delhi,Software,61977.0
+19995,0.7,Bachelor,Hyderabad,DevOps,27043.0
+19381,5.3,Bachelor,Jaipur,Data Science,62342.0
+15487,8.9,PhD,Hyderabad,Software,
+54590,7.9,PhD,Pune,AI Research,127726.0
+11071,9.3,Master,Pune,DevOps,114904.0
+62269,1.7,Master,Delhi,Data Science,70227.0
+42676,12.7,PhD,Delhi,DevOps,154343.0
+96803,8.1,Master,Bangalore,Cloud,99080.0
+63432,11.6,PhD,Hyderabad,Cloud,137107.0
+30068,12.8,PhD,Delhi,AI Research,176330.0
+28836,3.4,PhD,Jaipur,Cloud,88120.0
+31435,7.8,PhD,Bangalore,Data Science,124929.0
+90762,6.6,Master,Pune,Cloud,86858.0
+85877,14.6,Master,Pune,Data Science,149484.0
+68298,2.1,PhD,Jaipur,Cloud,70524.0
+41832,2.4,Bachelor,Jaipur,DevOps,44287.0
+11239,7.8,PhD,Bangalore,DevOps,129309.0
+19590,3.4,Bachelor,Pune,DevOps,38981.0
+35649,4.5,Master,Jaipur,Software,64082.0
+91766,8.0,Bachelor,Hyderabad,Data Science,95109.0
+70693,8.4,PhD,Bangalore,Software,129512.0
+68250,1.3,PhD,Jaipur,DevOps,70418.0
+91996,11.4,PhD,Jaipur,AI Research,159963.0
+77967,4.4,Master,Jaipur,DevOps,64804.0
+48367,6.1,Bachelor,Jaipur,DevOps,74850.0
+39042,14.7,Bachelor,Jaipur,Cloud,134461.0
+19388,1.2,Master,Hyderabad,Data Science,49893.0
+14683,1.3,Bachelor,Bangalore,Software,34524.0
+63478,4.3,Master,Pune,Software,75549.0
+50024,10.3,Master,Bangalore,Cloud,118111.0
+62300,,PhD,Delhi,Cloud,127450.0
+77667,11.1,Bachelor,Pune,Data Science,108668.0
+17591,5.1,Bachelor,Delhi,Software,65310.0
+64045,7.8,Master,Jaipur,Software,85238.0
+54033,2.0,PhD,Pune,DevOps,75298.0
+51272,,Master,Hyderabad,AI Research,99171.0
+98730,9.5,Master,Delhi,DevOps,107556.0
+39095,0.5,PhD,Pune,Cloud,67469.0
+23198,,Bachelor,Delhi,Software,96216.0
+81539,7.1,Master,Hyderabad,Data Science,98312.0
+24066,,Bachelor,Bangalore,Cloud,77509.0
+84977,5.6,PhD,Pune,Software,101941.0
+33928,11.3,Master,Hyderabad,AI Research,146479.0
+91780,5.7,Bachelor,Hyderabad,Data Science,72703.0
+67119,2.1,Master,Bangalore,DevOps,73405.0
+48767,7.6,PhD,Delhi,AI Research,134660.0
+60611,9.1,Bachelor,Pune,AI Research,115096.0
+27864,8.3,Bachelor,Pune,Cloud,77338.0
+38648,5.9,PhD,Hyderabad,Data Science,113976.0
+79962,4.5,Bachelor,Hyderabad,Cloud,62301.0
+90754,12.9,Master,Bangalore,Software,131265.0
+61942,5.9,Bachelor,Delhi,AI Research,102474.0
+50350,9.6,Bachelor,Pune,AI Research,107845.0
+90189,12.5,Master,Jaipur,Software,125827.0
+19077,6.1,Master,Pune,AI Research,100371.0
+47616,12.1,Master,Delhi,DevOps,140547.0
+93788,11.4,PhD,Hyderabad,Cloud,132803.0
+96447,10.2,Master,Jaipur,Software,115403.0
+36996,6.0,Master,Jaipur,Software,73154.0
+78869,5.3,Bachelor,Bangalore,Cloud,77661.0
+40837,6.2,PhD,Hyderabad,Data Science,107995.0
+53472,11.6,PhD,Bangalore,DevOps,155415.0
+12805,3.8,Master,Hyderabad,Cloud,56738.0
+26202,6.1,Bachelor,Pune,Cloud,70853.0
+35018,9.9,Master,Jaipur,DevOps,101324.0
+30326,10.2,PhD,Delhi,AI Research,158655.0
+80095,14.9,Bachelor,Hyderabad,AI Research,143094.0
+10490,8.5,PhD,Bangalore,Cloud,114767.0
+27162,1.3,Master,Pune,Software,43295.0
+99463,9.7,Master,Hyderabad,DevOps,117376.0
+41901,4.3,PhD,Pune,AI Research,95218.0
+93934,4.7,PhD,Bangalore,Software,102039.0
+97399,1.5,PhD,Jaipur,Data Science,76819.0
+22976,10.6,Bachelor,Delhi,AI Research,138542.0
+58177,8.9,Bachelor,Bangalore,DevOps,91642.0
+16328,14.3,Bachelor,Hyderabad,AI Research,140700.0
+77708,7.5,Bachelor,Delhi,Cloud,82680.0
+55232,5.3,Bachelor,Jaipur,AI Research,80066.0
+45228,8.5,PhD,Pune,Data Science,128671.0
+73804,14.1,Master,Bangalore,Data Science,152418.0
+12037,5.4,PhD,Delhi,Cloud,97617.0
+14298,14.5,Master,Jaipur,DevOps,144069.0
+76867,11.8,PhD,Bangalore,Software,138709.0
+84354,2.5,PhD,Jaipur,DevOps,80348.0
+92114,14.7,Bachelor,Hyderabad,AI Research,144590.0
+85741,,PhD,Delhi,Data Science,177339.0
+52592,13.1,Bachelor,Bangalore,Software,122084.0
+47219,11.0,Bachelor,Delhi,Software,118695.0
+18317,1.7,Bachelor,Jaipur,Cloud,39004.0
+23390,10.1,PhD,Hyderabad,Cloud,126382.0
+75512,3.8,PhD,Jaipur,Data Science,91727.0
+26519,2.6,PhD,Bangalore,DevOps,91730.0
+84209,6.5,Master,Hyderabad,DevOps,77328.0
+43748,5.7,PhD,Pune,Cloud,101017.0
+29119,13.6,Bachelor,Delhi,AI Research,151494.0
+55657,8.3,Bachelor,Delhi,DevOps,84920.0
+25398,10.8,Bachelor,Bangalore,Data Science,125742.0
+92390,2.0,PhD,Bangalore,Software,80457.0
+51639,8.5,PhD,Delhi,Software,116770.0
+21956,3.5,Bachelor,Hyderabad,Data Science,62199.0
+20832,9.4,Bachelor,Hyderabad,Cloud,87603.0
+43808,11.7,Bachelor,Pune,AI Research,125386.0
+75593,5.4,Bachelor,Bangalore,Cloud,80069.0
+54579,7.2,PhD,Pune,Cloud,114803.0
+70779,13.2,Bachelor,Hyderabad,AI Research,144704.0
+18392,5.2,Bachelor,Jaipur,DevOps,51733.0
+66099,5.9,Bachelor,Hyderabad,Software,73541.0
+96023,1.4,Master,Pune,Data Science,55212.0
+74988,1.1,Master,Pune,Data Science,60003.0
+16488,1.3,Master,Hyderabad,Software,44945.0
+82915,9.1,Master,Jaipur,Data Science,118451.0
+90616,1.1,Master,Pune,Software,56249.0
+25234,9.0,Master,Hyderabad,DevOps,108982.0
+23387,5.3,Bachelor,Pune,Cloud,60294.0
+51459,,PhD,Pune,Cloud,73055.0
+38586,10.9,Master,Bangalore,Software,122629.0
+51672,7.7,PhD,Hyderabad,DevOps,114156.0
+75208,6.6,Bachelor,Bangalore,DevOps,89774.0
+10530,5.7,Bachelor,Pune,AI Research,90696.0
+24325,3.1,Master,Bangalore,Data Science,83691.0
+12542,3.9,Bachelor,Jaipur,Software,44185.0
+53544,8.7,Master,Bangalore,Cloud,106242.0
+95188,13.9,Master,Pune,DevOps,145373.0
+39320,12.9,Master,Pune,Software,136498.0
+75727,2.3,Bachelor,Bangalore,Software,59081.0
+86519,10.8,Master,Pune,AI Research,142238.0
+45287,6.4,Bachelor,Delhi,Data Science,93763.0
+88462,14.0,PhD,Pune,Software,143330.0
+86053,12.7,Bachelor,Pune,AI Research,139946.0
+27182,9.8,PhD,Hyderabad,Cloud,128001.0
+98780,3.0,Bachelor,Pune,Cloud,49865.0
+47733,5.6,Master,Bangalore,Data Science,101342.0
+56285,9.5,PhD,Pune,Cloud,127513.0
+42242,12.8,Bachelor,Bangalore,Cloud,132693.0
+20486,6.2,Master,Jaipur,AI Research,104580.0
+77163,9.3,Master,Hyderabad,Data Science,108469.0
+88075,14.7,Bachelor,Bangalore,AI Research,161236.0
+80988,7.4,Bachelor,Bangalore,Cloud,86782.0
+72523,9.9,Bachelor,Delhi,AI Research,127707.0
+42844,14.9,Master,Bangalore,Data Science,166162.0
+30970,12.6,PhD,Hyderabad,Cloud,149127.0
+11338,8.5,Master,Jaipur,Cloud,103105.0
+25435,7.4,Master,Jaipur,Cloud,83376.0
+15963,2.6,Master,Pune,Software,60531.0
+49130,7.0,Master,Bangalore,Cloud,104284.0
+15539,14.1,PhD,Jaipur,DevOps,146990.0
+69879,11.1,Bachelor,Hyderabad,Software,108838.0
+58782,5.0,Bachelor,Delhi,AI Research,81712.0
+92021,6.7,Master,Delhi,Software,97430.0
+47036,12.4,Bachelor,Pune,DevOps,109154.0
+70484,13.2,PhD,Hyderabad,DevOps,146986.0
+56302,12.3,Bachelor,Hyderabad,Cloud,112524.0
+40666,12.6,Bachelor,Jaipur,DevOps,104601.0
+98023,3.4,Bachelor,Bangalore,Cloud,64385.0
+37783,12.0,Master,Pune,AI Research,142510.0
+82952,9.3,Bachelor,Delhi,AI Research,116686.0
+83372,8.0,Master,Jaipur,Cloud,92589.0
+66764,13.5,Master,Delhi,Cloud,145411.0
+74818,3.6,Bachelor,Pune,AI Research,66284.0
+96822,6.7,Bachelor,Pune,Software,71665.0
+97934,,Bachelor,Pune,Software,69583.0
+43676,8.5,Bachelor,Hyderabad,Software,78095.0
+19180,8.3,Bachelor,Delhi,Software,100682.0
+48077,0.9,PhD,Bangalore,DevOps,70530.0
+79936,1.3,Master,Bangalore,Cloud,54156.0
+80296,12.2,PhD,Pune,DevOps,149512.0
+72707,11.6,PhD,Bangalore,AI Research,159629.0
+93024,13.5,PhD,Delhi,DevOps,166728.0
+75105,5.3,PhD,Pune,Data Science,96367.0
+72959,6.9,Master,Pune,Data Science,90030.0
+12054,7.2,Bachelor,Hyderabad,DevOps,83960.0
+52520,5.7,Bachelor,Bangalore,Cloud,79522.0
+86702,8.9,Master,Pune,AI Research,113904.0
+83826,1.3,PhD,Pune,DevOps,70136.0
+84600,1.8,Bachelor,Bangalore,Data Science,66622.0
+61123,8.9,PhD,Jaipur,Cloud,121657.0
+80067,6.1,Bachelor,Jaipur,Data Science,85664.0
+17893,13.2,PhD,Jaipur,DevOps,141786.0
+16537,14.9,PhD,Bangalore,Cloud,179041.0
+91539,4.2,PhD,Jaipur,AI Research,94855.0
+86285,9.9,Master,Delhi,DevOps,116206.0
+39510,13.2,PhD,Pune,Software,150581.0
+91456,12.5,PhD,Bangalore,Software,155335.0
+16409,7.3,Master,Pune,AI Research,115834.0
+48617,10.9,Bachelor,Delhi,DevOps,119966.0
+19594,2.3,PhD,Hyderabad,Software,69742.0
+80209,8.9,Master,Hyderabad,DevOps,102160.0
+73230,9.7,Bachelor,Hyderabad,DevOps,83184.0
+21284,3.9,Master,Jaipur,Cloud,65015.0
+67255,7.6,Master,Jaipur,Data Science,111247.0
+48052,10.6,Bachelor,Pune,Cloud,103819.0
+30087,6.4,PhD,Jaipur,Data Science,119560.0
+42156,9.6,Master,Pune,DevOps,99152.0
+47286,7.0,Bachelor,Delhi,AI Research,98838.0
+15107,7.8,Bachelor,Bangalore,Software,98628.0
+72198,12.4,Master,Hyderabad,Cloud,124540.0
+57012,11.8,Bachelor,Hyderabad,DevOps,111477.0
+76824,4.8,Bachelor,Bangalore,Data Science,77864.0
+39034,6.2,Master,Bangalore,Data Science,111430.0
+63520,4.2,Master,Jaipur,Data Science,69677.0
+10239,14.8,Master,Pune,DevOps,138885.0
+94808,12.1,Master,Hyderabad,AI Research,153075.0
+17611,7.6,Bachelor,Bangalore,Software,84855.0
+28858,3.7,Bachelor,Bangalore,DevOps,58844.0
+30578,11.8,Master,Delhi,Software,137772.0
+71969,11.2,PhD,Pune,AI Research,157376.0
+85557,4.3,Master,Bangalore,Data Science,95070.0
+11149,0.9,Master,Jaipur,Software,46059.0
+77014,3.1,Master,Bangalore,DevOps,81467.0
+71413,12.1,Bachelor,Pune,DevOps,110676.0
+55607,7.6,Master,Delhi,Software,94518.0
+92282,11.7,PhD,Jaipur,DevOps,135402.0
+59614,13.5,Bachelor,Delhi,Software,122107.0
+70102,2.7,Bachelor,Bangalore,Cloud,52068.0
+65771,7.9,Bachelor,Bangalore,Data Science,110084.0
+69188,3.1,PhD,Jaipur,DevOps,84187.0
+27913,14.5,Master,Bangalore,AI Research,173659.0
+39960,8.5,Bachelor,Hyderabad,Cloud,92119.0
+30846,13.0,Bachelor,Pune,DevOps,123208.0
+70196,1.1,Bachelor,Pune,AI Research,43826.0
+31086,4.9,Master,Jaipur,Data Science,87710.0
+92358,5.4,PhD,Pune,Software,
+82476,7.3,PhD,Jaipur,AI Research,126403.0
+29044,13.3,Bachelor,Bangalore,Cloud,129197.0
+20344,13.4,PhD,Jaipur,DevOps,155588.0
+48650,12.1,Bachelor,Pune,AI Research,135060.0
+47136,3.1,Master,Bangalore,DevOps,72456.0
+82534,5.8,Bachelor,Jaipur,Cloud,70456.0
+70554,3.5,Master,Bangalore,DevOps,81379.0
+32400,2.1,Master,Delhi,AI Research,84039.0
+83247,3.5,Bachelor,Bangalore,DevOps,51828.0
+43893,5.7,PhD,Pune,AI Research,109424.0
+46688,9.3,Bachelor,Bangalore,Data Science,107139.0
+45687,6.2,PhD,Hyderabad,AI Research,117740.0
+68510,2.8,Master,Pune,Data Science,77020.0
+38625,9.9,Master,Bangalore,Data Science,136528.0
+32053,9.7,PhD,Delhi,Cloud,129601.0
+58951,12.1,Master,Bangalore,Software,138858.0
+89208,9.2,Bachelor,Jaipur,Data Science,90443.0
+58251,8.0,Bachelor,Pune,Data Science,85090.0
+51224,2.6,Bachelor,Hyderabad,DevOps,51719.0
+62881,8.2,Bachelor,Pune,Cloud,91355.0
+43536,5.9,Master,Pune,AI Research,93663.0
+71170,2.8,Master,Jaipur,DevOps,63783.0
+24181,3.6,PhD,Jaipur,Data Science,98621.0
+55355,6.2,Bachelor,Delhi,AI Research,95546.0
+68780,11.5,PhD,Bangalore,Software,147549.0
+86080,0.8,Bachelor,Pune,Software,32779.0
+37439,6.9,Master,Jaipur,Data Science,102495.0
+27771,3.8,Bachelor,Bangalore,Software,64534.0
+38852,7.1,Master,Delhi,Cloud,102579.0
+32092,6.3,Bachelor,Delhi,Software,84758.0
+17219,14.3,Master,Jaipur,DevOps,132752.0
+56776,1.8,Bachelor,Jaipur,Software,40536.0
+70092,9.1,PhD,Jaipur,Data Science,
+17525,5.6,Bachelor,Pune,Cloud,74064.0
+13231,1.5,Bachelor,Pune,DevOps,35567.0
+32429,7.9,Bachelor,Bangalore,Software,97049.0
+52834,8.3,Master,Hyderabad,Cloud,97762.0
+99852,0.8,Master,Hyderabad,DevOps,35877.0
+89462,9.7,Bachelor,Delhi,Data Science,106749.0
+38216,6.0,PhD,Pune,Software,
+76605,13.0,Master,Bangalore,DevOps,150394.0
+59740,1.5,Bachelor,Delhi,AI Research,73650.0
+34227,5.9,Bachelor,Pune,Data Science,74569.0
+75808,11.2,Master,Bangalore,Data Science,129051.0
+84361,1.6,PhD,Hyderabad,Cloud,61330.0
+77326,8.7,Bachelor,Hyderabad,AI Research,108163.0
+73385,9.9,Bachelor,Hyderabad,Cloud,97750.0
+99645,8.3,PhD,Hyderabad,Software,120997.0
+73040,2.5,Bachelor,Delhi,DevOps,54023.0
+43999,5.9,Master,Delhi,AI Research,115651.0
+13538,7.7,PhD,Hyderabad,AI Research,128325.0
+88842,3.9,Master,Bangalore,Cloud,68995.0
+98529,2.7,Bachelor,Hyderabad,Data Science,50484.0
+45744,3.7,PhD,Delhi,AI Research,112629.0
+46864,13.7,Bachelor,Jaipur,Software,122403.0
+57625,12.3,PhD,Bangalore,DevOps,160407.0
+80662,10.4,Master,Pune,Software,109450.0
+21033,3.6,Bachelor,Delhi,Data Science,65899.0
+73723,6.8,PhD,Bangalore,AI Research,133198.0
+49137,1.3,Bachelor,Hyderabad,Cloud,27522.0
+15238,8.3,Master,Pune,DevOps,103276.0
+43940,11.0,Master,Pune,DevOps,110263.0
+25880,14.3,Master,Pune,AI Research,169813.0
+72800,6.5,Master,Bangalore,Software,87664.0
+53427,12.9,PhD,Pune,Data Science,148684.0
+64155,5.2,Bachelor,Jaipur,AI Research,88433.0
+95443,14.4,Bachelor,Hyderabad,Software,129524.0
+20125,2.9,Master,Delhi,DevOps,60955.0
+58076,5.0,Master,Bangalore,Software,81786.0
+86482,2.5,Bachelor,Delhi,Software,50702.0
+70719,6.0,Bachelor,Delhi,Data Science,83434.0
+60480,5.0,PhD,Jaipur,Data Science,90559.0
+38297,1.0,PhD,Hyderabad,DevOps,69730.0
+35316,,PhD,Jaipur,AI Research,102412.0
+96711,10.7,PhD,Hyderabad,DevOps,139558.0
+22775,4.4,PhD,Delhi,AI Research,112747.0
+72548,9.5,Bachelor,Delhi,Cloud,91767.0
+54476,7.7,PhD,Jaipur,AI Research,134807.0
+33430,8.3,PhD,Jaipur,Software,115031.0
+79231,10.0,Master,Bangalore,Cloud,112112.0
+32649,14.7,PhD,Delhi,Data Science,174614.0
+49871,3.4,PhD,Bangalore,AI Research,104335.0
+93981,6.0,Bachelor,Jaipur,DevOps,60417.0
+64557,7.0,Master,Bangalore,Cloud,106281.0
+31928,8.6,Bachelor,Pune,AI Research,100724.0
+91113,6.4,Master,Delhi,AI Research,122767.0
+19955,7.7,Master,Delhi,AI Research,119954.0
+54636,11.1,Master,Delhi,Cloud,126857.0
+55049,12.4,PhD,Pune,DevOps,143141.0
+70886,5.2,Bachelor,Pune,DevOps,65901.0
+30982,14.5,Master,Hyderabad,Cloud,148522.0
+94021,13.9,Bachelor,Bangalore,AI Research,160937.0
+51474,3.3,Master,Bangalore,DevOps,71387.0
+68778,1.4,PhD,Delhi,Cloud,73064.0
+43015,9.3,Master,Jaipur,Cloud,107001.0
+73289,14.7,Master,Hyderabad,Data Science,151417.0
+11494,8.8,Master,Delhi,Cloud,107591.0
+77736,14.5,PhD,Delhi,AI Research,193839.0
+11647,1.9,Master,Delhi,Data Science,71954.0
+20328,11.1,PhD,Pune,Cloud,125082.0
+63933,10.6,PhD,Jaipur,AI Research,157009.0
+19139,4.7,Bachelor,Pune,DevOps,56247.0
+29288,9.6,Master,Pune,Software,114552.0
+47771,14.4,Master,Pune,AI Research,155692.0
+44894,3.1,Bachelor,Hyderabad,Software,42920.0
+26492,5.0,PhD,Bangalore,Data Science,117011.0
+56964,14.2,Master,Pune,Cloud,144961.0
+14866,3.3,Bachelor,Jaipur,AI Research,68334.0
+72680,4.1,Master,Jaipur,DevOps,61197.0
+71893,7.1,Master,Pune,Cloud,85251.0
+61125,6.3,Bachelor,Jaipur,Data Science,75185.0
+80093,7.8,Bachelor,Pune,Cloud,78448.0
+50882,14.5,Master,Hyderabad,Software,135697.0
+76626,10.7,PhD,Bangalore,Software,133935.0
+12794,8.5,PhD,Delhi,AI Research,141472.0
+21744,10.1,Bachelor,Delhi,DevOps,
+98833,4.1,Master,Hyderabad,AI Research,81007.0
+37244,8.8,Bachelor,Delhi,Data Science,110602.0
+38836,5.2,Master,Delhi,DevOps,82299.0
+34478,9.4,Bachelor,Pune,Software,94809.0
+36047,4.2,PhD,Pune,Data Science,88993.0
+54780,7.8,Bachelor,Pune,Software,88638.0
+28076,4.9,PhD,Pune,Software,87082.0
+55518,6.2,PhD,Jaipur,Data Science,102447.0
+11076,9.5,PhD,Pune,Data Science,131106.0
+41467,10.0,Master,Jaipur,Data Science,110147.0
+80639,13.5,PhD,Hyderabad,Data Science,160240.0
+29907,5.2,PhD,Pune,Data Science,103200.0
+87608,9.5,Master,Bangalore,DevOps,125120.0
+65658,13.5,PhD,Hyderabad,Software,152525.0
+68714,8.9,Bachelor,Bangalore,Software,90145.0
+66811,9.0,Master,Pune,AI Research,114587.0
+17507,7.7,PhD,Bangalore,Cloud,116388.0
+46980,14.0,Bachelor,Delhi,DevOps,126862.0
+76813,2.8,PhD,Pune,Software,80497.0
+38430,,Bachelor,Bangalore,Cloud,139236.0
+52972,1.4,Master,Pune,AI Research,66796.0
+69427,0.6,Bachelor,Delhi,Cloud,42992.0
+46432,8.9,PhD,Delhi,AI Research,148601.0
+96959,11.8,PhD,Pune,AI Research,153290.0
+98576,12.5,PhD,Bangalore,Cloud,149314.0
+87296,12.5,Bachelor,Jaipur,Cloud,115377.0
+29861,1.0,Bachelor,Bangalore,Data Science,50143.0
+41668,3.3,Master,Hyderabad,AI Research,86730.0
+19367,11.9,Bachelor,Bangalore,Cloud,121115.0
+49874,3.8,PhD,Jaipur,AI Research,111494.0
